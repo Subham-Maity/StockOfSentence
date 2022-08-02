@@ -1,4 +1,5 @@
-# What is Random Sentence Generator(very basic program)
+# What is Random Sentence Generator (Note: A React app with a custom API is being developed on Heroku. I have included only a conceptual clean java code here.)
+
 
 ### Basic Random Sentence Generator from Your Own Data Set -
 #### The purpose of this code is for beginners who want to keep motivated to code by making their own dataset and adding sentences on a regular basis as well as increase the stock of sentences.
@@ -87,6 +88,8 @@ public class CodeXam {
 
 
 ```
+
+
 
 
 
