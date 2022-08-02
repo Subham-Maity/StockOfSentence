@@ -9,6 +9,11 @@
 
 https://user-images.githubusercontent.com/97989643/182400053-a7d16fee-6658-4826-b38f-d6255f0a9f82.mp4
 
+# Could you please tell me how I can add my sentence to this website?
+* ### 😎👇
+
+![guide](https://user-images.githubusercontent.com/97989643/182409089-d7e0a9ff-4798-47fa-be7f-2bc38f9d2f19.jpg)
+
 
 
 
