@@ -3,7 +3,9 @@
 ### Basic Random Sentence Generator from Your Own Data Set -
 #### The purpose of this code is for beginners who want to keep motivated to code by making their own dataset and adding sentences on a regular basis as well as increase the stock of sentences.
 
-Note: You should update your database once a day using online IDE, and you should run the program daily to refresh your stock of data 
+Note: 
+* You should update your database once a day using online IDE, and you should run the program daily to refresh your stock of data 
+* Adding and memorizing one sentence every day gives you the ability to learn 365 sentences in a year if you double or triple it, it will increase your stock of sentences by twice or three times. 
 
 ## In JAVA (Structure of the code is given below) - Clean Code
 
