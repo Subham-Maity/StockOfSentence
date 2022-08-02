@@ -1,18 +1,8 @@
-# What is Random Sentence Generator(very basic program)
-
-### Basic Random Sentence Generator from Your Own Data Set -
-#### the motive for this making this code is for the beginner who enjoys making their own dataset and then regular adding sentence keep motivated to code as well as the fun of increase stock of sentence
-
-Note: You should update your database once a day using online IDE, and you should run the program daily to refresh your stock of data 
-
-## In JAVA (Structure of the code is given below) - Clean Code
-
-```java
 import java.util.Random;
 // basic random sentence generator in from  your own data set
 public class CodeXam {
 
-//========================================================================================================================================================
+//==================================================================================================================================================================
     /*
        RULE 0:  ADD MOVIE NAME WITH LINE AND MEANING OF THE LINE
 
@@ -20,7 +10,7 @@ public class CodeXam {
 
       RULE 2 : Replicate LAST Line from OPERATE FUNCTION - THEN REPLACE THE NEXT NUMBER IN CASE FUNCTION AND CHANGE THE LINE NO(STRING REFERENCE)
      * */
-//=======================================================================================================================================================
+//==================================================================================================================================================================
 
     // DATA ADD WITH COUNTING - DATA SET
     public static void main(String[] args) {
@@ -42,8 +32,8 @@ public class CodeXam {
 
 
 
-        //______________________________________________________________________________________________________________________________
-        //______________________________________________________________________________________________________________________________
+    //______________________________________________________________________________________________________________________________
+    //______________________________________________________________________________________________________________________________
 
 
 
@@ -51,8 +41,8 @@ public class CodeXam {
         System.out.println("Total Dataset Added: " + row_increase);
 
 
-        //______________________________________________________________________________________________________________________________
-        //______________________________________________________________________________________________________________________________
+    //______________________________________________________________________________________________________________________________
+    //______________________________________________________________________________________________________________________________
 
 
 
@@ -78,13 +68,15 @@ public class CodeXam {
                 System.out.println(comp_input + " No Line. " + line3 + "\n" + "Hinglish meaning of this line  : " + meaning3);
             }
             break;
-       }
+
+
+
+
+
+
+
+
+      }
     }
 }
-
-
-```
-
-
-
 
