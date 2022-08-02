@@ -1,7 +1,7 @@
 # What is Random Sentence Generator(very basic program)
 
 ### Basic Random Sentence Generator from Your Own Data Set -
-#### the motive for this making this code is for the beginner who enjoys making their own dataset and then regular adding sentence keep motivated to code as well as the fun of increase stock of sentence
+#### The purpose of this code is for beginners who want to keep motivated to code by making their own dataset and adding sentences on a regular basis as well as increase the stock of sentences.
 
 Note: You should update your database once a day using online IDE, and you should run the program daily to refresh your stock of data 
 
