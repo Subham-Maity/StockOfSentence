@@ -2,7 +2,7 @@
 
 * ### 😎 With this app, you can generate random sentences that you already know every day in order to improve your sentence comprehension.
 
-# Why we need this app ?
+# Why so we need this app ?
 * ### 😎 As you watch a movie or read a book, you might find some interesting sentences. Save them to your own database, and this app will help you recall them.
 
 ![Random](https://user-images.githubusercontent.com/97989643/182381016-96bd10d4-1221-4930-b201-c235b01a80a5.png)
