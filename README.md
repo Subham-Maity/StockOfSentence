@@ -1,6 +1,12 @@
-# What is Random Sentence Generator (Note: A React app with a custom API is being developed on Heroku. I have included only a conceptual clean java code here.)
+# What is [Random Sentence Generator](https://subham-maity.github.io/RandomSentenceGenerator/) ?
+
+* ### 😎 With this app, you can generate random sentences that you already know every day in order to improve your sentence comprehension.
+
+# Why we need this app ?
+* ### 😎 As you watch a movie or read a book, you might find some interesting sentences. Save them to your own database, and this app will help you recall them.
 
 
+**********************************************
 ### Basic Random Sentence Generator from Your Own Data Set -
 #### The purpose of this code is for beginners who want to keep motivated to code by making their own dataset and adding sentences on a regular basis as well as increase the stock of sentences.
 
@@ -9,7 +15,10 @@ Note:
   * [Online IDE](https://www.programiz.com/java-programming/online-compiler/) 
 * Adding and memorizing one sentence every day gives you the ability to learn 365 sentences in a year if you double or triple it, it will increase your stock of sentences by twice or three times. 
 
-## In JAVA (Structure of the code is given below) - Clean Code
+## Basic Concept of this App - In JAVA (Structure of the code is given below) - Clean Code
+In our website we use the following structure of the code -
+
+```
 
 ```java
 import java.util.Random;
