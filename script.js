@@ -12,6 +12,11 @@ generate = () => {
     "Ig: The Knowledge Spreader": "Make your bed  ~ Hinglish meaning of this line  : Bistar sahi karo ",
     "Ig: The Knowledge Spreader": "This is no brainer  ~ Hinglish meaning of this line  : Isme Zyada Dimag Lagane ki Zaroorat Nahi hai ",
     "Ig: The Knowledge Spreader": "I've had anough of you  ~ Hinglish meaning of this line  : Mai tumhe bohot jhel chuki hun ",
+    "Ig: The Knowledge Spreader": "Asthma  ~ Pronounce  : Az-Ma ",
+    "Ig: The Knowledge Spreader": "Breakfast  ~ Pronounce  : Break-fst ",
+    "Ig: The Knowledge Spreader": "Dessert  ~ Pronounce  : Di-Zuhrt ",
+    "Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro ",
+    "Ig: The Knowledge Spreader": "Jewellery  ~ Pronounce  : Jool-Ri ",
   };
 
   
