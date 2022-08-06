@@ -15,8 +15,8 @@ generate = () => {
     "Ig: The Knowledge Spreader": "Asthma  ~ Pronounce  : Az-Ma ",
     "Ig: The Knowledge Spreader": "Breakfast  ~ Pronounce  : Break-fst ",
     "Ig: The Knowledge Spreader": "Dessert  ~ Pronounce  : Di-Zuhrt ",
-    "Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro ",
     "Ig: The Knowledge Spreader": "Jewellery  ~ Pronounce  : Jool-Ri ",
+    "Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro ",
   };
 
   
