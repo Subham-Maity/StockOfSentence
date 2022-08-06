@@ -172,11 +172,11 @@ body {
   left: 0;
   opacity: 0;
   width: 100%;
-  color: #323237;
+  color: #adadaf;
   display: block;
   transition: 0.5s;
   position: absolute;
-  background: #bee5eb;
+  background: #1f2b41;
   content: attr(data-back);
   transform: translateY(-50%) rotateX(90deg);
 }
@@ -184,13 +184,13 @@ body {
   top: 0;
   left: 0;
   opacity: 1;
-  color: #adadaf;
+  color: #323237;
   display: block;
   padding: 0 30px;
   line-height: 40px;
   transition: 0.5s;
   position: relative;
-  background: #1f2b41;
+  background: #bee5eb;
   content: attr(data-front);
   transform: translateY(0) rotateX(0);
 }
@@ -252,5 +252,4 @@ body {
 		);
 	}
 }
-
 
