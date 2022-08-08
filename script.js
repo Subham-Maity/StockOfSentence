@@ -17,6 +17,14 @@ generate = () => {
     "8-Ig: The Knowledge Spreader": "Dessert  ~ Pronounce  : Di-Zuhrt ",
     "9-Ig: The Knowledge Spreader": "Jewellery  ~ Pronounce  : Jool-Ri ",
     "10-Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro ",
+    "2-Random ": "Cynophile ~ A person who loves dogs , Dog lover 🐕",
+    "3-Random ": "Musicophile ~ One who loves music 🎸",
+    "4-Random ": "Autophile ~ A person who loves being alone. 😔",
+    "5-Random ": "Dendrophile ~ A person who loves trees 🌴",
+    "6-Random ": "Hodophile ~ One who loves to travel ✈️",
+    "7-Random ": "Thalassophile ~ Someone who loves the sea 🌊",
+    "8-Random ": "Selenophile ~ a person who loves the moon 🌚",
+    "9-Random ": "Astrophile ~ One who loves stars or astronomy 🚀",
   };
 
   
