@@ -25,6 +25,17 @@ generate = () => {
     "7-Random ": "Thalassophile ~ Someone who loves the sea 🌊",
     "8-Random ": "Selenophile ~ a person who loves the moon 🌚",
     "9-Random ": "Astrophile ~ One who loves stars or astronomy 🚀",
+    "1-Ocean English Academy": "Thank you for showering me with a lot of love ~ Hinglish meaning of this line  : Mere upar itna sara payar barsane k liye bohot sukriya app sabhika😘💕",
+    "2-Ocean English Academy": "This is what I did ~ Hinglish meaning of this line  : Jo maine kiya tha 🙂",
+    "3-Ocean English Academy": "I just need to make sure ~ Hinglish meaning of this line  : mujhe bas yah sunishchit karane kee zaroorat hai 🙄",
+    "4-Ocean English Academy": "I do mean it,In real life ~ Hinglish meaning of this line  : mera matalab hai, vaastavik jeevan mein 😒",
+    "5-Ocean English Academy": "I don't want to bombard with you lots of motivation ~ Hinglish meaning of this line  : main aapake saath dher saaree preranaon kee bauchhaar nahin karana chaahata 😁",
+    "6-Ocean English Academy": "This is what I did ~ Hinglish meaning of this line  : Jo maine kiya tha 🙂",
+    "7-Ocean English Academy": "May/Could I speak to Subham ? / If you confirm - Is this subham I'm talking to? ~ Hinglish meaning of this line  : Keya mai subham se baad kar sakhta hun ? 🤙",
+    "8-Ocean English Academy": "Yes this is he.Please tell me how could I be of help ?~ Hinglish meaning of this line  : haan yah vahee hai.krpaya mujhe batao ki main kaise madad kar sakata hoon? 🤔",
+    "9-Ocean English Academy": "The reason I am calling is to........ ~ Hinglish meaning of this line  : Maine jis liye call kiya wo hai 🙂",
+    "10-Ocean English Academy": "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : Just a quick call to update you that today's meeting has been called off🙂",
+
   };
 
   
