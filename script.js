@@ -34,8 +34,8 @@ generate = () => {
     "7-Ocean English Academy": "May/Could I speak to Subham ? / If you confirm - Is this subham I'm talking to? ~ Hinglish meaning of this line  : Keya mai subham se baad kar sakhta hun ? 🤙",
     "8-Ocean English Academy": "Yes this is he.Please tell me how could I be of help ?~ Hinglish meaning of this line  : haan yah vahee hai.krpaya mujhe batao ki main kaise madad kar sakata hoon? 🤔",
     "9-Ocean English Academy": "The reason I am calling is to........ ~ Hinglish meaning of this line  : Maine jis liye call kiya wo hai 🙂",
-    "10-Ocean English Academy": "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : Just a quick call to update you that today's meeting has been called off🙂",
-
+    "10-Ocean English Academy": "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : aapako apadet karane ke lie bas ek tvarit kol ki aaj kee baithak ko band kar diya gaya hai🙂",
+    "10-Random ": "skeptical ~ an attitude of doubt 🤔",
   };
 
   
