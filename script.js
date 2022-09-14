@@ -36,6 +36,7 @@ generate = () => {
     "9-Ocean English Academy": "The reason I am calling is to........ ~ Hinglish meaning of this line  : Maine jis liye call kiya wo hai 🙂",
     "10-Ocean English Academy": "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : aapako apadet karane ke lie bas ek tvarit kol ki aaj kee baithak ko band kar diya gaya hai🙂",
     "10-Random ": "skeptical ~ an attitude of doubt 🤔",
+    "11-Random ": "I just took a year off.The love of fitness never fades ~ mainne abhee ek saal kee chhuttee lee hai.fitness ka pyaar kabhee kam nahin hota 💪",
   };
 
   
