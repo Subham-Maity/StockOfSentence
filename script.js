@@ -38,6 +38,13 @@ generate = () => {
     "10-Random ": "skeptical ~ an attitude of doubt 🤔",
     "11-Random ": "I just took a year off.The love of fitness never fades ~ mainne abhee ek saal kee chhuttee lee hai.fitness ka pyaar kabhee kam nahin hota 💪",
     "12-Random ": " I'll confront him  ~ main usaka saamana karoonga 💪 ",
+    "13-Random ": "Love is unconditional when you can bolster that person through ETERNITY!",
+    "14-Random ": "very weird  ~ Bizzare " ,
+    "15-Random ": "Iron ~ Pronounce : Ion" ,
+    "16-Random ": "Touch wood ! ~ Hinglish meaning of this word : khi nazar n lge ",
+    "17-Random ": "Many-Many happy returns of the day ! ~ Hinglish meaning of this line  : Bhagwan kre yeh din bar bar aaye !" ,
+    "18- Random ": "I screwed up ~  Hinglish meaning of this line  : It's my mistake." ,
+
 
   };
 
