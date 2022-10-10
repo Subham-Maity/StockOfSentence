@@ -39,13 +39,16 @@ generate = () => {
     "11-Random ": "I just took a year off.The love of fitness never fades ~ mainne abhee ek saal kee chhuttee lee hai.fitness ka pyaar kabhee kam nahin hota 💪",
     "12-Random ": " I'll confront him  ~ main usaka saamana karoonga 💪 ",
     "13-Random ": "Love is unconditional when you can bolster that person through ETERNITY!",
-    "14-Random ": "very weird  ~ Bizzare " ,
-    "15-Random ": "Iron ~ Pronounce : Ion" ,
-    "16-Random ": "Touch wood ! ~ Hinglish meaning of this word : khi nazar n lge ",
-    "17-Random ": "Many-Many happy returns of the day ! ~ Hinglish meaning of this line  : Bhagwan kre yeh din bar bar aaye !" ,
-    "18- Random ": "I screwed up ~  Hinglish meaning of this line  : It's my mistake." ,
-
-
+    "14-Random ": "very weird  ~ Bizzare 🦉 " ,
+    "15-Random ": "Iron ~ Pronounce : Ion 😸" ,
+    "16-Random ": "Touch wood ! ~ Hinglish meaning of this word : khi nazar n lge 🌚 ",
+    "17-Random ": "Many-Many happy returns of the day ! ~ Hinglish meaning of this line  : Bhagwan kre yeh din bar bar aaye ! 🙂" ,
+    "18-Random ": "I screwed up ~  Hinglish meaning of this line  : It's my mistake.🙄" ,
+    "20-Random ": "Blow your own trumpet ~ to talk about oneself or one's achievements especially in a way that shows that one is proud or too proud He had a very successful year and has every right to blow his own trumpet. 😎" ,
+    "21-Random ": "blow your own horn ~  to talk about oneself or one's achievements especially in a way that shows pride or too much pride We've had a very successful year, and I think we have a right to blow our own horn a little.😎" ,
+    "22-Random ": "blow the whistle ~ you report them to the authorities about illegal or immoral things that they may have done 😡" ,
+    "23-Random ": "When the pigs fly ~  used to say that one thinks that something will never happen.😮‍💨" ,
+    
   };
 
   
