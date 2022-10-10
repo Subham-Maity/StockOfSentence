@@ -101,13 +101,13 @@ generate = () => {
     "36-Random ":
       "Find people who will make you better - Michelle Obama ~ Meaning : Remove toxic people from your life",
     "37-Random ":
-      "Success🥇 is not final, Failiure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
+      "Success🥇 is not final, Failure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
     "38-Random ": 
       "Tough time⌛ never last, tough people 💪do - Robert schuller",
     "39-Random ":
       "No one is perfect that's why pencils✏️ have erasers - Wolfgang Rieve ~ Meaning : Stop being perfectionist.",
     "40-Random ":
-      "Except your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
+      "Accept your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
     "41-Random ":
       "Optimism is the faith that leads to achievement🥇. Nothing can be done without hope and confidence😊 - Helen Keller ~ Meaning : One should not loose hope, faith and confidence",
     "42-Random ":
@@ -124,6 +124,30 @@ generate = () => {
       "Never Let your memories be greater than your dreams 💭- Douglas Ivester",
     "48-Random ":
       "When every seems to be going against you, remember that the airplane✈️ takes off against the wind🌬️, not with it - Henery Ford ~ Meaning : Fight against your fear that's when you get to your destination",
+    "49-Random ":
+      "Don't find fault❌, find a remedy✔️; anybody can complain. - Henry Ford ~ Hinglish Meaning : Don't complain, find a solution",
+    "50-Random ":
+      "The journey of a thousand miles🛣️ begins with one1️⃣ step. - Lao Tzu ~ Meaning : Start with small steps, you will reach your destination",
+    "51-Random ":
+      "Criticism is easy; achievement🏆 is difficult. - Winston Churchill ~ Meaning : It's easy to criticize, but it's difficult to achieve",
+    "52-Random ":
+      "Whatever you are, be a good one💪. - Abraham Lincoln ~ Meaning : Be the best version of yourself",
+    "53-Random ":
+      "What a difference a day makes. - Ella Fitzgerald ~ Meaning : One day can change your life",
+    "54-Random ":
+      "The best way to predict the future🔮 is to create🛠️ it. - Abraham Lincoln ~ Meaning : Create your own future",
+    "55-Random ":
+      "The best revenge is massive success🙌. - Frank Sinatra ~ Meaning : Success is the best revenge",
+    "56-Random ":
+      "The only place where success comes before work👨‍💻 is in the dictionary📔. - Vidal Sassoon ~ Meaning : Success doesn't come easy",
+    "57-Random ":
+      "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson ~ Meaning : You are the creator of your own destiny",
+    "58-Random ":
+      "Life is what happens when you're busy⌚ making other plans. - John Lennon ~ Meaning : Life is unpredictable",
+    "59-Random ":
+      "Do not go where the path may lead❌, go instead where there is no path✔️ and leave a trail. - Ralph Waldo Emerson ~ Meaning : Don't follow the crowd, make your own path",
+    "60-Random ":
+      "The only way to do great work is to love😍 what you do👨‍💻. - Steve Jobs ~ Meaning : Do what you love",
     
     
       "1-Harry Potter ": 
