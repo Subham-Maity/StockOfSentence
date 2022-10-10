@@ -100,7 +100,31 @@ generate = () => {
       "YOLO - You Only Live Once  ~ Hinglish Meaning : Apna har din aise jiyo jaise ki aakhri ho",
     "36-Random ":
       "Find people who will make you better - Michelle Obama ~ Meaning : Remove toxic people from your life",
-  };
+    "37-Random ":
+      "Success🥇 is not final, Failiure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
+    "38-Random ": 
+      "Tough time⌛ never last, tough people 💪do - Robert schuller",
+    "39-Random ":
+      "No one is perfect that's why pencils✏️ have erasers - Wolfgang Rieve ~ Meaning : Stop being perfectionist.",
+    "40-Random ":
+      "Except your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
+    "41-Random ":
+      "Optimism is the faith that leads to achievement🥇. Nothing can be done without hope and confidence😊 - Helen Keller ~ Meaning : One should not loose hope, faith and confidence",
+    "42-Random ":
+      "There are no shortcut's to any place🌄 worth going - Beverly Sills ~ Meaning : If you will get something immediately you will not get real essence of getting that",
+    "43-Random ":
+      "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible - Francis of assisi",
+    "44-Random ":
+      "Any fool can know. The point is to understand📔 - Albert Einstein ~ Meaning ~ Knowing is not enough, understanding is important",
+    "45-Random ":
+      "You don't drown by falling in the water🌊; you drown by staying there - Edcole ~ Meaning : Leave that place where you not getting what you want" ,
+    "46-Random ":
+      "Many life's failures are people who did not resalise how close they were to success when they gave up😞 - Thomas A. Edison ~ Meaning : Never gave up success is just one step away",  
+    "47-Random ":
+      "Never Let your memories be greater than your dreams 💭- Douglas Ivester",
+    "48-Random ":
+      "When every seems to be going against you, remember that the airplane✈️ takes off against the wind🌬️, not with it - Henery Ford ~ Meaning : Fight against your fear that's when you get to your destination"
+    };
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData);
