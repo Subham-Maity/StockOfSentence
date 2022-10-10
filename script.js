@@ -125,29 +125,29 @@ generate = () => {
     "48-Random ":
       "When every seems to be going against you, remember that the airplane✈️ takes off against the wind🌬️, not with it - Henery Ford ~ Meaning : Fight against your fear that's when you get to your destination",
     "49-Random ":
-      "Don't find fault, find a remedy; anybody can complain. - Henry Ford",
+      "Don't find fault❌, find a remedy✔️; anybody can complain. - Henry Ford ~ Hinglish Meaning : Don't complain, find a solution",
     "50-Random ":
-      "The journey of a thousand miles begins with one step. - Lao Tzu",
+      "The journey of a thousand miles🛣️ begins with one1️⃣ step. - Lao Tzu ~ Meaning : Start with small steps, you will reach your destination",
     "51-Random ":
-      "Criticism is easy; achievement is difficult. - Winston Churchill",
+      "Criticism is easy; achievement🏆 is difficult. - Winston Churchill ~ Meaning : It's easy to criticize, but it's difficult to achieve",
     "52-Random ":
-      "Whatever you are, be a good one. - Abraham Lincoln",
+      "Whatever you are, be a good one💪. - Abraham Lincoln ~ Meaning : Be the best version of yourself",
     "53-Random ":
-      "What a difference a day makes. - Ella Fitzgerald",
+      "What a difference a day makes. - Ella Fitzgerald ~ Meaning : One day can change your life",
     "54-Random ":
-      "The best way to predict the future is to create it. - Abraham Lincoln",
+      "The best way to predict the future🔮 is to create🛠️ it. - Abraham Lincoln ~ Meaning : Create your own future",
     "55-Random ":
-      "The best revenge is massive success. - Frank Sinatra",
+      "The best revenge is massive success🙌. - Frank Sinatra ~ Meaning : Success is the best revenge",
     "56-Random ":
-      "The only place where success comes before work is in the dictionary. - Vidal Sassoon",
+      "The only place where success comes before work👨‍💻 is in the dictionary📔. - Vidal Sassoon ~ Meaning : Success doesn't come easy",
     "57-Random ":
-      "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson",
+      "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson ~ Meaning : You are the creator of your own destiny",
     "58-Random ":
-      "Life is what happens when you're busy making other plans. - John Lennon",
+      "Life is what happens when you're busy⌚ making other plans. - John Lennon ~ Meaning : Life is unpredictable",
     "59-Random ":
-      "Do not go where the path may lead, go instead where there is no path and leave a trail. - Ralph Waldo Emerson",
+      "Do not go where the path may lead❌, go instead where there is no path✔️ and leave a trail. - Ralph Waldo Emerson ~ Meaning : Don't follow the crowd, make your own path",
     "60-Random ":
-      "The only way to do great work is to love what you do. - Steve Jobs",
+      "The only way to do great work is to love😍 what you do👨‍💻. - Steve Jobs ~ Meaning : Do what you love",
     
     
       "1-Harry Potter ": 
