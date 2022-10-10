@@ -101,13 +101,13 @@ generate = () => {
     "36-Random ":
       "Find people who will make you better - Michelle Obama ~ Meaning : Remove toxic people from your life",
     "37-Random ":
-      "Success🥇 is not final, Failiure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
+      "Success🥇 is not final, Failure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
     "38-Random ": 
       "Tough time⌛ never last, tough people 💪do - Robert schuller",
     "39-Random ":
       "No one is perfect that's why pencils✏️ have erasers - Wolfgang Rieve ~ Meaning : Stop being perfectionist.",
     "40-Random ":
-      "Except your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
+      "Accept your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
     "41-Random ":
       "Optimism is the faith that leads to achievement🥇. Nothing can be done without hope and confidence😊 - Helen Keller ~ Meaning : One should not loose hope, faith and confidence",
     "42-Random ":
@@ -124,6 +124,30 @@ generate = () => {
       "Never Let your memories be greater than your dreams 💭- Douglas Ivester",
     "48-Random ":
       "When every seems to be going against you, remember that the airplane✈️ takes off against the wind🌬️, not with it - Henery Ford ~ Meaning : Fight against your fear that's when you get to your destination",
+    "49-Random ":
+      "Don't find fault, find a remedy; anybody can complain. - Henry Ford",
+    "50-Random ":
+      "The journey of a thousand miles begins with one step. - Lao Tzu",
+    "51-Random ":
+      "Criticism is easy; achievement is difficult. - Winston Churchill",
+    "52-Random ":
+      "Whatever you are, be a good one. - Abraham Lincoln",
+    "53-Random ":
+      "What a difference a day makes. - Ella Fitzgerald",
+    "54-Random ":
+      "The best way to predict the future is to create it. - Abraham Lincoln",
+    "55-Random ":
+      "The best revenge is massive success. - Frank Sinatra",
+    "56-Random ":
+      "The only place where success comes before work is in the dictionary. - Vidal Sassoon",
+    "57-Random ":
+      "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson",
+    "58-Random ":
+      "Life is what happens when you're busy making other plans. - John Lennon",
+    "59-Random ":
+      "Do not go where the path may lead, go instead where there is no path and leave a trail. - Ralph Waldo Emerson",
+    "60-Random ":
+      "The only way to do great work is to love what you do. - Steve Jobs",
     
     
       "1-Harry Potter ": 
