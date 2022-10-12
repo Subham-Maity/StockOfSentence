@@ -29,7 +29,58 @@ public class CodeXam {
         String line3 = "The quick brown fox jumps over the lazy dog 3";
         String meaning3 = "A sentence 3";
         row_increase++;
+        
+        String line4 = "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्। उभौ तौ न विजानीतो नायं हन्ति न हन्यते॥ "
+        String meaning4 = "He who thinks that the soul kills, and he who thinks of it as killed, are both ignorant. The soul kills not, nor is it killed."
+        row_increase++;
+        
+        String line5 = "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः। न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥ "
+        String meaning5 = "Weapons do not cleave the soul, fire does not burn it, waters do not wet it, and wind does not dry it."
+        row_increase++;
+        
+        String line6 = "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
+        String meaning6 = "We should never underestimate people."
+        row_increase++;
+        
+        String line7 = "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he?"
+        String meaning7 = "no man is a failure who has friends."
+        row_increase++;
 
+        String line8 = "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope."
+        String meaning8 = "Every Human is special"
+        row_increase++;
+
+        String line9 = "There is no God. No one directs the universe."
+        String meaning9 = "No one directs our fate"
+        row_increase++;
+
+        String line10 = "Hope is a dangerous thing. Hope can drive a man insane."
+        String meaning10 = "Every passing moment makes you failure when you hope and it never happens whatever you have hoped."
+        row_increase++;
+
+        String line11 = "It's the possibility of having a dream come true that makes life interesting."
+        String meaning11 = "Without possibility, life is meaningless."
+        row_increase++;
+
+        String line12 = "Remember, love that doesn't include honesty doesn't deserve to be called love."
+        String meaning12 = "There should be honesty within lovers or it isn't love."
+        row_increase++;
+
+        String line13 = "Whether a man is a legend or not is decided by history, not fortune tellers."
+        String meaning13 = "A man is made legend by this karma and not by his Fate."
+        row_increase++;
+
+        String line14 = "A man becomes a Mahadev, only when he fights for good. A Mahadev is not born from his mother's womb. He is forged in the heat of battle, when he wages a war to destroy evil. Har Har Mahadev - All of us are Mahadev."
+        String meaning14 = "A man become a legend when he fights for good. He fights hard for people's right. He is a leader."
+        row_increase++;
+
+        String line15 = "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः। यज्ञस्तपस्तथा दानं तेषां भेदमिमं श्रृणु।"
+        String meaning15 = "The food also which is dear to each is threefold, as also sacrifice, austerity and almsgiving. Hear thou the distinction of these."
+        row_increase++;
+
+        String line16 = "A wise man can learn more from his enemies than a fool from his friends."
+        String meaning16 = "People who are foolish will never be able to benefit from the friends he or she has."
+        row_increase++;
 
 
     //______________________________________________________________________________________________________________________________
