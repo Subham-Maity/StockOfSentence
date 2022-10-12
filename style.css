@@ -375,3 +375,35 @@ main {
 		clip-path: polygon(0% 60%, 15% 65%, 34% 66%, 51% 62%, 67% 50%, 84% 45%, 100% 46%, 100% 100%, 0% 100%);
 	}
 }
+
+
+
+button {
+	font-size: 16px;
+	color: #90aaab;
+	position: absolute;
+	top: 61%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	width: 50px;
+	padding: 15px;
+	border: none;
+	border-radius: 2px;
+	outline: none;
+	background: rgb(36, 54, 61);
+	box-shadow: 2px 2px 4px rgb(36, 54, 61);
+	opacity: 0.8;
+	cursor: pointer;
+	transition: all 0.4s ease-out;
+}
+
+button.fade:hover {
+	opacity: 0.1;
+}
+
+.fade {
+	opacity: 0.2;
+	top: 0;
+	left: 0;
+	transform: translate(0, 0);
+}

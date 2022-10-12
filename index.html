@@ -5,12 +5,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
 		<link rel="shortcut icon" type="image/png" href="quote.png" />
-		<link rel="stylesheet" href="style.css" />
+		<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css'><link rel="stylesheet" href="./style.css">
 		<title>Stock Of Sentence</title>
 	</head>
 	<body>
+	<audio id="codeXam" src="audio/codexam_lofi.mp3" preload="metadata" type="audio/mpeg">
+
+	</audio>
 		<main>
 			<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css" />
+
 			<div id="stars"></div>
 			<div id="stars2"></div>
 			<div id="stars3"></div>
@@ -23,29 +27,46 @@
 			<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 			<script src="./script.js"></script>
 
-		  
+
 			<div class="quotes-container">
 				<div class="inner-quotes-container">
 					<p id="quote"></p>
-					<p id="quote"></p>
-
 					<h3 id="author"></h3>
 				</div>
 
+
+
+
 				<div><a href="#" class="btn-flip" id="generate" data-back="Now Read" data-front="Today"></a></div>
-				<div>
+<!--				<a class="playBtn" id="codeXam-btn">play / pause</a>-->
+
+				<button  id="codeXam-btn">
+					<i class="fas fa-volume-up"></i>
+
+				</button>
+
+
+
+
+				 <div>
+
 					<br /><a style="color: rgb(145, 171, 172)" href="https://github.com/Subham-Maity/RandomSentenceGenerator"
-						>Take a look at the Github Repository
+						>Take a look at the GitHub Repository
 					</a>
 				</div>
 
 				<div class="content">
-					<h1>Subham</h1>
-					<h1>Subham</h1>
+					<h1>SOS</h1>
+					<h1>SOS</h1>
 				</div>
 			</div>
 
-			<script src="script.js"></script>
+
+
+
+			<!-- partial -->
+			<script  src="./script.js"></script>
+
 		</main>
 	</body>
 </html>

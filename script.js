@@ -1,10 +1,17 @@
-document.querySelector("#generate").addEventListener("click", () => {
-  generate();
+//Data Set for adding sentences
+
+document.querySelector("#generate").addEventListener("click", () => {//event listener for generate button click event 
+  generate();//call generate function 
 });
 
-generate = () => {
-  var myData = {
-    //replicate the data make another
+generate = () => {//Function to generate sentences from the data set and display them on the page 
+  var myData = { //Data Set for adding sentences 
+    //replicate the data make another object and add it to the array
+
+
+
+                                   // *****************************************************************************************************
+
     "1-Random":
       "In the aftermath of my tooth extraction, I have returned home  ~ Hinglish meaning of this line  : mere daant nikaalane ke baad, main ghar laut aaya hoon ",
     "Flexibility of the word FUCK 😂":
@@ -179,14 +186,87 @@ generate = () => {
 
     "5-Inspiration ": 
       "Being vulnerable is a strength, not a weakness — Selena Gomez ~ Hinglish Meaning :  kamajor hona ek taakat hai, kamajoree nahin"
+
+
+
+
+                                   // *****************************************************************************************************
     };
 
   // grab all the keys in the dictionary (authors) and store in an array
-  var authors = Object.keys(myData);
+  var authors = Object.keys(myData);//authors is an array of all the keys in the dictionary myData 
   // grab a random key (author) and store it in author
-  var author = authors[Math.floor(Math.random() * authors.length)];
+  var author = authors[Math.floor(Math.random() * authors.length)];//Math.floor(Math.random() * authors.length) is used to get random number between 0 and authors.length
   // grab the value(quote) that belongs to that key
-  var quote = myData[author];
-  document.querySelector("#author").textContent = author;
-  document.querySelector("#quote").textContent = quote;
+  var quote = myData[author];// grab the value(quote) that belongs to that key 
+  document.querySelector("#author").textContent = author;// display the author in the html   
+  document.querySelector("#quote").textContent = quote;// display the quote in the html 
 };
+
+
+
+
+
+
+
+
+
+
+// _______________________________________________________________________________________________________________________________
+// _______________________________________________________________________________________________________________________________
+// _______________________________________________________________________________________________________________________________
+// _______________________________________________________________________________________________________________________________
+
+
+// Music Enhancer
+var codeXam = document.getElementById('codeXam');//codeXam is the id of the audio tag in the html file
+var codeXamBtn = document.getElementById('codeXam-btn');// codeXamBtn is the id of the button in the html file
+
+function playPause(song){//playPause is the function that will be called when the button is clicked
+  if (song.paused && song.currentTime >= 0 && !song.ended) {// if the song is paused and the current time is greater than 0 and the song is not ended then play the song
+    song.play();// play the song
+  } else {
+    song.pause();// else pause the song
+  }
+}
+
+function reset(btn, song){ // reset is the function that will be called when the song ends
+  if(btn.classList.contains('playing')){// if the button has the class playing then remove the class playing
+    btn.classList.toggle('playing');// remove the class playing
+  }
+  song.pause();// pause the song
+  song.currentTime = 0;// set the current time of the song to 0
+}
+
+function progress(btn, song){// progress is the function that will be called when the song is playing
+  setTimeout(function(){// setTimeout is used to call the function after a certain time
+    var end = song.duration;// end is the duration of the song
+    var current = song.currentTime;// current is the current time of the song
+    var percent = current/(end/100);// percent is the percentage of the song that has been played
+    //check if song is at the end
+    if(current==end){// if the current time of the song is equal to the duration of the song then call the reset function
+      reset(btn, song);// call the reset function
+    }
+    //set inset box shadow
+    btn.style.boxShadow = "inset " + btn.offsetWidth * (percent/100) + "px 0px 0px 0px rgba(0,0,0,0.125)"// set the box shadow of the button
+    //call function again
+    progress(btn, song);// call the progress function again
+  }, 1000);// call the function after 1000ms
+}
+
+codeXamBtn.addEventListener('click', function(){// add an event listener to the button
+  codeXamBtn.classList.toggle('playing');// toggle the class playing
+  playPause(codeXam);// call the playPause function
+  progress(codeXamBtn, codeXam);// call the progress function
+});
+
+
+
+
+
+
+
+
+
+
+
