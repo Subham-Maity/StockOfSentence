@@ -277,7 +277,7 @@ generate = () => {//Function to generate sentences from the data set and display
 
 // Music Enhancer
 var codeXam = document.getElementById('codeXam');//codeXam is the id of the audio tag in the html file
-var codeXamBtn = document.getElementById('codeXam-btn');// codeXamBtn is the id of the button in the html file
+var codeXamBtn = document.getElementById('control');// codeXamBtn is the id of the button in the html file
 
 function playPause(song){//playPause is the function that will be called when the button is clicked
   if (song.paused && song.currentTime >= 0 && !song.ended) {// if the song is paused and the current time is greater than 0 and the song is not ended then play the song
@@ -313,10 +313,10 @@ function progress(btn, song){// progress is the function that will be called whe
 
 var volumeUp = false
 
-codeXamBtn.addEventListener('click', function(){// add an event listener to the button
-  document.getElementById('codeXam-btn').innerHTML = volumeUp? "<i class='fas fa-volume-up'></i>":"<i class='fas fa-volume-down'></i>"
-  volumeUp = !volumeUp
-  codeXamBtn.classList.toggle('playing');// toggle the class playing
+codeXamBtn.addEventListener('click', function(e){// add an event listener to the button
+    e.preventDefault();
+  codeXamBtn.classList.toggle('is--playing');
+//   codeXamBtn.classList.toggle('playing');// toggle the class playing
   playPause(codeXam);// call the playPause function
   progress(codeXamBtn, codeXam);// call the progress function
 });
