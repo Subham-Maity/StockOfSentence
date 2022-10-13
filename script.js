@@ -215,7 +215,7 @@ generate = () => {//Function to generate sentences from the data set and display
 
     "line8" : "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special",
 
-    "line9" : "There is no God. No one directs the universe. - Steven Hawking" ~ Meaning : No one directs our fate",
+    "line9" : "There is no God. No one directs the universe. - Steven Hawking ~ Meaning : No one directs our fate",
 
     "line10" : "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped.",
 
