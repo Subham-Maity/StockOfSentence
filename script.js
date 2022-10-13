@@ -205,44 +205,31 @@ generate = () => {//Function to generate sentences from the data set and display
     "5-Motivational":
       "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
     
-    "line4" : "jo aatmaa ko maarane vaalaa samajhataa hai owr jo isako maraa samajhataa hai ve donon hii nahiin jaanate hain, kyonki yah aatmaa n marataa hai owr n maaraa jaataa hai."
-    "meaning4" : "He who thinks that the soul kills, and he who thinks of it as killed, are both ignorant. The soul kills not, nor is it killed."
+    "line4" : "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love.",
 
-    "line5" : "nainam chhindanti shastraaṇi nainam dahati paavakah. n chainam kledayantyaapo n shoshayati maarutah॥ "
-    "meaning5" : "Weapons do not cleave the soul, fire does not burn it, waters do not wet it, and wind does not dry it."
+    "line5" : "Do your duty unto others. This is the call of time. Ponder over why you have taken birth. – Mahabharata ~ Meaning : We should treat people as we would like to be treated.",
 
-    "line6" : "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
-    "meaning6" : "We should never underestimate people."
+    "line6" : "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.-Benedict Cumberbatch ~ Meaning : We should never underestimate people.",
 
-    "line7" : "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he?"
-    "meaning7" : "No man is a failure who has friends."
+    "line7" : "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he? -It's a Wonderful Life ~ Meaning : No man is a failure who has friends.",
 
-    "line8" : "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope."
-    "meaning8" : "Every Human is special"
+    "line8" : "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special",
 
-    "line9" : "There is no God. No one directs the universe."
-    "meaning9" : "No one directs our fate"
+    "line9" : "There is no God. No one directs the universe. - Steven Hawking" ~ Meaning : No one directs our fate",
 
-    "line10" : "Hope is a dangerous thing. Hope can drive a man insane."
-    "meaning10" : "Every passing moment makes you failure when you hope and it never happens whatever you have hoped."
+    "line10" : "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped.",
 
-    "line11" : "It's the possibility of having a dream come true that makes life interesting."
-    "meaning11" : "Without possibility, life is meaningless."
+    "line11" : "It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho, The Alchemist ~ Meaning : Without possibility, life is meaningless.",
 
-    "line12" : "Remember, love that doesn't include honesty doesn't deserve to be called love."
-    "meaning12" : "There should be honesty within lovers or it isn't love."
+    "line12" : "Remember, love that doesn't include honesty doesn't deserve to be called love. -The Silent Patient ~ Meaning : There should be honesty within lovers or it isn't love.",
 
-    "line13" : "Whether a man is a legend or not is decided by history, not fortune tellers."
-    "meaning13" : "A man is made legend by this karma and not by his Fate."
+    "line13" : "Whether a man is a legend or not is decided by history, not fortune tellers. - The Legend of Meluha ~ Meaning : A man is made legend by this karma and not by his Fate.",
 
-    "line14" : "A man becomes a Mahadev, only when he fights for good. A Mahadev is not born from his mother's womb. He is forged in the heat of battle, when he wages a war to destroy evil. Har Har Mahadev - All of us are Mahadev."
-    "meaning14" : "A man become a legend when he fights for good. He fights hard for people's right. He is a leader."
+    "line14" : "We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower ~ Meaning : We think we love the one who love us as we deserve but we deserve more than we think.",
 
-    "line15" = "aahaarastvapi sarvasy trividho bhavati priyah. yajñastapastathaa daanam teshaan bhedamimam shrṛṇu."
-    "meaning15" : "The food also which is dear to each is threefold, as also sacrifice, austerity and almsgiving. Hear thou the distinction of these."
+    "line15" = "People are screwed up in this world. I'd rather be with someone screwed up and open about it than somebody perfect and ready to explode. ― Ned Vizzini, It's Kind of a Funny Story",
     
-    "line16" : "A wise man can learn more from his enemies than a fool from his friends."
-    "meaning16" : "People who are foolish will never be able to benefit from the friends he or she has."
+    "line16" : "A wise man can learn more from his enemies than a fool from his friends.- Paulo Coelho, The Alchemist ~ Meaning : People who are foolish will never be able to benefit from the friends he or she has.",
 
 
 
