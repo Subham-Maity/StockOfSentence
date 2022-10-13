@@ -204,53 +204,72 @@ generate = () => {//Function to generate sentences from the data set and display
 
     "5-Motivational":
       "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
-    
-    "63-Random" : "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love. 🏳️🏳️",
 
-    "64-Random" : "Do your duty unto others. This is the call of time. Ponder over why you have taken birth. – Mahabharata ~ Meaning : We should treat people as we would like to be treated. 😊😊",
+    "63-Random": "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love. 🏳️🏳️",
 
-    "65-Random" : "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.-Benedict Cumberbatch ~ Meaning : We should never underestimate people. 💪",
+    "64-Random": "Do your duty unto others. This is the call of time. Ponder over why you have taken birth. – Mahabharata ~ Meaning : We should treat people as we would like to be treated. 😊😊",
 
-    "66-Random" : "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he? -It's a Wonderful Life ~ Meaning : No man is a failure who has friends. 👨🏻‍🤝‍👨🏻",
+    "65-Random": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.-Benedict Cumberbatch ~ Meaning : We should never underestimate people. 💪",
 
-    "67-Random" : "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special. 😁",
+    "66-Random": "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he? -It's a Wonderful Life ~ Meaning : No man is a failure who has friends. 👨🏻‍🤝‍👨🏻",
 
-    "68-Random" : "There is no God. No one directs the universe. - Steven Hawking ~ Meaning : No one directs our fate. 🔱",
+    "67-Random": "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special. 😁",
 
-    "69-Random" : "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped. 🙏",
+    "68-Random": "There is no God. No one directs the universe. - Steven Hawking ~ Meaning : No one directs our fate. 🔱",
 
-    "70-Random" : "It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho, The Alchemist ~ Meaning : Without possibility, life is meaningless. 😊😁",
+    "69-Random": "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped. 🙏",
 
-    "71-Random" : "Remember, love that doesn't include honesty doesn't deserve to be called love. -The Silent Patient ~ Meaning : There should be honesty within lovers or it isn't love. ❤👨‍❤️‍💋‍👨",
+    "70-Random": "It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho, The Alchemist ~ Meaning : Without possibility, life is meaningless. 😊😁",
 
-    "72-Random" : "Whether a man is a legend or not is decided by history, not fortune tellers. - The Legend of Meluha ~ Meaning : A man is made legend by this karma and not by his Fate. 🔱☯☯",
+    "71-Random": "Remember, love that doesn't include honesty doesn't deserve to be called love. -The Silent Patient ~ Meaning : There should be honesty within lovers or it isn't love. ❤👨‍❤️‍💋‍👨",
 
-    "73-Random" : "We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower ~ Meaning : We think we love the one who love us as we deserve but we deserve more than we think. 😁",
+    "72-Random": "Whether a man is a legend or not is decided by history, not fortune tellers. - The Legend of Meluha ~ Meaning : A man is made legend by this karma and not by his Fate. 🔱☯☯",
 
-    "74-Random" : "People are screwed up in this world. I'd rather be with someone screwed up and open about it than somebody perfect and ready to explode. ― Ned Vizzini, It's Kind of a Funny Story ~ Meaning : I will be someone who is screwed up as they will be open about it unlike one who acts to be perfect as they will explode at some point. 💖👨‍❤️‍👨",
-    
-    "75-Random" : "A wise man can learn more from his enemies than a fool from his friends.- Paulo Coelho, The Alchemist ~ Meaning : People who are foolish will never be able to benefit from the friends he or she has. 👬👫",
+    "73-Random": "We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower ~ Meaning : We think we love the one who love us as we deserve but we deserve more than we think. 😁",
 
-    "76-Random" : "He who does not trust enough will not be trusted. - Lao Tzu ~ Meaning : If you do not trust other people, others will not be able to trust you. 🤝",
+    "74-Random": "People are screwed up in this world. I'd rather be with someone screwed up and open about it than somebody perfect and ready to explode. ― Ned Vizzini, It's Kind of a Funny Story ~ Meaning : I will be someone who is screwed up as they will be open about it unlike one who acts to be perfect as they will explode at some point. 💖👨‍❤️‍👨",
 
-    "77-Random" : "The best way to find out if you can trust somebody is to trust them. - Ernest Hemingway ~ Meaning : You can only come to know if a person is trustworthy or not by actually trusting them. 🙏",
+    "75-Random": "A wise man can learn more from his enemies than a fool from his friends.- Paulo Coelho, The Alchemist ~ Meaning : People who are foolish will never be able to benefit from the friends he or she has. 👬👫",
 
-    "78-Random" : "Trust is like a vase, once it’s broken, though you can fix it, the vase will never be same again. - Walter Anderson ~ Meaning : Once trust is broken it cannot be restored as it was, no matter what.💔",
+    "76-Random": "He who does not trust enough will not be trusted. - Lao Tzu ~ Meaning : If you do not trust other people, others will not be able to trust you. 🤝",
 
-    "79-Random" : "Strength does not come from physical capacity. It comes from an indomitable will. - Mahatma Gandhi ~ Meaning : Real strength comes from a person's strong will and mindset rather than a strong body. 🧠💪",
+    "77-Random": "The best way to find out if you can trust somebody is to trust them. - Ernest Hemingway ~ Meaning : You can only come to know if a person is trustworthy or not by actually trusting them. 🙏",
 
-    "80-Random" : "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau ~ Meaning : Success comes to those who work hard instead of sitting, waiting and complaining about their lives. 🏆",
+    "78-Random": "Trust is like a vase, once it’s broken, though you can fix it, the vase will never be same again. - Walter Anderson ~ Meaning : Once trust is broken it cannot be restored as it was, no matter what.💔",
 
-    "81-Random" : "If you don’t make time for exercise, you’ll probably have to make time for illness. - Robin Sharma ~ Meaning : If you do not keep your body active and healthy then you have to face the consequences of being unfit and ill. 🏃‍♀️🏃‍♂️",
+    "79-Random": "Strength does not come from physical capacity. It comes from an indomitable will. - Mahatma Gandhi ~ Meaning : Real strength comes from a person's strong will and mindset rather than a strong body. 🧠💪",
 
-    "82-Random" : "Rome wasn’t built in a day, but they worked on it every single day. - Michael John Bobak ~ Meaning : Small consistent efforts everyday lead to great achievements. 🥇🏆",
+    "80-Random": "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau ~ Meaning : Success comes to those who work hard instead of sitting, waiting and complaining about their lives. 🏆",
 
-    "83-Random" : "Go the extra mile. It’s never crowded. - Wayne Dyer ~ Meaning : A lot of people are content with being good but very few people take the extra effort to be great at things. 🙌🏃‍♂️",
+    "81-Random": "If you don’t make time for exercise, you’ll probably have to make time for illness. - Robin Sharma ~ Meaning : If you do not keep your body active and healthy then you have to face the consequences of being unfit and ill. 🏃‍♀️🏃‍♂️",
 
-    "84-Random" : "You just can’t beat the person who never gives up. - Babe Ruth ~ Meaning : A person who has a strong mindset cannot be outdone by a person with a mediocre mindset. 🔝",
+    "82-Random": "Rome wasn’t built in a day, but they worked on it every single day. - Michael John Bobak ~ Meaning : Small consistent efforts everyday lead to great achievements. 🥇🏆",
 
-    "85-Random" : "Sometimes the women have to take over. Like in the war. - Polly Gray ~ Meaning : In times of trouble when men aren't around, women have to take charge and deal with the situation themselves. 👩💪"
+    "83-Random": "Go the extra mile. It’s never crowded. - Wayne Dyer ~ Meaning : A lot of people are content with being good but very few people take the extra effort to be great at things. 🙌🏃‍♂️",
 
+    "84-Random": "You just can’t beat the person who never gives up. - Babe Ruth ~ Meaning : A person who has a strong mindset cannot be outdone by a person with a mediocre mindset. 🔝",
+
+    "85-Random": "Sometimes the women have to take over. Like in the war. - Polly Gray ~ Meaning : In times of trouble when men aren't around, women have to take charge and deal with the situation themselves. 👩💪",
+
+    "86-inspirational": "When you have a dream, you've got to grab it and never let go. — Carol Burnett ~ Meaning : A dream shouldn't have to remain a dream, Put it to reality",
+
+    "87-inspirational": "Nothing is impossible. The word itself says 'I'm possible! — Audrey Hepburn ~ Meaning : You can achieve anything that you can thought of",
+
+    "88-inspirational": "There is nothing impossible to they who will try — Alexander the Great ~ Meaning : Keep trying until you get success",
+
+    "89-inspirational": "The bad news is time flies. The good news is you're the pilot. — Michael Altshuler ~ Meaning : Always check the good side of the situation",
+
+    "90-inspirational": "Life has got all those twists and turns. You've got to hold on tight and off you go. — Nicole Kidman ~ Meaning : Well, life is a pretty twisted thing. So, to survive in life, you must know how to live appropriately",
+
+    "91-inspirational": "Keep your face always toward the sunshine, and shadows will fall behind you. — Walt Whitman ~ Meaning : Always focus Ahead!",
+
+    "92-inspirational": "Be courageous. Challenge orthodoxy. Stand up for what you believe in. When you are in your rocking chair talking to your grandchildren many years from now, be sure you have a good story to tell. — Amal Clooney ~ Meaning : Take challenges as an opportunity",
+
+    "93-inspirational": "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box. — Duchess Meghan ~ Meaning : What are you at present is based on your previous decisions",
+
+    "94-inspirational": "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill ~ Meaning : Keep hustling no matter whether you get success or failure",
+
+    "95-inspirational": "you define your own life. Don't let other people write your script. — Oprah Winfrey ~ Meaning : You are writer of your own story",
 
 
 
@@ -300,7 +319,7 @@ generate = () => {//Function to generate sentences from the data set and display
 var codeXam = document.getElementById('codeXam');//codeXam is the id of the audio tag in the html file
 var codeXamBtn = document.getElementById('control');// codeXamBtn is the id of the button in the html file
 
-function playPause(song){//playPause is the function that will be called when the button is clicked
+function playPause(song) {//playPause is the function that will be called when the button is clicked
   if (song.paused && song.currentTime >= 0 && !song.ended) {// if the song is paused and the current time is greater than 0 and the song is not ended then play the song
     song.play();// play the song
   } else {
@@ -308,25 +327,25 @@ function playPause(song){//playPause is the function that will be called when th
   }
 }
 
-function reset(btn, song){ // reset is the function that will be called when the song ends
-  if(btn.classList.contains('playing')){// if the button has the class playing then remove the class playing
+function reset(btn, song) { // reset is the function that will be called when the song ends
+  if (btn.classList.contains('playing')) {// if the button has the class playing then remove the class playing
     btn.classList.toggle('playing');// remove the class playing
   }
   song.pause();// pause the song
   song.currentTime = 0;// set the current time of the song to 0
 }
 
-function progress(btn, song){// progress is the function that will be called when the song is playing
-  setTimeout(function(){// setTimeout is used to call the function after a certain time
+function progress(btn, song) {// progress is the function that will be called when the song is playing
+  setTimeout(function () {// setTimeout is used to call the function after a certain time
     var end = song.duration;// end is the duration of the song
     var current = song.currentTime;// current is the current time of the song
-    var percent = current/(end/100);// percent is the percentage of the song that has been played
+    var percent = current / (end / 100);// percent is the percentage of the song that has been played
     //check if song is at the end
-    if(current==end){// if the current time of the song is equal to the duration of the song then call the reset function
+    if (current == end) {// if the current time of the song is equal to the duration of the song then call the reset function
       reset(btn, song);// call the reset function
     }
     //set inset box shadow
-    btn.style.boxShadow = "inset " + btn.offsetWidth * (percent/100) + "px 0px 0px 0px rgba(0,0,0,0.125)"// set the box shadow of the button
+    btn.style.boxShadow = "inset " + btn.offsetWidth * (percent / 100) + "px 0px 0px 0px rgba(0,0,0,0.125)"// set the box shadow of the button
     //call function again
     progress(btn, song);// call the progress function again
   }, 1000);// call the function after 1000ms
@@ -334,10 +353,10 @@ function progress(btn, song){// progress is the function that will be called whe
 
 var volumeUp = false
 
-codeXamBtn.addEventListener('click', function(e){// add an event listener to the button
-    e.preventDefault();
+codeXamBtn.addEventListener('click', function (e) {// add an event listener to the button
+  e.preventDefault();
   codeXamBtn.classList.toggle('is--playing');
-//   codeXamBtn.classList.toggle('playing');// toggle the class playing
+  //   codeXamBtn.classList.toggle('playing');// toggle the class playing
   playPause(codeXam);// call the playPause function
   progress(codeXamBtn, codeXam);// call the progress function
 });
