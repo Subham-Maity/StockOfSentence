@@ -287,7 +287,11 @@ function progress(btn, song){// progress is the function that will be called whe
   }, 1000);// call the function after 1000ms
 }
 
+var volumeUp = false
+
 codeXamBtn.addEventListener('click', function(){// add an event listener to the button
+  document.getElementById('codeXam-btn').innerHTML = volumeUp? "<i class='fas fa-volume-up'></i>":"<i class='fas fa-volume-down'></i>"
+  volumeUp = !volumeUp
   codeXamBtn.classList.toggle('playing');// toggle the class playing
   playPause(codeXam);// call the playPause function
   progress(codeXamBtn, codeXam);// call the progress function
