@@ -1,117 +1,42 @@
-# What is [Random Sentence Generator](https://subham-maity.github.io/RandomSentenceGenerator/) ?
+<div align="center"><h1> <p>1. What is <a href="https://github.com/Subham-Maity/StockOfSentence/">SOS</a> ? 🤔</p> </h1></div>
 
-* ### 😎 With this app, you can generate random sentences that you already know every day in order to improve your sentence comprehension.
 
-# Can you tell me why we need this app?
-* ### 😎 As you watch a movie or read a book, you might find some interesting sentences. Save them to your own database, and this app will help you recall them.
-
+<p align="center" >
+        <img src="https://media2.giphy.com/media/OVaU6jmVjtbO2ZEvpI/giphy.gif?cid=ecf05e47duv1b8ucq21g67upcbsqcsor7epuej9kjswij1j2&rid=giphy.gif&ct=s" width="65" height="65" /> </p>
 
 
 
-#### [Random Sentence Generator](https://subham-maity.github.io/RandomSentenceGenerator/) V 0.1 Video and Now Already Updated so [Check here](https://subham-maity.github.io/RandomSentenceGenerator/) 👈
+V0.5 is a beta version's video, so it is possible that more features will be added to the main website in the future; always check the [Website](https://subham-maity.github.io/StockOfSentence/).
+<div align="center">
 
-https://user-images.githubusercontent.com/97989643/182400053-a7d16fee-6658-4826-b38f-d6255f0a9f82.mp4
 
-# Could you please tell me how I can add my sentence to this website?
-* ### 😎👇
-
-![guide](https://user-images.githubusercontent.com/97989643/182409089-d7e0a9ff-4798-47fa-be7f-2bc38f9d2f19.jpg)
+https://user-images.githubusercontent.com/97989643/195848594-73c8eca6-821c-4b9e-b9ea-b0afb7cc4ad2.mp4
 
 
 
-
-**********************************************
-### Basic Random Sentence Generator from Your Own Data Set -
-#### The purpose of this code is for beginners who want to keep motivated to code by making their own dataset and adding sentences on a regular basis as well as increase the stock of sentences.
-
-Note: 
-* You should update your database once a day using online IDE, and you should run the program daily to refresh your stock of data 
-  * [Online IDE](https://www.programiz.com/java-programming/online-compiler/) 
-* Adding and memorizing one sentence every day gives you the ability to learn 365 sentences in a year if you double or triple it, it will increase your stock of sentences by twice or three times. 
-
-## Basic Concept of this App - In JAVA (Structure of the code is given below) - Clean Code
-In our website we use the following structure of the code -
-
-
-
-```java
-import java.util.Random;
-// basic random sentence generator in from  your own data set
-public class CodeXam {
-
-//========================================================================================================================================================
-    /*
-       RULE 0:  ADD MOVIE NAME WITH LINE AND MEANING OF THE LINE
-
-      RULE 1 : Replicate LAST Line from DATA SET - THEN CHANGE THE LINE NUMBER(STRING REFERENCE) TO MATCH THE DATA SET AND ADD YOUR DATA ON THIS STRING
-
-      RULE 2 : Replicate LAST Line from OPERATE FUNCTION - THEN REPLACE THE NEXT NUMBER IN CASE FUNCTION AND CHANGE THE LINE NO(STRING REFERENCE)
-     * */
-//=======================================================================================================================================================
-
-    // DATA ADD WITH COUNTING - DATA SET
-    public static void main(String[] args) {
-
-        int row_increase = 0;
-        String line1 = "The quick brown fox jumps over the lazy dog";
-        String meaning1 = "A sentence";
-        row_increase++;
-
-
-        String line2 = "The quick brown fox jumps over the lazy dog 2";
-        String meaning2 = "A sentence 2";
-        row_increase++;
-
-
-        String line3 = "The quick brown fox jumps over the lazy dog 3";
-        String meaning3 = "A sentence 3";
-        row_increase++;
-
-
-
-        //______________________________________________________________________________________________________________________________
-        //______________________________________________________________________________________________________________________________
-
-
-
-        //PRINTING TOTAL DATASET
-        System.out.println("Total Dataset Added: " + row_increase);
-
-
-        //______________________________________________________________________________________________________________________________
-        //______________________________________________________________________________________________________________________________
+</div>
 
 
 
 
-        //ADDING DATASET TO RANDOM FUNCTION - OPERATE FUNCTION
-        Random rd = new Random();//random dataset of grammar line
-        int comp_input = rd.nextInt(row_increase); //taking input from the computer
+<div align="center"> <h2> 2. How does this app benefit us ? 😲</h2></div>
 
-        switch (comp_input) {
-            case 0: { // if our random program generate zero
-                System.out.println(comp_input + " No Line. " + line1 + "\n" + "Hinglish meaning of this line  : " + meaning1);
-            }
-            break;
+<h3> • You might find some interesting sentences or dialogue, or idioms in movies and books, now you can store them in the <b><u>app's database</u></b>, and it will help you recall them by generating random sentences from your stored data 📚</h3>
+
+<h4> <b> ~ Note: <i> The unique design with the music will help you remember the word for a long time just turn on the music and feel the background and read the sentence 10 times, and on that day, all you need to do is recall that today's sentence at least 10 times.  </i></b> </h4>
 
 
-            case 1: { // if our random program generate one
-                System.out.println(comp_input + " No Line. " + line2 + "\n" + "Hinglish meaning of this line  : " + meaning2);
-            }
-            break;
 
+<div align="center"> <h2> 3. Could you please tell me how I can add my sentence to this website? ? 😲</h2></div>
 
-            case 2: { // if our random program generate two
-                System.out.println(comp_input + " No Line. " + line3 + "\n" + "Hinglish meaning of this line  : " + meaning3);
-            }
-            break;
-       }
-    }
-}
+- **Make sure you open the project in an IDE such as** [Webstorm](https://www.jetbrains.com/webstorm/) **or** [VSCode](https://code.visualstudio.com/).
+- **Open the dataset.js file.**
+- **And add your sentence according to the format given below.**
+<p align="center" >
+        <img src="https://user-images.githubusercontent.com/97989643/195846580-1146bca2-6663-4cd6-b5d2-30464deb823f.png" width="845" height="520" /> </p>
 
-
-```
-
+<p align="center" >
+        <img src="https://user-images.githubusercontent.com/97989643/195846129-7710e773-ed01-4c6e-9cbc-c4af061e80d2.gif" width="600" height="295" /> </p>
 
 
 
