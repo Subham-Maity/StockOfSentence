@@ -269,6 +269,50 @@ generate = () => {//Function to generate sentences from the data set and display
         "95-inspirational": "you define your own life. Don't let other people write your script. — Oprah Winfrey ~ Meaning : You are writer of your own story",
 
         "96-inspirational": "Hey CodeXam You are Cool. — Xam ~ Meaning : You know He is cool",
+        
+        "1-Random ":
+        " Main Apni Favourite Hoon  ~ English translation: I am my favourite person💪",
+        
+        "2-Random ":
+        " Mere Paas Gaadi Hai, Bangla Hai Paisa Hai, Tumhare Paas Kya Hai? ~ English translation:  I have a car, a bungalow and money. What do you have?I have a mother😊 ",
+        
+        "4-Random ":
+        " Senorita, Bade Bade Sheheron Mein Aisi Chhoti Chhoti Baatein Hoti Rehti Hain ~ English translation:  Senorita, such small things are common place in such big cities 😊 ",
+
+        "5-Random ":
+        "  Ek Baar Jo Maine Commitment Kar Di, Uske Baad Toh Main Khud Ki Bhi Nahi Sunta ~ English translation:  Once I make a commitment, I don’t listen to myself either😊  ",
+
+        "6-Random ":
+        " Bachcha Kabil Bano, Kabil … Kamyabi Toh Saali Jhak Maarke Peeche Bhagegi ~ English translation:  Child, become capable… success will then automatically follow 😊 ",
+
+        "7-Random ":
+        " Kehte Hain, Agar Kissi Cheez Ko Dil Se Chaho, Toh Puri Ki Puri Qayanaat Tumhe Usse Milaane Ki Koshish Mein Lag Jaati Hai ~ English translation:  It is said that if you truly want something, then the world conspires to get you to it 😊 ",
+
+        "8-Random ":
+        " Tension Lene Ka Nahi Sirf Dene Ka ~ English translation: Don’t take tension yourself, only give it.🏆  ",
+
+        "9-Random ":
+        " Risk Toh Spider Man Ko Bhi Lena Padta Hai, Main Toh Sirf Ek Salesman Hoon ~ English translation:  Even Spiderman needs to take risk, I am just a salesman🏆  ",
+
+        "10-Random ":
+        "  Pehle Apni Game Baaki Logon Se Unchi Karo. Phir Apni Aawaz Unchi Karna ~ English translation: Raise your game before you raise your voice 🏆 ",
+
+        "11-Random ":
+        " Mere Hisaab Se Toh Dharam Ek Hi Kaam Karta Hai, Ya Toh Woh Insaan Ko Bebas Banata Hai Ya Antakwadi  ~ English translation: In my opinion religion achieves only one thing, either it makes a person helpless or a terrorist 🏃‍♂️ ",
+
+        "12-Random ":
+        "  Agar Hum Apni Zindagi Ka Steering Wheel Apne Haath Mein Nahi Lenge Na… Toh Koi Doosra Driver Seat Par Baith Jayega ~ English translation: If we don’t control the steering wheel of our life, someone else will take control 😊 ",
+
+        "13-Random ":
+        "  Dil Se Faisla Karo Tumhe Kya Karna Hai. Dimaag Tarkeeb Nikalega  ~ English translation: Decide from your heart what you want to do. The brain will find a way out 😊 ",
+
+        "14-Random ":
+        " Sahi Direction Mein Utha Har Kadam … Apne Aap Mein Ek Manzil Hai … After All Life Is All About The Next Step ~ English translation: Every step in the right direction is a milestone in itself… after all life is all about the next step😊  ",
+
+        "15-Random ":
+        " Tumhare Paas Joh Hai Tumhare Hisaab Se Kam Hai … Lekin Kisi Doosre Ke Nazar Se Dekho … Toh Tumhare Paas Bahut Kuch Hai ~ English translation: You might think you have very little. But, if you look at it from someone else’s view point, then you have a lot.😊  ",
+
+        
 
 
 
