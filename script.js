@@ -1,373 +1,255 @@
-//Data Set for adding sentences
-
-document.querySelector("#generate").addEventListener("click", () => {//event listener for generate button click event 
-  generate();//call generate function 
-});
-generate = () => {//Function to generate sentences from the data set and display them on the page
-  var myData = {
-    //Data Set for adding sentences
-    //replicate the data make another object and add it to the array
-
-    // *************************************Start******************************************
-
-
-
-
-    "1-Random":
-      "In the aftermath of my tooth extraction, I have returned home  ~ Hinglish meaning of this line  : mere daant nikaalane ke baad, main ghar laut aaya hoon ",
-    "Flexibility of the word FUCK 😂":
-      "Sexual: Let's fuck.  Mischief: Let's fuck with them.  Aggression: Let's fuck them up.  Anger: Fuck you.    Regret: Fuck me!     Resignation: Oh, fuck it     Surprise: Holy fuck!    Puzzlement: What the fuck?     Greeting: How the fuck are you?      Fraud: I got fucked over.          Identification: Who the fuck are you?     Philosophical: Who gives a fuck?     Compliment: She's so fucking beautiful.    Confusion: Where the fuck are we?     Wonder: What the fuck is that?     Amazement: How the fuck did he do that?           Threat: Don't fuck with me!             Realization: I fucking knew it!",
-    "1-Ig: The Knowledge Spreader":
-      "Keep it down  ~ Hinglish meaning of this line  : Thoda kam shor Machao😔 ",
-    "2-Ig: The Knowledge Spreader":
-      "Latch/bolt the door  ~ Hinglish meaning of this line  : Kundi laga do 😊",
-    "3-Ig: The Knowledge Spreader":
-      "Make your bed  ~ Hinglish meaning of this line  : Bistar sahi karo😊 ",
-    "4-Ig: The Knowledge Spreader":
-      "This is no brainer  ~ Hinglish meaning of this line  : Isme Zyada Dimag Lagane ki Zaroorat Nahi hai😲 ",
-    "5-Ig: The Knowledge Spreader":
-      "I've had anough of you  ~ Hinglish meaning of this line  : Mai tumhe bohot jhel chuki hun 😲 ",
-    "6-Ig: The Knowledge Spreader": "Asthma  ~ Pronounce  : Az-Ma 😲 ",
-    "7-Ig: The Knowledge Spreader": "Breakfast  ~ Pronounce  : Break-fst😲 ",
-    "8-Ig: The Knowledge Spreader": "Dessert  ~ Pronounce  : Di-Zuhrt 😲",
-    "9-Ig: The Knowledge Spreader": "Jewellery  ~ Pronounce  : Jool-Ri 😲",
-    "10-Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro 😲 ",
-    "2-Random ": "Cynophile ~ A person who loves dogs , Dog lover 🐕",
-    "3-Random ": "Musicophile ~ One who loves music 🎸",
-    "4-Random ": "Autophile ~ A person who loves being alone. 😔",
-    "5-Random ": "Dendrophile ~ A person who loves trees 🌴",
-    "6-Random ": "Hodophile ~ One who loves to travel ✈️",
-    "7-Random ": "Thalassophile ~ Someone who loves the sea 🌊",
-    "8-Random ": "Selenophile ~ a person who loves the moon 🌚",
-    "9-Random ": "Astrophile ~ One who loves stars or astronomy 🚀",
-    "1-Ocean English Academy":
-      "Thank you for showering me with a lot of love ~ Hinglish meaning of this line  : Mere upar itna sara payar barsane k liye bohot sukriya app sabhika😘💕",
-    "2-Ocean English Academy":
-      "This is what I did ~ Hinglish meaning of this line  : Jo maine kiya tha 🙂",
-    "3-Ocean English Academy":
-      "I just need to make sure ~ Hinglish meaning of this line  : mujhe bas yah sunishchit karane kee zaroorat hai 🙄",
-    "4-Ocean English Academy":
-      "I do mean it,In real life ~ Hinglish meaning of this line  : mera matalab hai, vaastavik jeevan mein 😒",
-    "5-Ocean English Academy":
-      "I don't want to bombard with you lots of motivation ~ Hinglish meaning of this line  : main aapake saath dher saaree preranaon kee bauchhaar nahin karana chaahata 😁",
-    "6-Ocean English Academy":
-      "This is what I did ~ Hinglish meaning of this line  : Jo maine kiya tha 🙂",
-    "7-Ocean English Academy":
-      "May/Could I speak to Subham ? / If you confirm - Is this subham I'm talking to? ~ Hinglish meaning of this line  : Keya mai subham se baad kar sakhta hun ? 🤙",
-    "8-Ocean English Academy":
-      "Yes this is he.Please tell me how could I be of help ?~ Hinglish meaning of this line  : haan yah vahee hai.krpaya mujhe batao ki main kaise madad kar sakata hoon? 🤔",
-    "9-Ocean English Academy":
-      "The reason I am calling is to........ ~ Hinglish meaning of this line  : Maine jis liye call kiya wo hai 🙂",
-    "10-Ocean English Academy":
-      "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : aapako apadet karane ke lie bas ek tvarit kol ki aaj kee baithak ko band kar diya gaya hai🙂",
-    "10-Random ": "skeptical ~ an attitude of doubt 🤔",
-    "11-Random ":
-      "I just took a year off.The love of fitness never fades ~ mainne abhee ek saal kee chhuttee lee hai.fitness ka pyaar kabhee kam nahin hota 💪",
-    "12-Random ": " I'll confront him  ~ main usaka saamana karoonga 💪 ",
-    "13-Random ":
-      "Love is unconditional when you can bolster that person through ETERNITY!💖",
-    "14-Random ": "very weird  ~ Bizzare 🦉 ",
-    "15-Random ": "Iron ~ Pronounce : Ion 😸",
-    "16-Random ":
-      "Touch wood ! ~ Hinglish meaning of this word : khi nazar n lge 🌚 ",
-    "17-Random ":
-      "Many-Many happy returns of the day ! ~ Hinglish meaning of this line  : Bhagwan kre yeh din bar bar aaye ! 🙂",
-    "18-Random ":
-      "I screwed up ~  Hinglish meaning of this line  : It's my mistake.🙄",
-    "20-Random ":
-      "Blow your own trumpet ~ to talk about oneself or one's achievements especially in a way that shows that one is proud or too proud He had a very successful year and has every right to blow his own trumpet. 😎",
-    "21-Random ":
-      "blow your own horn ~  to talk about oneself or one's achievements especially in a way that shows pride or too much pride We've had a very successful year, and I think we have a right to blow our own horn a little.😎",
-    "22-Random ":
-      "blow the whistle ~ you report them to the authorities about illegal or immoral things that they may have done 😡",
-    "23-Random ":
-      "When the pigs fly ~  used to say that one thinks that something will never happen.😮‍💨",
-    "24-Random ":
-      "The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela 💪",
-    "25-Random ":
-      "Aaj mere paas gaadi hai, bungla hai, paisa hai... tumhare paas kya hai? Mere paas, mere paas... Maa hai ~ English Meaning : A Mother is the most priced possession 💪",
-    "26-Random ":
-      "Don't put all your eggs in one basket ~ Meaning : In stock market, don't put all your money in one company's stocks as you may lose it, if that company gors bankrupt💪",
-    "27-Random ":
-      "The ball is in your court ~ Meaning : It's your decision now that matters 💪",
-    "28-Random ":
-      "I'll have what she's having ~ Meaning : You say it on a date if you couldn't select a dish. P.S : It impresses the girl too💪",
-    "29-Random ":
-      "Your future is created by what you do today, not tomorrow - APJ Abdul Kalam ~ Meaning : Never wait for things to happen, start today 💪",
-    "30-Random ":
-      "Through thick and thin ~ Meaning : Being loyal to someone no matter what the situation is💪",
-    "31-Random ":
-      "Kabhi Kabhi Kuch Jeetne Ke Liya Kuch Haar Na Padta Hai. Aur Haar Ke Jeetne Wale Ko Baazigar Kehte Hain ~ Meaning : Sometimes, you have to lose to actually win💪",
-    "32-Random ":
-      "Don't beat around the bush ~ Hinglish Meaning : Seedhe point pe aao na💪",
-    "33-Random ":
-      "Hum jahan khade ho jaate hain, line wahi se shuru hoti hain ~ Meaning : Wherever I stand, the line starts from there💪",
-    "34-Random ":
-      "Winners are not those who never fail but those who never quit - APJ Abdul Kalam ~ Meaning : Winner never quit and quitters never win💪",
-    "35-Random ":
-      "YOLO - You Only Live Once  ~ Hinglish Meaning : Apna har din aise jiyo jaise ki aakhri ho💪",
-    "36-Random ":
-      "Find people who will make you better - Michelle Obama ~ Meaning : Remove toxic people from your life💪",
-    "37-Random ":
-      "Success🥇 is not final, Failure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
-    "38-Random ":
-      "Tough time⌛ never last, tough people 💪do - Robert schuller",
-    "39-Random ":
-      "No one is perfect that's why pencils✏️ have erasers - Wolfgang Rieve ~ Meaning : Stop being perfectionist.",
-    "40-Random ":
-      "Accept your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
-    "41-Random ":
-      "Optimism is the faith that leads to achievement🥇. Nothing can be done without hope and confidence😊 - Helen Keller ~ Meaning : One should not loose hope, faith and confidence",
-    "42-Random ":
-      "There are no shortcut's to any place🌄 worth going - Beverly Sills ~ Meaning : If you will get something immediately you will not get real essence of getting that📔",
-    "43-Random ":
-      "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible - Francis of assisi",
-    "44-Random ":
-      "Any fool can know. The point is to understand📔 - Albert Einstein ~ Meaning ~ Knowing is not enough, understanding is important",
-    "45-Random ":
-      "You don't drown by falling in the water🌊; you drown by staying there - Edcole ~ Meaning : Leave that place where you not getting what you want",
-    "46-Random ":
-      "Many life's failures are people who did not resalise how close they were to success when they gave up😞 - Thomas A. Edison ~ Meaning : Never gave up success is just one step away",
-    "47-Random ":
-      "Never Let your memories be greater than your dreams 💭- Douglas Ivester",
-    "48-Random ":
-      "When every seems to be going against you, remember that the airplane✈️ takes off against the wind🌬️, not with it - Henery Ford ~ Meaning : Fight against your fear that's when you get to your destination",
-    "49-Random ":
-      "Don't find fault❌, find a remedy✔️; anybody can complain. - Henry Ford ~ Hinglish Meaning : Don't complain, find a solution",
-    "50-Random ":
-      "The journey of a thousand miles🛣️ begins with one1️⃣ step. - Lao Tzu ~ Meaning : Start with small steps, you will reach your destination",
-    "51-Random ":
-      "Criticism is easy; achievement🏆 is difficult. - Winston Churchill ~ Meaning : It's easy to criticize, but it's difficult to achieve",
-    "52-Random ":
-      "Whatever you are, be a good one💪. - Abraham Lincoln ~ Meaning : Be the best version of yourself",
-    "53-Random ":
-      "What a difference a day makes. - Ella Fitzgerald ~ Meaning : One day can change your life",
-    "54-Random ":
-      "The best way to predict the future🔮 is to create🛠️ it. - Abraham Lincoln ~ Meaning : Create your own future",
-    "55-Random ":
-      "The best revenge is massive success🙌. - Frank Sinatra ~ Meaning : Success is the best revenge",
-    "56-Random ":
-      "The only place where success comes before work👨‍💻 is in the dictionary📔. - Vidal Sassoon ~ Meaning : Success doesn't come easy",
-    "57-Random ":
-      "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson ~ Meaning : You are the creator of your own destiny",
-    "58-Random ":
-      "Life is what happens when you're busy⌚ making other plans. - John Lennon ~ Meaning : Life is unpredictable",
-    "59-Random ":
-      "Do not go where the path may lead❌, go instead where there is no path✔️ and leave a trail. - Ralph Waldo Emerson ~ Meaning : Don't follow the crowd, make your own path",
-    "60-Random ":
-      "The only way to do great work is to love😍 what you do👨‍💻. - Steve Jobs ~ Meaning : Do what you love",
-    "61-Random":
-      "If you want to improve, be content to be thought foolish and stupid. ― Epictetus ~ Meaning : To learn a new skill, you need to allow yourself to be a clumsy beginner",
-    "62-Random":
-      "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
-    "1-Harry Potter ":
-      "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
+"use strict";
+/* globals THREE, $, TweenLite, Power3, TimelineMax  */
 
-    "2-Harry Potter ":
-      "It is impossible to manufacture or imitate love💝 -  Horace Slughorn ~ Meaning : Love is something that happens on its own ",
+let camera, scene, renderer;// Animation loop function
+let plane;// Animation loop function
+let raycaster = new THREE.Raycaster();// Animation loop function
+let normalizedMouse = {// Animation loop function
+  x: 0,
+  y: -180 };
 
-    "3-Harry Potter ":
-      "When in doubt🤷‍♂️, go to the library📖 — Ron Weasley  ~ Meaning : As in the library there is near-infinite knowledge available",
 
-    "4-Harry Potter ":
-      "We are only as strong💪 as we are united, as weak as we are divided➗ -  Albus Dumbledore ~ Meaning : We can fight it only by showing an equally strong bond of friendship and trust🤷",
+// let lightBlue = {
+// 	r: 34,
+// 	g: 183,
+// 	b: 236
+// };
 
-    "5-Harry Potter ":
-      "The wand🪄 chooses the wizard🧙 — Garrick Ollivander ~ Meaning : There is a level of compatibility between the wand and the magic-user that needs to be taken into account🤷",
+let darkBlue = {
+  r: 0,
+  g: 52,
+  b: 74 };
 
-    "1-Inspiration ":
-      "If you want to shine like a sun, first burn like a sun - Dr APJ Abdul Kalam ~ Hinglish Meaning :  agar sooraj kee tarah chamakana hai to pahale sooraj kee tarah jalo 💘 ",
 
-    "2-Inspiration ":
-      "It is during our darkest moments that we must focus to see the light — Aristotle ~ Hinglish Meaning :  yah hamaare sabase andhere kshanon ke dauraan hai ki hamen prakaash ko dekhane ke lie dhyaan kendrit karana chaahie😍.",
+let baseColorRGB = darkBlue;// Animation loop function function animate() {
+let baseColor = "rgb(" + baseColorRGB.r + "," + baseColorRGB.g + "," + baseColorRGB.b + ")";
+let nearStars, farStars, farthestStars;//
 
-    "3-Inspiration ":
-      "Try to be a rainbow in someone's cloud — Maya Angelou ~ Hinglish Meaning : kisee ke baadal mein indradhanush banane kee koshish karo😍 ",
 
-    "4-Inspiration ":
-      "We are not our best intentions, We are what we do — Amy Dickinson ~ Hinglish Meaning :  ham apane sabase achchhe iraade nahin hain, ham vahee hain jo ham karate hain😊",
+function init() {// Create a scene and a camera let width = window.innerWidth;
+  scene = new THREE.Scene();// Create camera and set position and FOV (field of view)
+  camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);// Create a renderer and set size
+  renderer = new THREE.WebGLRenderer();// Set the size of the renderer to the size of the window
 
-    "5-Inspiration ":
-      "Being vulnerable is a strength, not a weakness — Selena Gomez ~ Hinglish Meaning :  kamajor hona ek taakat hai, kamajoree nahin😊",
 
-    "1-Motivational":
-      "We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein ~ Meaning : Listen, learn and improve. That how you solve your problem and generate new ones.😸",
 
-    "2-Motivational":
-      "Learn as if you will live forever, live like you will die tomorrow. — Mahatma Gandhi  ~ Meaning : You have one life. Make it a good one.🏁",
+  // Scene initialization
+  camera.position.z = 50;
 
-    "3-Motivational":
-      "When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out. — Eleanor Roosevelt  ~ Meaning : Giving and helping others in need will enrich your own life.😸",
 
-    "4-Motivational":
-      "When you change your thoughts, remember to also change your world. — Norman Vincent Peale  ~ Meaning : You can not grow if you are surrounded with base minded people. Change your enviroment and grow infinitely.🙌",
+  renderer.setClearColor("#121212", 1.0);
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  renderer.setPixelRatio(window.devicePixelRatio);
 
-    "5-Motivational":
-      "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
+  document.body.appendChild(renderer.domElement);
 
-    "63-Random": "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love. 🏳️🏳️",
+  // Lights
+  let topLight = new THREE.DirectionalLight(0xffffff, 1);
+  topLight.position.set(0, 1, 1).normalize();
+  scene.add(topLight);
 
-    "64-Random": "Do your duty unto others. This is the call of time. Ponder over why you have taken birth. – Mahabharata ~ Meaning : We should treat people as we would like to be treated. 😊😊",
+  let bottomLight = new THREE.DirectionalLight(0xffffff, 0.4);
+  bottomLight.position.set(1, -1, 1).normalize();
+  scene.add(bottomLight);
 
-    "65-Random": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.-Benedict Cumberbatch ~ Meaning : We should never underestimate people. 💪",
+  let skyLightRight = new THREE.DirectionalLight(0x666666, 0.2);
+  skyLightRight.position.set(-1, -1, 0.2).normalize();
+  scene.add(skyLightRight);
 
-    "66-Random": "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he? -It's a Wonderful Life ~ Meaning : No man is a failure who has friends. 👨🏻‍🤝‍👨🏻",
+  let skyLightCenter = new THREE.DirectionalLight(0x666666, 0.2);
+  skyLightCenter.position.set(-0, -1, 0.2).normalize();
+  scene.add(skyLightCenter);
 
-    "67-Random": "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special. 😁",
+  let skyLightLeft = new THREE.DirectionalLight(0x666666, 0.2);
+  skyLightLeft.position.set(1, -1, 0.2).normalize();
+  scene.add(skyLightLeft);
 
-    "68-Random": "There is no God. No one directs the universe. - Steven Hawking ~ Meaning : No one directs our fate. 🔱",
 
-    "69-Random": "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped. 🙏",
 
-    "70-Random": "It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho, The Alchemist ~ Meaning : Without possibility, life is meaningless. 😊😁",
+  // Mesh creation
+  let geometry = new THREE.PlaneGeometry(400, 400, 70, 70);
+  let darkBlueMaterial = new THREE.MeshPhongMaterial({ color: 0xffffff, shading: THREE.FlatShading, side: THREE.DoubleSide, vertexColors: THREE.FaceColors });
 
-    "71-Random": "Remember, love that doesn't include honesty doesn't deserve to be called love. -The Silent Patient ~ Meaning : There should be honesty within lovers or it isn't love. ❤👨‍❤️‍💋‍👨",
+  geometry.vertices.forEach(function (vertice) {
+    vertice.x += (Math.random() - 0.5) * 4;
+    vertice.y += (Math.random() - 0.5) * 4;
+    vertice.z += (Math.random() - 0.5) * 4;
+    vertice.dx = Math.random() - 0.5;
+    vertice.dy = Math.random() - 0.5;
+    vertice.randomDelay = Math.random() * 5;
+  });
 
-    "72-Random": "Whether a man is a legend or not is decided by history, not fortune tellers. - The Legend of Meluha ~ Meaning : A man is made legend by this karma and not by his Fate. 🔱☯☯",
-
-    "73-Random": "We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower ~ Meaning : We think we love the one who love us as we deserve but we deserve more than we think. 😁",
-
-    "74-Random": "People are screwed up in this world. I'd rather be with someone screwed up and open about it than somebody perfect and ready to explode. ― Ned Vizzini, It's Kind of a Funny Story ~ Meaning : I will be someone who is screwed up as they will be open about it unlike one who acts to be perfect as they will explode at some point. 💖👨‍❤️‍👨",
-
-    "75-Random": "A wise man can learn more from his enemies than a fool from his friends.- Paulo Coelho, The Alchemist ~ Meaning : People who are foolish will never be able to benefit from the friends he or she has. 👬👫",
-
-    "76-Random": "He who does not trust enough will not be trusted. - Lao Tzu ~ Meaning : If you do not trust other people, others will not be able to trust you. 🤝",
-
-    "77-Random": "The best way to find out if you can trust somebody is to trust them. - Ernest Hemingway ~ Meaning : You can only come to know if a person is trustworthy or not by actually trusting them. 🙏",
-
-    "78-Random": "Trust is like a vase, once it’s broken, though you can fix it, the vase will never be same again. - Walter Anderson ~ Meaning : Once trust is broken it cannot be restored as it was, no matter what.💔",
-
-    "79-Random": "Strength does not come from physical capacity. It comes from an indomitable will. - Mahatma Gandhi ~ Meaning : Real strength comes from a person's strong will and mindset rather than a strong body. 🧠💪",
-
-    "80-Random": "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau ~ Meaning : Success comes to those who work hard instead of sitting, waiting and complaining about their lives. 🏆",
-
-    "81-Random": "If you don’t make time for exercise, you’ll probably have to make time for illness. - Robin Sharma ~ Meaning : If you do not keep your body active and healthy then you have to face the consequences of being unfit and ill. 🏃‍♀️🏃‍♂️",
-
-    "82-Random": "Rome wasn’t built in a day, but they worked on it every single day. - Michael John Bobak ~ Meaning : Small consistent efforts everyday lead to great achievements. 🥇🏆",
-
-    "83-Random": "Go the extra mile. It’s never crowded. - Wayne Dyer ~ Meaning : A lot of people are content with being good but very few people take the extra effort to be great at things. 🙌🏃‍♂️",
-
-    "84-Random": "You just can’t beat the person who never gives up. - Babe Ruth ~ Meaning : A person who has a strong mindset cannot be outdone by a person with a mediocre mindset. 🔝",
-
-    "85-Random": "Sometimes the women have to take over. Like in the war. - Polly Gray ~ Meaning : In times of trouble when men aren't around, women have to take charge and deal with the situation themselves. 👩💪",
-
-    "86-inspirational": "When you have a dream, you've got to grab it and never let go. — Carol Burnett ~ Meaning : A dream shouldn't have to remain a dream, Put it to reality",
-
-    "87-inspirational": "Nothing is impossible. The word itself says 'I'm possible! — Audrey Hepburn ~ Meaning : You can achieve anything that you can thought of",
-
-    "88-inspirational": "There is nothing impossible to they who will try — Alexander the Great ~ Meaning : Keep trying until you get success",
-
-    "89-inspirational": "The bad news is time flies. The good news is you're the pilot. — Michael Altshuler ~ Meaning : Always check the good side of the situation",
-
-    "90-inspirational": "Life has got all those twists and turns. You've got to hold on tight and off you go. — Nicole Kidman ~ Meaning : Well, life is a pretty twisted thing. So, to survive in life, you must know how to live appropriately",
-
-    "91-inspirational": "Keep your face always toward the sunshine, and shadows will fall behind you. — Walt Whitman ~ Meaning : Always focus Ahead!",
-
-    "92-inspirational": "Be courageous. Challenge orthodoxy. Stand up for what you believe in. When you are in your rocking chair talking to your grandchildren many years from now, be sure you have a good story to tell. — Amal Clooney ~ Meaning : Take challenges as an opportunity",
-
-    "93-inspirational": "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box. — Duchess Meghan ~ Meaning : What are you at present is based on your previous decisions",
-
-    "94-inspirational": "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill ~ Meaning : Keep hustling no matter whether you get success or failure",
-
-    "95-inspirational": "you define your own life. Don't let other people write your script. — Oprah Winfrey ~ Meaning : You are writer of your own story",
-
-
-
-
-
-
-
-
-
-    //Stop Here👇
-    //(ㆆ_ㆆ)ヾ(⌐■_■)ノ♪~_~＞︿＜¯\_(ツ)_/¯(～￣▽￣)～（づ￣3￣）づ╭❤️～༼ つ ◕_◕ ༽つ( ఠൠఠ )ﾉ( ◍•㉦•◍ )(ʘ ͜ʖ ʘ)O_O(*^_^*)`(*>﹏<*)′(*^▽^*)(❁´◡`❁)（*＾-＾*）(✿◡‿◡)φ(゜▽゜*)♪( •̀ ω •́ )✧[]~(￣▽￣)~*
-  };
-
-  // grab all the keys in the dictionary (authors) and store in an array
-  var authors = Object.keys(myData);//authors is an array of all the keys in the dictionary myData 
-  // grab a random key (author) and store it in author
-  var author = authors[Math.floor(Math.random() * authors.length)];//Math.floor(Math.random() * authors.length) is used to get random number between 0 and authors.length
-  // grab the value(quote) that belongs to that key
-  var quote = myData[author];// grab the value(quote) that belongs to that key 
-  document.querySelector("#author").textContent = author;// display the author in the html   
-  document.querySelector("#quote").textContent = quote;// display the quote in the html 
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// _______________________________________Another Function______________________________________________________________
-// _____________________________________________________________________________________________________________________
-// _____________________________________________________________________________________________________________________
-// _____________________________________________________________________________________________________________________
-
-
-// Music Enhancer
-var codeXam = document.getElementById('codeXam');//codeXam is the id of the audio tag in the html file
-var codeXamBtn = document.getElementById('control');// codeXamBtn is the id of the button in the html file
-
-function playPause(song) {//playPause is the function that will be called when the button is clicked
-  if (song.paused && song.currentTime >= 0 && !song.ended) {// if the song is paused and the current time is greater than 0 and the song is not ended then play the song
-    song.play();// play the song
-  } else {
-    song.pause();// else pause the song
+  for (var i = 0; i < geometry.faces.length; i++) {
+    geometry.faces[i].color.setStyle(baseColor);
+    geometry.faces[i].baseColor = baseColorRGB;
   }
+
+
+  plane = new THREE.Mesh(geometry, darkBlueMaterial);
+  scene.add(plane);
+
+
+
+  // Create stars
+  farthestStars = createStars(1200, 420, "#0952BD");
+  farStars = createStars(1200, 370, "#A5BFF0");
+  nearStars = createStars(1200, 290, "#118CD6");
+
+  scene.add(farthestStars);
+  scene.add(farStars);
+  scene.add(nearStars);
+
+  farStars.rotation.x = 0.25;
+  nearStars.rotation.x = 0.25;
+
+  // Uncomment for testing second camera position
+  // camera.rotation.x = Math.PI / 2;
+  // camera.position.y = -0;
+  // camera.position.z = 20;
+  // plane.scale.x = 2;
+
 }
 
-function reset(btn, song) { // reset is the function that will be called when the song ends
-  if (btn.classList.contains('playing')) {// if the button has the class playing then remove the class playing
-    btn.classList.toggle('playing');// remove the class playing
+
+function createStars(amount, yDistance, color = "0x000000") {
+  let opacity = Math.random();
+  let starGeometry = new THREE.Geometry();
+  let starMaterial = new THREE.PointsMaterial({ color: color, opacity: opacity });
+
+  for (let i = 0; i < amount; i++) {
+    let vertex = new THREE.Vector3();
+    vertex.z = (Math.random() - 0.5) * 1500;
+    vertex.y = yDistance;
+    vertex.x = (Math.random() - 0.5) * 1500;
+
+    starGeometry.vertices.push(vertex);
   }
-  song.pause();// pause the song
-  song.currentTime = 0;// set the current time of the song to 0
+
+
+  return new THREE.Points(starGeometry, starMaterial);
 }
 
-function progress(btn, song) {// progress is the function that will be called when the song is playing
-  setTimeout(function () {// setTimeout is used to call the function after a certain time
-    var end = song.duration;// end is the duration of the song
-    var current = song.currentTime;// current is the current time of the song
-    var percent = current / (end / 100);// percent is the percentage of the song that has been played
-    //check if song is at the end
-    if (current == end) {// if the current time of the song is equal to the duration of the song then call the reset function
-      reset(btn, song);// call the reset function
-    }
-    //set inset box shadow
-    btn.style.boxShadow = "inset " + btn.offsetWidth * (percent / 100) + "px 0px 0px 0px rgba(0,0,0,0.125)"// set the box shadow of the button
-    //call function again
-    progress(btn, song);// call the progress function again
-  }, 1000);// call the function after 1000ms
+
+let timer = 0;
+
+
+function render() {
+  requestAnimationFrame(render);
+
+
+  timer += 0.01;
+  let vertices = plane.geometry.vertices;
+
+  for (let i = 0; i < vertices.length; i++) {
+    // Ease back to original vertice position while still maintaining sine wave
+    vertices[i].x -= Math.sin(timer + vertices[i].randomDelay) / 40 * vertices[i].dx;
+    vertices[i].y += Math.sin(timer + vertices[i].randomDelay) / 40 * vertices[i].dy;
+    // ((vertices[i].x - vertices[i].originalPosition.x) * 0.1) +
+  }
+
+  // Determine where ray is being projected from camera view
+  raycaster.setFromCamera(normalizedMouse, camera);
+
+  // Send objects being intersected into a variable
+  let intersects = raycaster.intersectObjects([plane]);
+
+  if (intersects.length > 0) {
+
+    let faceBaseColor = intersects[0].face.baseColor;
+
+    plane.geometry.faces.forEach(function (face) {
+      face.color.r *= 255;
+      face.color.g *= 255;
+      face.color.b *= 255;
+
+      face.color.r += (faceBaseColor.r - face.color.r) * 0.01;
+      face.color.g += (faceBaseColor.g - face.color.g) * 0.01;
+      face.color.b += (faceBaseColor.b - face.color.b) * 0.01;
+
+      let rInt = Math.floor(face.color.r);
+      let gInt = Math.floor(face.color.g);
+      let bInt = Math.floor(face.color.b);
+
+      let newBasecol = "rgb(" + rInt + "," + gInt + "," + bInt + ")";
+      face.color.setStyle(newBasecol);
+    });
+    plane.geometry.colorsNeedUpdate = true;
+
+    intersects[0].face.color.setStyle("#006ea0");
+    plane.geometry.colorsNeedUpdate = true;
+
+  }
+
+
+
+  plane.geometry.verticesNeedUpdate = true;
+  plane.geometry.elementsNeedUpdate = true;
+
+  farthestStars.rotation.y -= 0.00001;
+  farStars.rotation.y -= 0.00005;
+  nearStars.rotation.y -= 0.00011;
+
+
+  renderer.render(scene, camera);
 }
 
-var volumeUp = false
+init();
 
-codeXamBtn.addEventListener('click', function (e) {// add an event listener to the button
-  e.preventDefault();
-  codeXamBtn.classList.toggle('is--playing');
-  //   codeXamBtn.classList.toggle('playing');// toggle the class playing
-  playPause(codeXam);// call the playPause function
-  progress(codeXamBtn, codeXam);// call the progress function
+window.addEventListener("resize", function () {
+
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+
 });
 
+window.addEventListener("mousemove", function (event) {
+
+  // Normalize mouse coordinates
+  normalizedMouse.x = event.clientX / window.innerWidth * 2 - 1;
+  normalizedMouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+});
+// window.addEventListener("click", function (event) { console.log(event); }); // Uncomment for testing mouse coordinates in console
+let introContainer = $('.intro-container');
+let skyContainer = $('.sky-container');
+let xMark = $('.x-mark');
 
 
+$('.shift-camera-button').click(function () {
+  let introTimeline = new TimelineMax();
+//   introTimeline.to(introContainer, 1, { opacity: 0, display: "none" }); // Hide intro container and show sky container with animation
+  introTimeline.add([
+    TweenLite.fromTo(introContainer, 0.5, { opacity: 1 }, { opacity: 0, ease: Power3.easeIn }),// Hide intro container and show sky container with animation
+    TweenLite.to(camera.rotation, 3, { x: Math.PI / 2, ease: Power3.easeInOut }),// Rotate camera to new position
+    TweenLite.to(camera.position, 2.5, { z: 20, ease: Power3.easeInOut }),// Move camera to new position
+    TweenLite.to(camera.position, 3, { y: 120, ease: Power3.easeInOut }),// Move camera to new position
+    TweenLite.to(plane.scale, 3, { x: 2, ease: Power3.easeInOut })]);// Scale plane to new position
+
+//   introTimeline.add(TweenLite.to(introContainer, 0.5, { opacity: 0, ease: Power3.easeIn }));
+  introTimeline.add([
+    TweenLite.to(xMark, 2, { opacity: 1, ease: Power3.easeInOut }),
+    TweenLite.to(skyContainer, 2, { opacity: 1, ease: Power3.easeInOut })]);
+
+});
+
+// Create a new instance of a pixi stage and renderer and add the renderer view element to the DOM
+$('.x-mark').click(function () {
+  let outroTimeline = new TimelineMax();
+//   TweenLite.to(camera.rotation, 3, { x: 0, ease: Power3.easeInOut });
+  outroTimeline.add([
+    TweenLite.to(xMark, 0.5, { opacity: 0, ease: Power3.easeInOut }),
+    TweenLite.to(skyContainer, 0.5, { opacity: 0, ease: Power3.easeInOut }),
+    TweenLite.to(camera.rotation, 3, { x: 0, ease: Power3.easeInOut }),
+    TweenLite.to(camera.position, 3, { z: 50, ease: Power3.easeInOut }),
+    TweenLite.to(camera.position, 2.5, { y: 0, ease: Power3.easeInOut }),
+    TweenLite.to(plane.scale, 3, { x: 1, ease: Power3.easeInOut })]);
 
 
+  outroTimeline.add([// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
+    TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })]);// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
 
+});
 
-
-
-
+render();
 
