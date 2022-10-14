@@ -1,3 +1,21 @@
+<div align="center">
+<h2 align=center>Contributors✨</h2>
+
+Thanks to these **Wonderful People** 👨🏻‍💻 <br>
+**Contributions** of any kind are welcome! 🚀
+<table >
+	<tr>
+		 <td>
+ <a href="https://github.com/Subham-Maity/StockOfSentence/graphs/contributors"><img src="https://contrib.rocks/image?repo=Subham-Maity/StockOfSentence" />
+</a>
+  </a>
+		</td>
+	</tr>
+</table>
+</div>
+
+*************
+
 <div align="center"><h1> <p>1. What is <a href="https://github.com/Subham-Maity/StockOfSentence/">SOS</a> ? 🤔</p> </h1></div>
 
 
@@ -37,8 +55,6 @@ https://user-images.githubusercontent.com/97989643/195848594-73c8eca6-821c-4b9e-
 
 <p align="center" >
         <img src="https://user-images.githubusercontent.com/97989643/195846129-7710e773-ed01-4c6e-9cbc-c4af061e80d2.gif" width="600" height="295" /> </p>
-
-
 
 
 
