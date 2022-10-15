@@ -151,55 +151,55 @@ function render() {
   raycaster.setFromCamera(normalizedMouse, camera);
 
   // Send objects being intersected into a variable
-  let intersects = raycaster.intersectObjects([plane]);
+  let intersects = raycaster.intersectObjects([plane]);// If there is an intersection, change the color of the face to a random color
 
-  if (intersects.length > 0) {
+  if (intersects.length > 0) {// Get the face that is being intersected
 
-    let faceBaseColor = intersects[0].face.baseColor;
+    let faceBaseColor = intersects[0].face.baseColor;// Change the color of the face to a random color
 
-    plane.geometry.faces.forEach(function (face) {
+    plane.geometry.faces.forEach(function (face) {// Animation loop function face.color.r = faceBaseColor.r + Math.sin(timer) * 10;
       face.color.r *= 255;
       face.color.g *= 255;
       face.color.b *= 255;
 
-      face.color.r += (faceBaseColor.r - face.color.r) * 0.01;
-      face.color.g += (faceBaseColor.g - face.color.g) * 0.01;
-      face.color.b += (faceBaseColor.b - face.color.b) * 0.01;
+      face.color.r += (faceBaseColor.r - face.color.r) * 0.01;// face.color.g = faceBaseColor.g + Math.sin(timer) * 10; -> here face.color means the color of the face, and faceBaseColor means the color of the face before the mouse is over it.
+      face.color.g += (faceBaseColor.g - face.color.g) * 0.01;// face.color.b = faceBaseColor.b + Math.sin(timer) * 10; -> here face.color means the color of the face, and faceBaseColor means the color of the face before the mouse is over it.
+      face.color.b += (faceBaseColor.b - face.color.b) * 0.01;// face.color.r = faceBaseColor.r + Math.sin(timer) * 10; -> here face.color means the color of the face, and faceBaseColor means the color of the face before the mouse is over it.
 
-      let rInt = Math.floor(face.color.r);
-      let gInt = Math.floor(face.color.g);
-      let bInt = Math.floor(face.color.b);
+      let rInt = Math.floor(face.color.r);// face.color.g = faceBaseColor.g + Math.sin(timer) * 10; -> here face.color means the color of the face, and faceBaseColor means the color of the face before the mouse is over it.
+      let gInt = Math.floor(face.color.g);// face.color.b = faceBaseColor.b + Math.sin(timer) * 10; -> here face.color means the color of the face, and faceBaseColor means the color of the face before the mouse is over it.
+      let bInt = Math.floor(face.color.b);// face.color.r = faceBaseColor.r + Math.sin(timer) * 10; -> here face.color means the color of the face, and faceBaseColor means the color of the face before the mouse is over it.
 
-      let newBasecol = "rgb(" + rInt + "," + gInt + "," + bInt + ")";
-      face.color.setStyle(newBasecol);
+      let newBasecol = "rgb(" + rInt + "," + gInt + "," + bInt + ")";//
+      face.color.setStyle(newBasecol);//
     });
-    plane.geometry.colorsNeedUpdate = true;
+    plane.geometry.colorsNeedUpdate = true;// Change the color of the face to a random color
 
-    intersects[0].face.color.setStyle("#006ea0");
-    plane.geometry.colorsNeedUpdate = true;
+    intersects[0].face.color.setStyle("#006ea0");// Change the color of the face to a random color
+    plane.geometry.colorsNeedUpdate = true;// Change the color of the face to a random color
 
   }
 
 
 
-  plane.geometry.verticesNeedUpdate = true;
-  plane.geometry.elementsNeedUpdate = true;
+  plane.geometry.verticesNeedUpdate = true;// Tell three.js that the vertices have changed and need to be updated in the scene graph (otherwise the changes won't be visible)
+  plane.geometry.elementsNeedUpdate = true;// Tell three.js that the faces have changed and need to be updated in the scene graph (otherwise the changes won't be visible)
 
   farthestStars.rotation.y -= 0.00001;
   farStars.rotation.y -= 0.00005;
   nearStars.rotation.y -= 0.00011;
 
 
-  renderer.render(scene, camera);
+  renderer.render(scene, camera);// Render the scene
 }
 
 init();
 
-window.addEventListener("resize", function () {
+window.addEventListener("resize", function () {// on window resize, update the camera and renderer size
 
-  camera.aspect = window.innerWidth / window.innerHeight;
-  camera.updateProjectionMatrix();
-  renderer.setSize(window.innerWidth, window.innerHeight);
+  camera.aspect = window.innerWidth / window.innerHeight;//window.innerWidth / window.innerHeight; // 16 / 9; //window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();// Update camera projection matrix when window is resized to prevent distortion of scene
+  renderer.setSize(window.innerWidth, window.innerHeight);//, false); // false = no antialiasing (faster)
 
 });
 
@@ -234,8 +234,8 @@ $('.shift-camera-button').click(function () {
 });
 
 // Create a new instance of a pixi stage and renderer and add the renderer view element to the DOM
-$('.x-mark').click(function () {
-  let outroTimeline = new TimelineMax();
+$('.x-mark').click(function () {// Hide sky container and show intro container with animation
+  let outroTimeline = new TimelineMax();// Hide sky container and show intro container with animation
 //   TweenLite.to(camera.rotation, 3, { x: 0, ease: Power3.easeInOut });
   outroTimeline.add([
     TweenLite.to(xMark, 0.5, { opacity: 0, ease: Power3.easeInOut }),
@@ -251,5 +251,5 @@ $('.x-mark').click(function () {
 
 });
 
-render();
+render();// Render the scene
 

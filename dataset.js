@@ -12,7 +12,7 @@ generate = () => {//Function to generate sentences from the data set and display
 
         "1-Random":
             "In the aftermath of my tooth extraction, I have returned home  ~ Hinglish meaning of this line  : mere daant nikaalane ke baad, main ghar laut aaya hoon ",
-        "Flexibility of the word FUCK 😂":
+        "Flexibility of the word FUCK":
             "Sexual: Let's fuck.  Mischief: Let's fuck with them.  Aggression: Let's fuck them up.  Anger: Fuck you.    Regret: Fuck me!     Resignation: Oh, fuck it     Surprise: Holy fuck!    Puzzlement: What the fuck?     Greeting: How the fuck are you?      Fraud: I got fucked over.          Identification: Who the fuck are you?     Philosophical: Who gives a fuck?     Compliment: She's so fucking beautiful.    Confusion: Where the fuck are we?     Wonder: What the fuck is that?     Amazement: How the fuck did he do that?           Threat: Don't fuck with me!             Realization: I fucking knew it!",
         "1-Ig: The Knowledge Spreader":
             "Keep it down  ~ Hinglish meaning of this line  : Thoda kam shor Machao😔 ",
@@ -24,19 +24,32 @@ generate = () => {//Function to generate sentences from the data set and display
             "This is no brainer  ~ Hinglish meaning of this line  : Isme Zyada Dimag Lagane ki Zaroorat Nahi hai😲 ",
         "5-Ig: The Knowledge Spreader":
             "I've had anough of you  ~ Hinglish meaning of this line  : Mai tumhe bohot jhel chuki hun 😲 ",
-        "6-Ig: The Knowledge Spreader": "Asthma  ~ Pronounce  : Az-Ma 😲 ",
-        "7-Ig: The Knowledge Spreader": "Breakfast  ~ Pronounce  : Break-fst😲 ",
-        "8-Ig: The Knowledge Spreader": "Dessert  ~ Pronounce  : Di-Zuhrt 😲",
-        "9-Ig: The Knowledge Spreader": "Jewellery  ~ Pronounce  : Jool-Ri 😲",
-        "10-Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro 😲 ",
-        "2-Random ": "Cynophile ~ A person who loves dogs , Dog lover 🐕",
-        "3-Random ": "Musicophile ~ One who loves music 🎸",
-        "4-Random ": "Autophile ~ A person who loves being alone. 😔",
-        "5-Random ": "Dendrophile ~ A person who loves trees 🌴",
-        "6-Random ": "Hodophile ~ One who loves to travel ✈️",
-        "7-Random ": "Thalassophile ~ Someone who loves the sea 🌊",
-        "8-Random ": "Selenophile ~ a person who loves the moon 🌚",
-        "9-Random ": "Astrophile ~ One who loves stars or astronomy 🚀",
+        "6-Ig: The Knowledge Spreader":
+            "Asthma  ~ Pronounce  : Az-Ma 😲 ",
+        "7-Ig: The Knowledge Spreader":
+            "Breakfast  ~ Pronounce  : Break-fst😲 ",
+        "8-Ig: The Knowledge Spreader":
+            "Dessert  ~ Pronounce  : Di-Zuhrt 😲",
+        "9-Ig: The Knowledge Spreader":
+            "Jewellery  ~ Pronounce  : Jool-Ri 😲",
+        "10-Ig: The Knowledge Spreader":
+            "Tomorrow  ~ Pronounce  : To-Maw-ro 😲 ",
+        "2-Random ":
+            "Cynophile ~ A person who loves dogs , Dog lover 🐕",
+        "3-Random ":
+            "Musicophile ~ One who loves music 🎸",
+        "4-Random ":
+            "Autophile ~ A person who loves being alone. 😔",
+        "5-Random ":
+            "Dendrophile ~ A person who loves trees 🌴",
+        "6-Random ":
+            "Hodophile ~ One who loves to travel ✈️",
+        "7-Random ":
+            "Thalassophile ~ Someone who loves the sea 🌊",
+        "8-Random ":
+            "Selenophile ~ a person who loves the moon 🌚",
+        "9-Random ":
+            "Astrophile ~ One who loves stars or astronomy 🚀",
         "1-Ocean English Academy":
             "Thank you for showering me with a lot of love ~ Hinglish meaning of this line  : Mere upar itna sara payar barsane k liye bohot sukriya app sabhika😘💕",
         "2-Ocean English Academy":
@@ -57,14 +70,18 @@ generate = () => {//Function to generate sentences from the data set and display
             "The reason I am calling is to........ ~ Hinglish meaning of this line  : Maine jis liye call kiya wo hai 🙂",
         "10-Ocean English Academy":
             "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : aapako apadet karane ke lie bas ek tvarit kol ki aaj kee baithak ko band kar diya gaya hai🙂",
-        "10-Random ": "skeptical ~ an attitude of doubt 🤔",
+        "10-Random ":
+            "skeptical ~ an attitude of doubt 🤔",
         "11-Random ":
             "I just took a year off.The love of fitness never fades ~ mainne abhee ek saal kee chhuttee lee hai.fitness ka pyaar kabhee kam nahin hota 💪",
-        "12-Random ": " I'll confront him  ~ main usaka saamana karoonga 💪 ",
+        "12-Random ":
+            "I'll confront him  ~ main usaka saamana karoonga 💪 ",
         "13-Random ":
             "Love is unconditional when you can bolster that person through ETERNITY!💖",
-        "14-Random ": "very weird  ~ Bizzare 🦉 ",
-        "15-Random ": "Iron ~ Pronounce : Ion 😸",
+        "14-Random ":
+            "very weird  ~ Bizarre 🦉 ",
+        "15-Random ":
+            "Iron ~ Pronounce : Ion 😸",
         "16-Random ":
             "Touch wood ! ~ Hinglish meaning of this word : khi nazar n lge 🌚 ",
         "17-Random ":
@@ -172,19 +189,19 @@ generate = () => {//Function to generate sentences from the data set and display
         "5-Harry Potter ":
             "The wand🪄 chooses the wizard🧙 — Garrick Ollivander ~ Meaning : There is a level of compatibility between the wand and the magic-user that needs to be taken into account🤷",
 
-        "1-Inspiration ":
+        "1-inspirational ":
             "If you want to shine like a sun, first burn like a sun - Dr APJ Abdul Kalam ~ Hinglish Meaning :  agar sooraj kee tarah chamakana hai to pahale sooraj kee tarah jalo 💘 ",
 
-        "2-Inspiration ":
+        "2-inspirational ":
             "It is during our darkest moments that we must focus to see the light — Aristotle ~ Hinglish Meaning :  yah hamaare sabase andhere kshanon ke dauraan hai ki hamen prakaash ko dekhane ke lie dhyaan kendrit karana chaahie😍.",
 
-        "3-Inspiration ":
+        "3-inspirational ":
             "Try to be a rainbow in someone's cloud — Maya Angelou ~ Hinglish Meaning : kisee ke baadal mein indradhanush banane kee koshish karo😍 ",
 
-        "4-Inspiration ":
+        "4-inspirational ":
             "We are not our best intentions, We are what we do — Amy Dickinson ~ Hinglish Meaning :  ham apane sabase achchhe iraade nahin hain, ham vahee hain jo ham karate hain😊",
 
-        "5-Inspiration ":
+        "5-inspirational ":
             "Being vulnerable is a strength, not a weakness — Selena Gomez ~ Hinglish Meaning :  kamajor hona ek taakat hai, kamajoree nahin😊",
 
         "1-Motivational":
@@ -202,115 +219,146 @@ generate = () => {//Function to generate sentences from the data set and display
         "5-Motivational":
             "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
 
-        "63-Random": "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love. 🏳️🏳️",
+        "63-Random":
+            "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love. 🏳️🏳️",
 
-        "64-Random": "Do your duty unto others. This is the call of time. Ponder over why you have taken birth. – Mahabharata ~ Meaning : We should treat people as we would like to be treated. 😊😊",
+        "64-Random":
+            "Do your duty unto others. This is the call of time. Ponder over why you have taken birth. – Mahabharata ~ Meaning : We should treat people as we would like to be treated. 😊😊",
 
-        "65-Random": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.-Benedict Cumberbatch ~ Meaning : We should never underestimate people. 💪",
+        "65-Random":
+            "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.-Benedict Cumberbatch ~ Meaning : We should never underestimate people. 💪",
 
-        "66-Random": "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he? -It's a Wonderful Life ~ Meaning : No man is a failure who has friends. 👨🏻‍🤝‍👨🏻",
+        "66-Random":
+            "Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he? -It's a Wonderful Life ~ Meaning : No man is a failure who has friends. 👨🏻‍🤝‍👨🏻",
 
-        "67-Random": "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special. 😁",
+        "67-Random":
+            "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope. -Steven Hawking ~ Meaning : Every Human is special. 😁",
 
-        "68-Random": "There is no God. No one directs the universe. - Steven Hawking ~ Meaning : No one directs our fate. 🔱",
+        "68-Random":
+            "There is no God. No one directs the universe. - Steven Hawking ~ Meaning : No one directs our fate. 🔱",
 
-        "69-Random": "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped. 🙏",
+        "69-Random":
+            "Hope is a dangerous thing. Hope can drive a man insane. - The Shawshank Redemption ~ Meaning : Every passing moment makes you failure when you hope and it never happens whatever you have hoped. 🙏",
 
-        "70-Random": "It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho, The Alchemist ~ Meaning : Without possibility, life is meaningless. 😊😁",
+        "70-Random":
+            "It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho, The Alchemist ~ Meaning : Without possibility, life is meaningless. 😊😁",
 
-        "71-Random": "Remember, love that doesn't include honesty doesn't deserve to be called love. -The Silent Patient ~ Meaning : There should be honesty within lovers or it isn't love. ❤👨‍❤️‍💋‍👨",
+        "71-Random":
+            "Remember, love that doesn't include honesty doesn't deserve to be called love. -The Silent Patient ~ Meaning : There should be honesty within lovers or it isn't love. ❤👨‍❤️‍💋‍👨",
 
-        "72-Random": "Whether a man is a legend or not is decided by history, not fortune tellers. - The Legend of Meluha ~ Meaning : A man is made legend by this karma and not by his Fate. 🔱☯☯",
+        "72-Random":
+            "Whether a man is a legend or not is decided by history, not fortune tellers. - The Legend of Meluha ~ Meaning : A man is made legend by this karma and not by his Fate. 🔱☯☯",
 
-        "73-Random": "We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower ~ Meaning : We think we love the one who love us as we deserve but we deserve more than we think. 😁",
+        "73-Random":
+            "We accept the love we think we deserve. ― Stephen Chbosky, The Perks of Being a Wallflower ~ Meaning : We think we love the one who love us as we deserve but we deserve more than we think. 😁",
 
-        "74-Random": "People are screwed up in this world. I'd rather be with someone screwed up and open about it than somebody perfect and ready to explode. ― Ned Vizzini, It's Kind of a Funny Story ~ Meaning : I will be someone who is screwed up as they will be open about it unlike one who acts to be perfect as they will explode at some point. 💖👨‍❤️‍👨",
+        "74-Random":
+            "People are screwed up in this world. I'd rather be with someone screwed up and open about it than somebody perfect and ready to explode. ― Ned Vizzini, It's Kind of a Funny Story ~ Meaning : I will be someone who is screwed up as they will be open about it unlike one who acts to be perfect as they will explode at some point. 💖👨‍❤️‍👨",
 
-        "75-Random": "A wise man can learn more from his enemies than a fool from his friends.- Paulo Coelho, The Alchemist ~ Meaning : People who are foolish will never be able to benefit from the friends he or she has. 👬👫",
+        "75-Random":
+            "A wise man can learn more from his enemies than a fool from his friends.- Paulo Coelho, The Alchemist ~ Meaning : People who are foolish will never be able to benefit from the friends he or she has. 👬👫",
 
-        "76-Random": "He who does not trust enough will not be trusted. - Lao Tzu ~ Meaning : If you do not trust other people, others will not be able to trust you. 🤝",
+        "76-Random":
+            "He who does not trust enough will not be trusted. - Lao Tzu ~ Meaning : If you do not trust other people, others will not be able to trust you. 🤝",
 
-        "77-Random": "The best way to find out if you can trust somebody is to trust them. - Ernest Hemingway ~ Meaning : You can only come to know if a person is trustworthy or not by actually trusting them. 🙏",
+        "77-Random":
+            "The best way to find out if you can trust somebody is to trust them. - Ernest Hemingway ~ Meaning : You can only come to know if a person is trustworthy or not by actually trusting them. 🙏",
 
-        "78-Random": "Trust is like a vase, once it’s broken, though you can fix it, the vase will never be same again. - Walter Anderson ~ Meaning : Once trust is broken it cannot be restored as it was, no matter what.💔",
+        "78-Random":
+            "Trust is like a vase, once it’s broken, though you can fix it, the vase will never be same again. - Walter Anderson ~ Meaning : Once trust is broken it cannot be restored as it was, no matter what.💔",
 
-        "79-Random": "Strength does not come from physical capacity. It comes from an indomitable will. - Mahatma Gandhi ~ Meaning : Real strength comes from a person's strong will and mindset rather than a strong body. 🧠💪",
+        "79-Random":
+            "Strength does not come from physical capacity. It comes from an indomitable will. - Mahatma Gandhi ~ Meaning : Real strength comes from a person's strong will and mindset rather than a strong body. 🧠💪",
 
-        "80-Random": "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau ~ Meaning : Success comes to those who work hard instead of sitting, waiting and complaining about their lives. 🏆",
+        "80-Random":
+            "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau ~ Meaning : Success comes to those who work hard instead of sitting, waiting and complaining about their lives. 🏆",
 
-        "81-Random": "If you don’t make time for exercise, you’ll probably have to make time for illness. - Robin Sharma ~ Meaning : If you do not keep your body active and healthy then you have to face the consequences of being unfit and ill. 🏃‍♀️🏃‍♂️",
+        "81-Random":
+            "If you don’t make time for exercise, you’ll probably have to make time for illness. - Robin Sharma ~ Meaning : If you do not keep your body active and healthy then you have to face the consequences of being unfit and ill. 🏃‍♀️🏃‍♂️",
 
-        "82-Random": "Rome wasn’t built in a day, but they worked on it every single day. - Michael John Bobak ~ Meaning : Small consistent efforts everyday lead to great achievements. 🥇🏆",
+        "82-Random":
+             "Rome wasn’t built in a day, but they worked on it every single day. - Michael John Bobak ~ Meaning : Small consistent efforts everyday lead to great achievements. 🥇🏆",
 
-        "83-Random": "Go the extra mile. It’s never crowded. - Wayne Dyer ~ Meaning : A lot of people are content with being good but very few people take the extra effort to be great at things. 🙌🏃‍♂️",
+        "83-Random":
+             "Go the extra mile. It’s never crowded. - Wayne Dyer ~ Meaning : A lot of people are content with being good but very few people take the extra effort to be great at things. 🙌🏃‍♂️",
 
-        "84-Random": "You just can’t beat the person who never gives up. - Babe Ruth ~ Meaning : A person who has a strong mindset cannot be outdone by a person with a mediocre mindset. 🔝",
+        "84-Random":
+             "You just can’t beat the person who never gives up. - Babe Ruth ~ Meaning : A person who has a strong mindset cannot be outdone by a person with a mediocre mindset. 🔝",
 
-        "85-Random": "Sometimes the women have to take over. Like in the war. - Polly Gray ~ Meaning : In times of trouble when men aren't around, women have to take charge and deal with the situation themselves. 👩💪",
+        "85-Random":
+             "Sometimes the women have to take over. Like in the war. - Polly Gray ~ Meaning : In times of trouble when men aren't around, women have to take charge and deal with the situation themselves. 👩💪",
 
-        "86-inspirational": "When you have a dream, you've got to grab it and never let go. — Carol Burnett ~ Meaning : A dream shouldn't have to remain a dream, Put it to reality",
+        "6-inspirational":
+             "When you have a dream, you've got to grab it and never let go. — Carol Burnett ~ Meaning : A dream shouldn't have to remain a dream, Put it to reality",
 
-        "87-inspirational": "Nothing is impossible. The word itself says 'I'm possible! — Audrey Hepburn ~ Meaning : You can achieve anything that you can thought of",
+        "7-inspirational":
+             "Nothing is impossible. The word itself says 'I'm possible! — Audrey Hepburn ~ Meaning : You can achieve anything that you can thought of",
 
-        "88-inspirational": "There is nothing impossible to they who will try — Alexander the Great ~ Meaning : Keep trying until you get success",
+        "8-inspirational":
+             "There is nothing impossible to they who will try — Alexander the Great ~ Meaning : Keep trying until you get success",
 
-        "89-inspirational": "The bad news is time flies. The good news is you're the pilot. — Michael Altshuler ~ Meaning : Always check the good side of the situation",
+        "9-inspirational":
+            "The bad news is time flies. The good news is you're the pilot. — Michael Altshuler ~ Meaning : Always check the good side of the situation",
 
-        "90-inspirational": "Life has got all those twists and turns. You've got to hold on tight and off you go. — Nicole Kidman ~ Meaning : Well, life is a pretty twisted thing. So, to survive in life, you must know how to live appropriately",
+        "10-inspirational":
+             "Life has got all those twists and turns. You've got to hold on tight and off you go. — Nicole Kidman ~ Meaning : Well, life is a pretty twisted thing. So, to survive in life, you must know how to live appropriately",
 
-        "91-inspirational": "Keep your face always toward the sunshine, and shadows will fall behind you. — Walt Whitman ~ Meaning : Always focus Ahead!",
+        "11-inspirational":
+             "Keep your face always toward the sunshine, and shadows will fall behind you. — Walt Whitman ~ Meaning : Always focus Ahead!",
 
-        "92-inspirational": "Be courageous. Challenge orthodoxy. Stand up for what you believe in. When you are in your rocking chair talking to your grandchildren many years from now, be sure you have a good story to tell. — Amal Clooney ~ Meaning : Take challenges as an opportunity",
+        "12-inspirational":
+             "Be courageous. Challenge orthodoxy. Stand up for what you believe in. When you are in your rocking chair talking to your grandchildren many years from now, be sure you have a good story to tell. — Amal Clooney ~ Meaning : Take challenges as an opportunity",
 
-        "93-inspirational": "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box. — Duchess Meghan ~ Meaning : What are you at present is based on your previous decisions",
+        "13-inspirational":
+             "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box. — Duchess Meghan ~ Meaning : What are you at present is based on your previous decisions",
 
-        "94-inspirational": "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill ~ Meaning : Keep hustling no matter whether you get success or failure",
+        "14-inspirational":
+             "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill ~ Meaning : Keep hustling no matter whether you get success or failure",
 
-        "95-inspirational": "you define your own life. Don't let other people write your script. — Oprah Winfrey ~ Meaning : You are writer of your own story",
+        "15-inspirational":
+             "you define your own life. Don't let other people write your script. — Oprah Winfrey ~ Meaning : You are writer of your own story",
 
-        "96-inspirational": "Hey CodeXam You are Cool. — Xam ~ Meaning : You know He is cool",
+        "16-inspirational":
+             "Hey CodeXam You are Cool. — Xam ~ Meaning : You know He is cool",
         
-        "1-Random ":
-        " Main Apni Favourite Hoon  ~ English translation: I am my favourite person💪",
-        
-        "2-Random ":
-        " Mere Paas Gaadi Hai, Bangla Hai Paisa Hai, Tumhare Paas Kya Hai? ~ English translation:  I have a car, a bungalow and money. What do you have?I have a mother😊 ",
-        
-        "4-Random ":
-        " Senorita, Bade Bade Sheheron Mein Aisi Chhoti Chhoti Baatein Hoti Rehti Hain ~ English translation:  Senorita, such small things are common place in such big cities 😊 ",
+        "86-Random ":
+             "Main Apni Favourite Hoon  ~ English translation: I am my favourite person💪",
 
-        "5-Random ":
-        "  Ek Baar Jo Maine Commitment Kar Di, Uske Baad Toh Main Khud Ki Bhi Nahi Sunta ~ English translation:  Once I make a commitment, I don’t listen to myself either😊  ",
+        "87-Random ":
+            "Senorita, Bade Bade Sheheron Mein Aisi Chhoti Chhoti Baatein Hoti Rehti Hain ~ English translation:  Senorita, such small things are common place in such big cities 😊 ",
 
-        "6-Random ":
-        " Bachcha Kabil Bano, Kabil … Kamyabi Toh Saali Jhak Maarke Peeche Bhagegi ~ English translation:  Child, become capable… success will then automatically follow 😊 ",
+        "88-Random ":
+            "Ek Baar Jo Maine Commitment Kar Di, Uske Baad Toh Main Khud Ki Bhi Nahi Sunta ~ English translation:  Once I make a commitment, I don’t listen to myself either😊  ",
 
-        "7-Random ":
-        " Kehte Hain, Agar Kissi Cheez Ko Dil Se Chaho, Toh Puri Ki Puri Qayanaat Tumhe Usse Milaane Ki Koshish Mein Lag Jaati Hai ~ English translation:  It is said that if you truly want something, then the world conspires to get you to it 😊 ",
+        "89-Random ":
+            "Bachcha Kabil Bano, Kabil … Kamyabi Toh Saali Jhak Maarke Peeche Bhagegi ~ English translation:  Child, become capable… success will then automatically follow 😊 ",
 
-        "8-Random ":
-        " Tension Lene Ka Nahi Sirf Dene Ka ~ English translation: Don’t take tension yourself, only give it.🏆  ",
+        "100-Random ":
+            "Kehte Hain, Agar Kissi Cheez Ko Dil Se Chaho, Toh Puri Ki Puri Qayanaat Tumhe Usse Milaane Ki Koshish Mein Lag Jaati Hai ~ English translation:  It is said that if you truly want something, then the world conspires to get you to it 😊 ",
 
-        "9-Random ":
-        " Risk Toh Spider Man Ko Bhi Lena Padta Hai, Main Toh Sirf Ek Salesman Hoon ~ English translation:  Even Spiderman needs to take risk, I am just a salesman🏆  ",
+        "101-Random ":
+           "Tension Lene Ka Nahi Sirf Dene Ka ~ English translation: Don’t take tension yourself, only give it.🏆  ",
 
-        "10-Random ":
-        "  Pehle Apni Game Baaki Logon Se Unchi Karo. Phir Apni Aawaz Unchi Karna ~ English translation: Raise your game before you raise your voice 🏆 ",
+        "102-Random ":
+           "Risk Toh Spider Man Ko Bhi Lena Padta Hai, Main Toh Sirf Ek Salesman Hoon ~ English translation:  Even Spiderman needs to take risk, I am just a salesman🏆  ",
 
-        "11-Random ":
-        " Mere Hisaab Se Toh Dharam Ek Hi Kaam Karta Hai, Ya Toh Woh Insaan Ko Bebas Banata Hai Ya Antakwadi  ~ English translation: In my opinion religion achieves only one thing, either it makes a person helpless or a terrorist 🏃‍♂️ ",
+        "103-Random ":
+           "Pehle Apni Game Baaki Logon Se Unchi Karo. Phir Apni Aawaz Unchi Karna ~ English translation: Raise your game before you raise your voice 🏆 ",
 
-        "12-Random ":
-        "  Agar Hum Apni Zindagi Ka Steering Wheel Apne Haath Mein Nahi Lenge Na… Toh Koi Doosra Driver Seat Par Baith Jayega ~ English translation: If we don’t control the steering wheel of our life, someone else will take control 😊 ",
+        "104-Random ":
+           "Mere Hisaab Se Toh Dharam Ek Hi Kaam Karta Hai, Ya Toh Woh Insaan Ko Bebas Banata Hai Ya Antakwadi  ~ English translation: In my opinion religion achieves only one thing, either it makes a person helpless or a terrorist 🏃‍♂️ ",
 
-        "13-Random ":
-        "  Dil Se Faisla Karo Tumhe Kya Karna Hai. Dimaag Tarkeeb Nikalega  ~ English translation: Decide from your heart what you want to do. The brain will find a way out 😊 ",
+        "105-Random ":
+           "Agar Hum Apni Zindagi Ka Steering Wheel Apne Haath Mein Nahi Lenge Na… Toh Koi Doosra Driver Seat Par Baith Jayega ~ English translation: If we don’t control the steering wheel of our life, someone else will take control 😊 ",
 
-        "14-Random ":
-        " Sahi Direction Mein Utha Har Kadam … Apne Aap Mein Ek Manzil Hai … After All Life Is All About The Next Step ~ English translation: Every step in the right direction is a milestone in itself… after all life is all about the next step😊  ",
+        "106-Random ":
+           "Dil Se Faisla Karo Tumhe Kya Karna Hai. Dimaag Tarkeeb Nikalega  ~ English translation: Decide from your heart what you want to do. The brain will find a way out 😊 ",
 
-        "15-Random ":
-        " Tumhare Paas Joh Hai Tumhare Hisaab Se Kam Hai … Lekin Kisi Doosre Ke Nazar Se Dekho … Toh Tumhare Paas Bahut Kuch Hai ~ English translation: You might think you have very little. But, if you look at it from someone else’s view point, then you have a lot.😊  ",
+        "107-Random ":
+            "Sahi Direction Mein Utha Har Kadam … Apne Aap Mein Ek Manzil Hai … After All Life Is All About The Next Step ~ English translation: Every step in the right direction is a milestone in itself… after all life is all about the next step😊  ",
+
+        "108-Random ":
+            "Tumhare Paas Joh Hai Tumhare Hisaab Se Kam Hai … Lekin Kisi Doosre Ke Nazar Se Dekho … Toh Tumhare Paas Bahut Kuch Hai ~ English translation: You might think you have very little. But, if you look at it from someone else’s view point, then you have a lot.😊  ",
 
         
 
