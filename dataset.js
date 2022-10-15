@@ -359,22 +359,36 @@ generate = () => {//Function to generate sentences from the data set and display
 
         "108-Random ":
             "Tumhare Paas Joh Hai Tumhare Hisaab Se Kam Hai … Lekin Kisi Doosre Ke Nazar Se Dekho … Toh Tumhare Paas Bahut Kuch Hai ~ English translation: You might think you have very little. But, if you look at it from someone else’s view point, then you have a lot.😊  ",
-
         
+        "17-inspirational":
+            "If you only do what you can do, you will never be more than you are now. — Shifu, Kung Fu Panda ~ Meaning : The only way to achieve mastery is to push youself beyond your boundaries",
 
+        "18-inspirational":
+            "To make something special, you just have to believe it is special. — Mr. Ping, Kung Fu Panda ~ Meaning : Self-Belief is necessary for success",
 
+        "19-inspirational":
+            "Yesterday is history, tommorow is a mystery. Today is a gift. That is why it is called the present — Master Oogway, Kung Fu Panda ~ Meaning : One should only focus on the present, focusing on the future or past is pointless",
+        
+        "20-inspirational ":
+            "Your real strength comes from being the best 'you' you can be. - Po, Kung Fu Panda ~ Meaning: You can't change who you are and you can only achieve success when you try to be the best version of yourself",    
 
+        "109-Random ":
+            "It's the job that's never started that takes the longest time to finish - Samwise Gamgee, Lord of the Rings ~ Meaning: The only way to get something done is to start doing it.",
 
+        "20-inspirational ":
+            "Deeds will not be less valiant because they are unpraised - Aragorn, Lord of the Rings ~ Meaning: one should not do things just to be praised, one should do it because it is the right thing to do",
+        
+        "21-inspirational ":
+            "Even the smallest person can change the course of history - Galadriel, Lord of the Rings ~ Meaning: Always believe in yourself, nothing else matters.",
 
+        "110-Random ":
+            "All we have to decide is what to do with the time that is given us. - Gandalf, Lord of the Rings ~ Meaning: Time is precious and you can't waste it thinking about the past",
 
+        "22-inspirational ":
+            "You have nothing if not belief - CS Lewis, Chronicles of Narnia ~ Meaning: Belief and Hope are the most important things.",
 
-
-
-
-
-
-
-
+        "111- Random ":
+            "Courage, dear heart - CS Lewis, Chronicles of Narnia ~ Meaning: Courage is necessary to survive. ",
 
 
 
