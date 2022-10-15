@@ -390,35 +390,35 @@ generate = () => {//Function to generate sentences from the data set and display
         "111- Random ":
             "Courage, dear heart - CS Lewis, Chronicles of Narnia ~ Meaning: Courage is necessary to survive. ",
         
-        "112- Random ":
-            "It's over, Anakin. I have the high ground. - Obi-Wan-Kenobi, Star Wars - Revenge Of The Sith  ~ Meaning: Obi-Wan got better position in fight, and he will win. ",
+        "112- Star Wars ":
+            "It's over, Anakin. I have the high ground. - Obi-Wan-Kenobi, Star Wars - Revenge Of The Sith  ~ Meaning: Obi-Wan got better position in fight, and he will win.🤺🏆 ",
         
-        "113- Random ":
-            "There’s always a bigger fish. - Qui-Gon Jinn, Star Wars - The Phantom Menace ~ Meaning: There is always someone stronger, who can beat us. ",
+        "113- Star Wars ":
+            "There’s always a bigger fish. - Qui-Gon Jinn, Star Wars - The Phantom Menace ~ Meaning: There is always someone stronger, who can beat us. 💪",
         
-        "114- Random ":
-            " The ability to speak does not make you intelligent. - Qui-Gon Jinn, Star Wars - The Phantom Menace ~ Meaning: Even if you speak, it doenst mean that you can say something smart. ",
+        "114- Star Wars ":
+            " The ability to speak does not make you intelligent. - Qui-Gon Jinn, Star Wars - The Phantom Menace ~ Meaning: Even if you speak, it doenst mean that you can say something smart. 🗣️🧠",
         
-        "115- Random ":
-            "As long as there’s light, we’ve got a chance. - Poe Dameron, Star Wars - The Phantom Menace ~ Meaning: If you are still alive you can win ",
+        "115- Star Wars ":
+            "As long as there’s light, we’ve got a chance. - Poe Dameron, Star Wars - The Phantom Menace ~ Meaning: If you are still alive you can win 🏆",
 
-        "116- Random ":
-            "When I left you, I was but the learner. Now I am the master. - Darth Vader, Star Wars - A New Hope ~ Meaning: You can always overcome your master and become better",
+        "116- Star Wars ":
+            "When I left you, I was but the learner. Now I am the master. - Darth Vader, Star Wars - A New Hope ~ Meaning: You can always overcome your master and become better🤺",
         
-        "117- Random ":
-            "You know, no matter how much we fought, I’ve always hated watching you leave. – Leia Organa, The Force Awaken ~ Meaning: No matter how you argue with someone the love will stay forever",
+        "117- Star Wars ":
+            "You know, no matter how much we fought, I’ve always hated watching you leave. – Leia Organa, The Force Awaken ~ Meaning: No matter how you argue with someone the love will stay forever❤️😡",
            
-        "118- Random ":
-            "I’m just a simple man trying to make my way in the universe.” – Jango Fett, Star Wars - Attack of the clones ~ Meaning: Everyone is looking for their path in the world",
+        "118- Star Wars ":
+            "I’m just a simple man trying to make my way in the universe.” – Jango Fett, Star Wars - Attack of the clones ~ Meaning: Everyone is looking for their path in the world🚶‍♂️🌍",
           
-        "119- Random ":
-            "No one’s ever really gone. – Luke Skywalker, The Last Jedi,  ~ Meaning: Even if someone is dead we will have them in our mind",    
+        "119- Star Wars ":
+            "No one’s ever really gone. – Luke Skywalker, The Last Jedi,  ~ Meaning: Even if someone is dead we will have them in our mind☠🤔",    
 
-        "120- Random ":
-            "It is impossible to manufacture or imitate love. – Horace Slughorn, Harry Potter and the Half-Blood Prince ~ Meaning: We cannot act like true love",
+        "120- Harry Potter ":
+            "It is impossible to manufacture or imitate love. – Horace Slughorn, Harry Potter and the Half-Blood Prince ~ Meaning: We cannot act like true love❤️",
             
-        "121- Random ":
-            "We’re with you whatever happens. – Ron Weasley, Harry Potter and the Half-Blood Prince ~ Meaning: True friends will always stay with you in the best and in the worst",
+        "121-Harry Potter ":
+            "We’re with you whatever happens. – Ron Weasley, Harry Potter and the Half-Blood Prince ~ Meaning: True friends will always stay with you in the best and in the worst 🙋‍♂️👥",
 
 
             
