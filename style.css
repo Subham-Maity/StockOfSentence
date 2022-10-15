@@ -6,19 +6,13 @@ body {
 
 .intro-container {
 	position: absolute;
-	/* top: 10%; */
-	transform: translateY(-1%);
+	top: 10%;
+	transform: translateY(-50%);
 	color: white;
 	text-align: center;
-	/* margin: 0 auto; */
+	margin: 0 auto;
 	right: 30%;
 	left: 30%;
-	height: 100vh;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-	z-index: 11;
 }
 
 h1 {
