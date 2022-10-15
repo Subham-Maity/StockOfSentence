@@ -571,10 +571,10 @@ div.center {
 }
 #control {
   position: absolute;
-  bottom: 228px;
+  bottom: 27px;
   width: 20px;
   height: 20px;
-  right: 412px;
+  right: -413px;
   cursor: pointer;
 }
 #control .border {
@@ -591,10 +591,10 @@ div.center {
 }
 #control .play {
   position: absolute;
-  top: 11px;
+  top: 14px;
   left: 16px;
   box-sizing: border-box;
-  height: 15px;
+  height: 11px;
   width: 15px;
   border-color: transparent transparent transparent #41fff5;
   transition: 100ms all ease;
