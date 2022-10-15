@@ -424,12 +424,35 @@ generate = () => {//Function to generate sentences from the data set and display
             
            
 
+        "23-inspirational ":
+            "I'm going to make him an offer 💥 he can't refuse 😮 - THE GODFATHER ~ Meaning: Negotiate as if this is your last chance",
 
+        "24-inspirational":
+            "You can't handle 🙌 the truth! 🤭 - A Few Good Men ~ Meaning: Truth is the bitter sweet ",
+        
+        "25-inspirational ":
+            "Well, nobody's 👦 perfect. 🙂 - SOME LIKE IT HOT ~ Meaning: We live in a world of imperfections",
 
+        "112- Random ":
+            "You've got to ask yourself one question ❓❓❓: 'Do I feel lucky? 🤟' Well, do ya, punk? - DIRTY HARRY ~ Meaning: Be grateful for the thing we have ",
 
+        "26-inspirational ":
+            "A boy's 🤠 best friend is his mother 👨‍👧. - PSYCHO ~ Meaning: Mother is the most important person in our life",
 
+        "113- Random ":
+            "Greed, for lack ♉ of a better word ✨, is good. - WALL STREET ~ Meaning: Being Greedy is not a bad thing ",
+        
+        "114-Random ":
+            "Gentlemen, you can't fight 👨‍🚒 in here! ⚔⚔⚔ This is the War Room! 🔪🔪🔪 - DR. STRANGELOVE ~ Meaning: Irony at its best",
 
+        "115- Random ":
+            "I have always depended on the kindness 🥂 of strangers 🚶‍♂️🚶‍♂️🚶‍♂️. - A STREETCAR NAMED DESIRE ~ Meaning: Sometimes a strange can be of some help in a bad situation ",
 
+        "27-inspirational ":
+            "Life 👽 is a banquet, and most poor suckers 🍲 are starving to death! 👣 - AUNTIE MAME ~ Meaning: Be courageous in life",
+
+        "28- inspirational ":
+            "My mother thanks you🙂. My father thanks you🙂. My sister thanks you🙂. And I thank you. - YANKEE DOODLE DANDY ~ Meaning: Be thankful to your family. They stuck by you through thick and thin. ",
 
 
 
