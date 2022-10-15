@@ -453,11 +453,12 @@ generate = () => {//Function to generate sentences from the data set and display
 
         "28- inspirational ":
             "My mother thanks you🙂. My father thanks you🙂. My sister thanks you🙂. And I thank you. - YANKEE DOODLE DANDY ~ Meaning: Be thankful to your family. They stuck by you through thick and thin. ",
+    
+        
+        "122- Random ":
+            "This is your life and it's ending one minute at a time. — Fight Club.  ~ Meaning: Time is the ruler of everything",
 
-
-
-
-
+    
 
 
 
