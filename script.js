@@ -217,10 +217,11 @@ let xMark = $('.x-mark');
 
 
 $('.shift-camera-button').click(function () {
+  introContainer.style = "display:none"
   let introTimeline = new TimelineMax();
 //   introTimeline.to(introContainer, 1, { opacity: 0, display: "none" }); // Hide intro container and show sky container with animation
   introTimeline.add([
-    TweenLite.fromTo(introContainer, 0.5, { opacity: 1 }, { opacity: 0, ease: Power3.easeIn }),// Hide intro container and show sky container with animation
+    TweenLite.fromTo(introContainer, 0.5, { opacity: 1 }, { opacity: 0, ease: Power3.easeIn, display: "none" }),// Hide intro container and show sky container with animation
     TweenLite.to(camera.rotation, 3, { x: Math.PI / 2, ease: Power3.easeInOut }),// Rotate camera to new position
     TweenLite.to(camera.position, 2.5, { z: 20, ease: Power3.easeInOut }),// Move camera to new position
     TweenLite.to(camera.position, 3, { y: 120, ease: Power3.easeInOut }),// Move camera to new position
@@ -230,6 +231,8 @@ $('.shift-camera-button').click(function () {
   introTimeline.add([
     TweenLite.to(xMark, 2, { opacity: 1, ease: Power3.easeInOut }),
     TweenLite.to(skyContainer, 2, { opacity: 1, ease: Power3.easeInOut })]);
+
+    
 
 });
 
@@ -247,9 +250,16 @@ $('.x-mark').click(function () {// Hide sky container and show intro container w
 
 
   outroTimeline.add([// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
-    TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })]);// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
+    TweenLite.to(introContainer, 0.5, {opacity: 1, ease: Power3.easeIn, display: "flex" })]);// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
 
+    introContainer.style = "display:flex"
 });
 
 render();// Render the scene
 
+
+// Function to adjust z-index (Which is preventing to click the today button after entering the world)
+function adjust_Z_index(){
+  let introContainer = document.getElementById("introCnt")
+  introContainer.style.display = none;
+}
