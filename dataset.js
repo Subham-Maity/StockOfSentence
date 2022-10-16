@@ -509,7 +509,7 @@ generate = () => {
       "Good health is the most important thing. More than success, more than 💴 , more than power💪. – Hyman Roth, The Godfather ~ Meaning: Just because you should always be planning for the future does not mean you should not take care of yourself in the present. Be good to yourself: eat well, exercise, and try to live forever.",
 
     "132- Motivating ":
-      "If you really want something in life, you have to steal it from somebody else. 🔥 -  Berlin, Money Heist ~ Meaning: You have to steal other's opportunity to achieve something",
+      "If you really want something in life, you have to steal it from somebody else. 🔥 -  Berlin, Money Heist ~ Meaning: You have to steal the opportunity from others to achieve something great",
     
     
     
