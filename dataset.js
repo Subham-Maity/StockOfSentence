@@ -504,6 +504,28 @@ generate = () => {//Function to generate sentences from the data set and display
            "There’s no such thing as an unsolvable problem 🔰🟢. – The Matrix ~ Meaning: This quote is a reminder that there is always a way to solve a problem, even if it seems impossible at first. It is a message of hope and resilience",
       "38- inspirational ":
            "What we do in life echoes in eternity ♾️. – Maximus, Gladiator ~ Meaning: This quote reminds us that our actions have consequences, both in this life and the next. It is a message of accountability and responsibility.",
+           '39- The Intern ':
+			'I know there is a hole 🕳 in my life and I need to fill it soon. – Ben Whittaker, The Intern ~ Meaning: Ben felt a void in his life. He did always had a purpose'
+		'40- The Intern ':
+			'You’re never wrong ❌to do the right thing ✅. – Ben Whittaker, The Intern ~ Meaning: He believed doing the right thing was never the wrong thing and it symbolized his life.'
+		'41- The Intern ':
+			'You should feel nothing but great ✨about what you have done, and I would hate to see you let anyone take that away from you. – Ben Whittaker, The Intern ~ Meaning: Ben inspired others to assert their own potential'
+		'42- The Godfather ':
+			'Keep Your Friends Close But Your Enemies Closer. – Michael, The Godfather ~ Meaning: One should be on ones toes and alert of  surroundings if malicious people are around, to ensure that they cannot wreak havoc in ones life.'
+		'43- The Intern ':
+			'Nobody calls men "men" anymore👨🏻. Have you noticed? Women went from "girls" to "women."Men went from "men" to "boys?" This is a problem in the big picture. – Jules, The Intern ~ Meaning: Jules expresses her dissatisfaction with how the current male society has become.'
+		'44- The Intern ':
+			'💻Mark Zuckerberg never brought in a CEO - and he was a teenager! – Jules, The Intern ~ Meaning: Jules makes an effort to develop her argument in support of Age is only a number.'
+		'45- The Godfather ':
+			'👨‍👩‍👧‍👦A man who doesn’t spend time with his family can never be a real man. – Don Vito Corleone, The Godfather ~ Meaning: It is your duty to be there for your family, regardless of the circumstances. This will help protect them while you are alive, and leave a meaningful legacy after you are gone.'
+		'46- The Godfather ':
+			'Leave the gun, take the cannolis. – Peter Clemenza, The Godfather ~ Meaning: Keep your priorities straight. 📈And do not forget to treat yourself, or your better half, after a job well done.'
+		'47- The Godfather ':
+			'Among reasonable men problems of business could always be solved. 🤝– Don Vito, The Godfather ~ Meaning: When you are trying to resolve a tricky problem, leave it alone, think about it some, and come back to it later. A solution will always present itself.'
+		'48- The Godfather ':
+			'Friendship and money. Oil and water🌊. – Michael Corleone, The Godfather ~ Meaning: Do not assume friends (or family for that matter) will behave rationally when money is at stake. Account for all your financial assets, perhaps even set up a Trust, and make sure it is all properly allocated in your Will so there is no confusion after you are gone.'
+		'49- The Godfather ':
+			'Good health is the most important thing. More than success, more than 💴 , more than power💪. – Hyman Roth, The Godfather ~ Meaning: Just because you should always be planning for the future does not mean you should not take care of yourself in the present. Be good to yourself: eat well, exercise, and try to live forever.'
 
 
 
