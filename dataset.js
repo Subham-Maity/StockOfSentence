@@ -454,6 +454,26 @@ generate = () => {//Function to generate sentences from the data set and display
         "28- inspirational ":
             "My mother thanks you🙂. My father thanks you🙂. My sister thanks you🙂. And I thank you. - YANKEE DOODLE DANDY ~ Meaning: Be thankful to your family. They stuck by you through thick and thin. ",
 
+       "29- inspirational ":
+            "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
+      "30- inspirational ":
+            "Great men are not born great; they grow great👯‍♂️. – Mario Puzo, The Godfather ~Meaning: This quote reminds that anyone can achieve greatness if they work hard enough. It is a message of hope and opportunity.",
+      "31- inspirational ":
+            "All we have to decide is what to do with the time given to us⌚. – Gandalf, Lord of the Rings: The Fellowship of the Ring ~ Meaning: This quote reminds us that we should make the most of every moment and not take life for granted. It is a message of mindfulness and appreciation.",
+      "32- inspirational ":
+            "All those moments will be lost in time⏰, like tears in the rain🌧️. – Rutger Hauer, Blade Runner ~Meaning: This quote reminds us that our time on this earth is precious and limited. It is a message of mortality and awareness.",
+      "33- inspirational ":
+            "You have to be a little bit crazy to do great things🌑. – The Dark Knight ~ Meaning: This quote reminds us that to achieve something great, we must be willing to take risks. It is a message of courage and ambition.",
+      "34- inspirational ":
+            "Get busy living, or get busy dying😥. – Andy Dufresne, The Shawshank Redemption ~ Meaning: This quote is a reminder that life is too short to waste time on things that don’t matter. It is a message of awareness and urgency",
+      "35- inspirational ":
+            "I keep telling everybody they should move on and grow. Some do. But not us😉. – Steve Rogers, Avengers: Endgame ~ Meaning: This quote is a reminder that some things are worth fighting for, even if they seem impossible. It is a message of hope and determination.",
+      "36- inspirational ":
+            "Put two ships in the open sea 🌊 without wind or ride, and they will come together💨. – Arthur, Aquaman ~ Meaning: This quote reminds us that no matter how different we seem, we are all connected. It is a message of unity and empathy.",
+      "37- inspirational ":
+           "There’s no such thing as an unsolvable problem 🔰🟢. – The Matrix ~ Meaning: This quote is a reminder that there is always a way to solve a problem, even if it seems impossible at first. It is a message of hope and resilience",
+      "38- inspirational ":
+           "What we do in life echoes in eternity ♾️. – Maximus, Gladiator ~ Meaning: This quote reminds us that our actions have consequences, both in this life and the next. It is a message of accountability and responsibility.",
 
 
 
