@@ -452,7 +452,37 @@ generate = () => {//Function to generate sentences from the data set and display
             "Life 👽 is a banquet, and most poor suckers 🍲 are starving to death! 👣 - AUNTIE MAME ~ Meaning: Be courageous in life",
 
         "28- inspirational ":
-            "My mother thanks you🙂. My father thanks you🙂. My sister thanks you🙂. And I thank you. - YANKEE DOODLE DANDY ~ Meaning: Be thankful to your family. They stuck by you through thick and thin. ",
+            "My mother thanks you🙂. My father thanks you🙂. My sister thanks you🙂. And I thank you. - The Wizard of Oz, 1939 ~ Meaning: Be thankful to your family. They stuck by you through thick and thin. ",
+
+        "123- Random ":
+            "There's no place like home. - The Wizard of Oz, 1939 ~ Meaning: Home is the best place for comfort.",
+
+        "124- Motivating ":
+            "Today, I consider myself the luckiest man on the face of the earth. - The Pride of the Yankees, 1942 ~ Meaning: You're the luckiest man on earth because you're alive. Be grateful for it",
+
+        "125- Motivating ":
+            "May the Force be with you. - Star Wars, 1977 ~ Meaning: Wish everyone good fortune  ",
+
+        "126- Motivating ":
+            "Fasten your seatbelts. It's going to be a bumpy night. - All About Eve, 1950 ~ Meaning:  Be ready for the struggles & hurdles because life's not fair. Life is about facing the unfairness. ",
+
+        "127- Love ":
+            "Love means never having to say you're sorry. -  Love Story, 1970 ~ Meaning:  From a standpoing: Love is about understanding, friendship & connection between each other ",
+
+        "128- Inspirational ":
+            "You complete me. -  ERRY MAGUIRE, 1996 ~ Meaning: It's all about connection, both parners in love complete each other. For eg:- There is no solo existence of krishna without radha ",
+
+        "129- Inspirational ":
+            "I'll be back. -  The Terminator, 1984 ~ Meaning: You must get up after every fall, never give up ",
+
+        "130- Factual ":
+            "You can't handle the truth! -  A Few Good Men, 1992 ~ Meaning: Not every people can handle, accept the truth. Be the honest one ! ",
+
+        "131- Motivating ":
+            "You is kind. You is smart. You is important. -  The Help, 2011 ~ Meaning: Prioritize yourself first, don't think yourself as weak ! ",
+
+        "132- Motivating ":
+            "To infinity and beyond! -  Toy Story, 1995 ~ Meaning: There are limitless possibilities, infinity is endless ! ",
 
 
 
