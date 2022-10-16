@@ -220,7 +220,7 @@ $('.shift-camera-button').click(function () {
   let introTimeline = new TimelineMax();
 //   introTimeline.to(introContainer, 1, { opacity: 0, display: "none" }); // Hide intro container and show sky container with animation
   introTimeline.add([
-    TweenLite.fromTo(introContainer, 0.5, { opacity: 1 }, { opacity: 0, ease: Power3.easeIn }),// Hide intro container and show sky container with animation
+    TweenLite.fromTo(introContainer, 0.5, { opacity: 1 }, { opacity: 0, ease: Power3.easeIn, display: "none" }),// Hide intro container and show sky container with animation
     TweenLite.to(camera.rotation, 3, { x: Math.PI / 2, ease: Power3.easeInOut }),// Rotate camera to new position
     TweenLite.to(camera.position, 2.5, { z: 20, ease: Power3.easeInOut }),// Move camera to new position
     TweenLite.to(camera.position, 3, { y: 120, ease: Power3.easeInOut }),// Move camera to new position
@@ -247,7 +247,7 @@ $('.x-mark').click(function () {// Hide sky container and show intro container w
 
 
   outroTimeline.add([// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
-    TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })]);// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
+    TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn, display: "flex" })]);// TweenLite.to(introContainer, 0.5, { opacity: 1, ease: Power3.easeIn })
 
 });
 
