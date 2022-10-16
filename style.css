@@ -6,13 +6,18 @@ body {
 
 .intro-container {
 	position: absolute;
-	top: 10%;
-	transform: translateY(-50%);
 	color: white;
 	text-align: center;
-	margin: 0 auto;
 	right: 30%;
 	left: 30%;
+
+	/* Display:flex by himal */
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	z-index: 111;
 }
 
 h1 {
