@@ -508,13 +508,65 @@ generate = () => {
     "49- The Godfather ":
       "Good health is the most important thing. More than success, more than 💴 , more than power💪. – Hyman Roth, The Godfather ~ Meaning: Just because you should always be planning for the future does not mean you should not take care of yourself in the present. Be good to yourself: eat well, exercise, and try to live forever.",
 
-    
-    
-    
-    
-    
-    
-    
+    "1- Matsumoto Rangiku (BLEACH)":
+      "To know sorrow is not terrifying. What is terrifying is to know you can’t go back to the happiness you could have.🥹",
+  
+    "2- Naruto Uzumaki (NARUTO)":
+      "If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be.🔥🔥🔥",
+  
+    "3- Saitama (ONE-PUNCH MAN)":
+      "Simplicity is the easiest path to true beauty.",
+
+    "4- Nagato (NARUTO)":
+      "If you don’t share someone’s pain😢, you can never understand them",
+
+    "5- Renton Thurston (EUREKA SEVEN)":
+      "Don’t beg for things. Do it yourself, or else you won’t get anything.",
+
+    "6- Goku (DRAGON BALL Z)":
+      "Power comes in response to a need, not a desire. You have to create that need.",
+
+    "7- Monkey D. Luffy (ONE PIECE)":
+      "Being lonely is more painful than getting hurt.",
+
+    "8- Mugen (SAMURAI CHAMPLOO)":
+      "Don’t live your life making up excuses. The one making your choices is yourself!",
+
+    "9- Kurotsuchi Mayuri (BLEACH)":
+      "I hate perfection. To be perfect is to be unable to improve any further.",
+
+    "10- Monkey D. Luffy (ONE PIECE)":
+      "If you don’t take risks, you can’t create a future!",
+
+    "11- Reiko Mikami (ANOTHER)":
+      "It’s just pathetic to give up on something before you even give it a shot.",
+
+    "12- Alucard (HELLSING)":
+      "Giving up kills people. When people reject giving up… they finally win the right to transcend humanity.",
+
+    "13- Milly Thompson (TRIGUN)":
+      "Every journey begins with a single step. We just have to have patience.",
+
+    "14- Sanae Furukawa (CLANNAD)":
+      "If your life can change once, your life can change again.🔥🔥🔥",
+
+    "15- Gildarts Clive (FAIRY TALE)":
+      "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder.",
+
+    "16- Izuku Midoriya (MY HERO ACADEMIA)":
+      "Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!",
+
+    "17- Tsunade (NARUTO)":
+      "People become stronger because they have memories they can’t forget.",
+
+    "18- Mitsuyoshi Anzai (SLAM DUNK)":
+      "When you give up, that’s when the game ends.",
+
+    "19- Monkey D. Luffy (ONE PIECE)":
+      "Forgetting is like a wound. The wound may heal, but it has already left a scar.",
+
+    "20- Juuzou Suzuya (TOKYO GHOUL)":
+      "Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?🥹"
     
     
     
