@@ -509,25 +509,25 @@ generate = () => {
       "Good health is the most important thing. More than success, more than 💴 , more than power💪. – Hyman Roth, The Godfather ~ Meaning: Just because you should always be planning for the future does not mean you should not take care of yourself in the present. Be good to yourself: eat well, exercise, and try to live forever.",
 
     "1- Money Heist ":
-      "If you really want something in life, you have to steal it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
+      "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
     "2- Money Heist ":
-       "The plan is designed to survive any setbacks, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
+       "The plan is designed to survive any setbacks💯, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
     "3- Money Heist ":
-      "You’re the sexiest woman in the world but I love you for your brains. ― The Professor, ~ Meaning: He loves her for her intelligence",
+      "You’re the sexiest woman 👩in the world but I love you for your brains🧠. ― The Professor, ~ Meaning: He loves her for her intelligence",
     "4- Money Heist ":
-      "Time is greater than money.― The Professor, ~ Meaning: nothing is more costly than time",
+      "Time is greater than money💵.― The Professor, ~ Meaning: nothing is more costly than time",
     "5- Money Heist ":
-      "You can’t get out of the Bank of Spain alive. It’s impossible. But I will get you out of there. ― The Professor, ~ Meaning: he has already planned to get them all out of bank",
+      "You can’t get out of the Bank 🏦of Spain 🇪🇸alive. It’s impossible. But I will get you out of there. ― The Professor, ~ Meaning: he has already planned to get them all out of bank",
     "6- Money Heist ":
-      "Maybe we’re all immature to some extent. ― The Professor ~ Meaning: we all are little immature ",
+      "Maybe we’re all immature👶 to some extent. ― The Professor ~ Meaning: we all are little immature ",
     "7- Money Heist ":
-      "First times are so special. But the last times are beyond comparison. Priceless. But people don’t usually know it. ― Berlin, ~ Meaning: People forget the last last time of their life",
+      "First times are so special. But the last times are beyond comparison. Priceless💰. But people don’t usually know it. ― Berlin, ~ Meaning: People forget the last last time of their life",
     "8- Money Heist ":
-      "What I don’t want is for you to die before you’ve even lived.” ― Berlin ~ Meaning: What I don’t want is for you to die before you’ve even lived.”,
+      "What I don’t want is for you to die 🪦 before you’ve even lived.” ― Berlin ~ Meaning: What I don’t want is for you to die before you’ve even lived.”,
     "9- Money Heist ":
-      "In heists, love can get multiplied. ― Tokyo" ~ Meaning: we start loving more in a heist ",
+      "In heists, love ♥️ can get multiplied✖️. ― Tokyo ~ Meaning: we start loving more in a heist ",
     "10- Money Heist ":
-      "My love, the things that actually matter in life always come unexpectedly. ― Berlin, ~ Meaning: we don't know what will happen tomorrow",
+      "My love, the things that actually matter in life always come unexpectedly⏰. ― Berlin, ~ Meaning: we don't know what will happen tomorrow",
     
     
     
