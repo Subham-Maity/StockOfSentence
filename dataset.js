@@ -473,10 +473,10 @@ generate = () => {
 
     "135- Inspirational ":
       "Why do we fall 🍂, sir? So that we can learn to pick ourselves up. - Batman Begins, 2005 ~ Meaning: Obstacles are nothing but the stepping stones to success",
-  
+
     "136- Insightful ":
       "You either die a hero 🦸 or live long enough to see yourself become the villain 🦹. - The Dark Knight, 2008 ~ Meaning:Taking that chance to die, means that you are indeed a hero because you stood for something and are willing to pay the price of death. ",
-    
+
     "137- Motivational ":
       "It is not our abilities that show what we truly are… it is our choices 🔘. -Harry Potter and the Chamber of Secrets ~ Meaning: A person is best identified by the choices he/she made rather than the abilities possessed",
 
@@ -578,13 +578,13 @@ generate = () => {
       "In heist love ♥️ can get multiplied ✖️. ― Tokio, ~ Meaning: People start loving more in a bad situation ",
     "10- Money Heist ":
       "My love, the things that actually matter in life always come unexpectedly⏰. ― Berlin, ~ Meaning: we don't know what will happen tomorrow",
-    
+
     "1- Matsumoto Rangiku (BLEACH)":
       "To know sorrow is not terrifying. What is terrifying is to know you can’t go back to the happiness you could have.🥹",
-  
+
     "2- Naruto Uzumaki (NARUTO)":
       "If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be.🔥🔥🔥",
-  
+
     "3- Saitama (ONE-PUNCH MAN)":
       "Simplicity is the easiest path to true beauty.😊",
 
@@ -638,43 +638,68 @@ generate = () => {
 
     "20- Juuzou Suzuya (TOKYO GHOUL)":
       "Why should I apologize for being a monster?🥺 Has anyone ever apologized for turning me into one?🥹",
-    
+
     "1- Criminal Minds":
       "I find that I do some of my best work📚 under intense terror💣🔪. - Dr. Spencer Reid, ~ Meaning: When the environment adds pressure and creates terror, new ideas are created to get make the best out of worse situation.",
-    
+
     "2- Criminal Minds":
       "One of the last things I said before he shot🔫 me was everything happens for a reason💫. Derek, if I lose faith🛐 in that then nothing in my life makes sense🙏🏼. - Penelope Grace Garcia, ~ Meaning: When we believe in something and that belief is challenged, that is the time when you need to hold on to the belief even more tightly.",
-    
+
     "3- Criminal Minds":
       "I belong in this unit.😤 And all I'm asking you for is the chance to show that🙏🏼. - Emily Prentiss, ~ Meaning: We need a chance to show that we belong somewhere.",
-    
+
     "4- Criminal Minds":
       "Nothing white people🙍🏻‍♂️do to blacks🙍🏿‍♂️ is just. -Christopher J. Scaver, Sr., ~ Meaning: What white people think fun is racism for black people.",
-    
+
     "5- The Hobbit: The Battle Of The Five Armies":
       "If more of us valued food🥗🍛 and cheer🍻 and song🎶 above hoarded gold🪙, it would be a merrier world.🥳 But, sad😔 or merry🤩, I must leave it now. Farewell👋🏼. -Thorin II Oakenshield, ~ Meaning: Life cann't always be cheerful but it has greed in it too. ",
-    
+
     "6- Criminal Minds":
       "There are things we don't want to happen but have to accept.🥺 Things we don't want to know but have to learn.📒 And people we can't live without but have to let go☠️. -Jennifer Jareau, ~ Meaning: There are certain things in life that is out of our control and its okay to move on from them.",
-    
+
     "7- Criminal Minds":
       "I study📚 guys like you for a living, I know more about you than you know about yourself🤟🏼🙏🏼. -Derek Morgan, ~ Meaning: When you do something for a long time, you began an expert on it.",
-    
+
     "8- Criminal Minds":
       "Beauty🤍 can cover a multitude of sins😈. But underneath, we all look exactly the same💀. -Frank Breitkopf, ~ Meaning: Though we show good behaviour formthe outside, we are all filled with greed and selfishness from the inside.",
-    
+
     "9- Willow ":
       "Magic🪄 is the bloodstream of the universe🌏. Forget all you know, or think you know. All that you require is your intuition😇. - High Aldwin, ~ Meaning: The way your intuition works is nature's wonder and magic.",
-    
+
     "10- Star Trek: The Next Generation":
-      "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.", 
+      "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.",
 
+    "1-Inception":
+      "Once An Idea Has Taken Hold Of The Brain, It’s Almost Impossible To Eradicate.😮 -Domm , ~Meaning:At one point, Cobb compares ideas to parasites: “What is the most resilient parasite? Bacteria? A virus?😱 An intestinal worm? An idea. Resilient...highly contagious. Once an idea has taken hold of the brain, it’s almost impossible to eradicate. An idea that is fully formed – fully understood – that sticks; right in there somewhere.”",
 
- 
-    
-    
-      //Stop Here👇
-    //(ㆆ_ㆆ)ヾ(⌐■_■)ノ♪~_~＞︿＜¯\_(ツ)_/¯(～￣▽￣)～（づ￣3￣）づ╭❤️～༼ つ ◕_◕ ༽つ( ఠൠఠ )ﾉ( ◍•㉦•◍ )(ʘ ͜ʖ ʘ)O_O(*^_^*)`(*>﹏<*)′(*^▽^*)(❁´◡`❁)（*＾-＾*）(✿◡‿◡)φ(゜▽゜*)♪( •̀ ω •́ )✧[]~(￣▽￣)~*
+    "2-Inception":
+      "Downward Is The Only Way Forward.😬 -Domm , ~Meaning:Following the string of dreams in Inception isn’t easy. And when the characters say things like, 😣“Downward is the only way forward,” it certainly doesn’t help anybody follow the plot.",
+
+    "3-Inception":
+      "They Say We Only Use A Fraction Of Our Brain’s True Potential.😨 -Domm, ~Meaning:According to Domm Cobb, “They say we only use a fraction of our brain’s true potential. Now, that’s when we’re awake. When we’re asleep, we can do almost anything.”",
+
+    "4-Inception":
+      "True Inspiration Is Impossible To Fake. 😦-Aurthor , Meaning:In order to demonstrate the process of planting an idea in someone’s mind, Arthur tells Saito not to think about elephants, then asks him what he’s thinking about and he replies, “Elephants.” Arthur explains, “Right, but it’s not your idea. The dreamer can always remember the genesis of the idea.”",
+
+    "5-Inception":
+      "Dreams feel real while we’re in them. It’s only when we wake up that we realize something was actually strange 😵‍💫.-Domm , ~Meaning:Cobb makes a fantastic point about the psychology of dreams. It’s probably the first thing that comes up in a lecture about that part of human psychology,",
+    "6-GodFather":
+      " I’m gonna make him an offer he can’t refuse.😎” —Don Vito Corleone, ~Meaning:😎 Vito Corleone showing positive attitude",
+
+    "7-GodFather":
+      "A man who doesn’t spend time with his family can never be a real man. 😮‍💨 ” —Don Vito Corleone,~Meaning: Don realising the value family and duty of a real man",
+
+    "8-GodFather":
+      "Women and children can be careless, but not men😤. —Don Vito Corleone ,~ Meaning: Don tells the responsibility fo a real alpha male",
+
+    "9-GodFather":
+      "Revenge is a dish best served cold💀 ☠️. —Don Vito Corleone , ~ Meaning: Don tells the what revenge means to him",
+
+    "10-The Prestige":
+      " Now you're looking for the secret. But you won't find it because of course, you're not really looking 😵‍💫. You don't really want to work it out. You want to be fooled.,-cutter, ~ Meanign: cutter explaining that u are not actually want to find the secret ",
+
+    //Stop Here👇
+    //(ㆆ_ㆆ)ヾ(⌐■_■)ノ♪~_~＞︿＜¯\_(ツ)_/¯(～￣▽￣)～（づ￣ 3￣）づ╭❤️～༼ つ ◕_◕ ༽つ( ఠൠఠ )ﾉ( ◍•㉦•◍ )(ʘ ͜ʖ ʘ)O_O(*^_^*)`(*>﹏<*)′(*^▽^*)(❁´◡`❁)（*＾-＾*）(✿◡‿◡)φ(゜▽゜*)♪( •̀ ω •́ )✧[]~(￣▽￣)~*
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
