@@ -537,9 +537,27 @@ generate = () => {
       "Friendship and money. Oil and water🌊. – Michael Corleone, The Godfather ~ Meaning: Do not assume friends (or family for that matter) will behave rationally when money is at stake. Account for all your financial assets, perhaps even set up a Trust, and make sure it is all properly allocated in your Will so there is no confusion after you are gone.",
     "49- The Godfather ":
       "Good health is the most important thing. More than success, more than 💴 , more than power💪. – Hyman Roth, The Godfather ~ Meaning: Just because you should always be planning for the future does not mean you should not take care of yourself in the present. Be good to yourself: eat well, exercise, and try to live forever.",
+    "50- inspirational":
+      "You have to leave something behind 😑 to go forward😊. - Interstellar, 2014 ~ Meaning: Sometime in our live we have to make decision to sacrifice and quit something we love to move forward into better future.",
+    "51- inspirational":
+      "Whatever happens tomorrow😐, we've had today.😊 - One Day, 2011 ~ Meaning: We got to enjoy the present, the now where we are at, rather than worrying what might happen tomorrow and ruining the moment we have now.",
+    "52- inspirational":
+      "You'll have bad times😥, but it'll always wake you up to the good stuff you weren't paying attention to😊💫. - Good Will Hunting, 1997 ~ Meaning: Sometime, it will take some bad moments to make us realize how lucky and blessed we were with having them.",
+    "53- inspirational":
+      "Just because things ain't easy😥, that don't give you excuse🙄 to take what's not yours. - Cinderalla Man, 2005 ~ Meaning: We should not lose our beliefs, our values and our faith while the bad time comes. We can't make the excuse of bad times to be the bad person.",
+    "54- inspirational":
+      "Every champion was once a contender that refused to give up❤. - Rocky Movie, 1976 ~ Meaning: Perfection is not from birth but result of the sheer determination and  willingness to learn, to grow and become better without giving up.",
+    "55- inspirational":
+      "When I got tried, I slept. When I got hungry, I age. When I had to go, you know, I went.✔️🥰 - Forrest Gump, 1994 ~ Meaning: We got to do what is right for us in every situation.  You want something, then you got to do what it takes to get it. There is no other way.",
+    "56- inspirational":
+      "When you want something in life, you just gotta reach out and grap it😊💫. - Into the Wild, 2007 ~ Meaning: If we want something that's good, isn't it? Most people don't even know what they want in their life. So, we should move ahead and try to achieve that rather than making excuses even after setting the goals.",
+    "57- inspirational":
+       "Every man dies🙃, but not every man really lives🙄. - Braveheart, 1995 ~ We all have dreams, aspirations and goals. Some choose to give up thinking they are not good enough. Some fight for it, they feel and live for it.To fight is to live and to give up is to die.",
+    "58- inspirational":
+      "It's supposed to be hard. If it wasn't hard, everyone would do it😊. The hard... is what makes it great💫. - A League of Their Own, 1992 ~ Meaning: Our goals and aims of life should be difficult and challenging. That's what makes us live and fight for that. If they are easy then what the satisfaction on achieving them.",
+    "59 - inspirational":
+       "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
 
-    
-    
     
     
     
