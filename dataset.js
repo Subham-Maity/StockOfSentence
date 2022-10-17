@@ -670,35 +670,35 @@ generate = () => {
       "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.", 
 
 
-    "1- Random":
+    "124- Random":
       "No one can ever prepare you for what happens when you have a child👶🏻. When you see the baby in your arms🤱🏻👨🏻‍🍼 and you know that it's your job now. No one can prepare you for the love and the fear.",
       
-    "2- Random":
+    "125- Random":
       "She was the, and still is to me, the most beautiful thing in the world.🌍",
 
-    "3- Random":
+    "126- Random":
       "We’re all traveling✈️ through time together, every day of our lives. All we can do is do our best to relish the remarkable ride.🎢",
 
-    "4- Random":
+    "127- Random":
       "It was the toughest decision of my life. Saying “yes” to the future meant saying “goodbye” to my dad forever.👋🏻",
     
-    "5- Random":
+    "128- Random":
       "All the time traveling✈️ in the world can’t make someone love❤️ you.",
     
-    "6- Random":
+    "129- Random":
       "I just try to live everyday🗓 as if I’ve deliberately come back to this one, to enjoy it, as if it was the final full day of my extraordinary, ordinary life.📆",
     
-    "7- Random":
+    "130- Random":
       "Live life as if there were no second chances.🔑",
       
-    "8- Random":
+    "131- Random":
       "I love your eyes.👀 I love the rest of your face, too. I haven’t even looked further down and I’m sure it’s all fantastic.🧚🏻‍♀️",
 
-    "9- Random":
+    "132- Random":
       "I’d only give one piece of advice to anyone marrying.💍 We’re all quite similar in the end. We all get old and tell the same tales too many times. But try and marry someone kind.",
     
-    "10- Random":
-      "You had me at ‘hello.👋🏻"
+    "133- Random":
+      "You had me at ‘hello.👋🏻",
 
     "1- Cinema Paradiso":
       "Life isn't like in the movies🎬. Life... is much harder.",
@@ -731,7 +731,9 @@ generate = () => {
       "If one is not enjoying one's present💐, there isn't a great deal to suggest that the future🔮 should be any better.",
 
  
-    
+
+
+
     
       //Stop Here👇
     //(ㆆ_ㆆ)ヾ(⌐■_■)ノ♪~_~＞︿＜¯\_(ツ)_/¯(～￣▽￣)～（づ￣3￣）づ╭❤️～༼ つ ◕_◕ ༽つ( ఠൠఠ )ﾉ( ◍•㉦•◍ )(ʘ ͜ʖ ʘ)O_O(*^_^*)`(*>﹏<*)′(*^▽^*)(❁´◡`❁)（*＾-＾*）(✿◡‿◡)φ(゜▽゜*)♪( •̀ ω •́ )✧[]~(￣▽￣)~*
