@@ -525,7 +525,7 @@ generate = () => {
     "8- Money Heist ":
       "What I don’t want is for you to die 🪦 before you’ve even lived. ― Berlin ~ Meaning: What I don’t want is for you to die before you’ve even lived.”,
     "9- Money Heist ":
-      "In heists, love ♥️ can get multiplied✖️. ― Tokyo ~ Meaning: we start loving more in a heist ",
+      "In heist love ♥️ can get multiplied ✖️. ― Tokio, ~ Meaning: People start loving more in a bad situation ",
     "10- Money Heist ":
       "My love, the things that actually matter in life always come unexpectedly⏰. ― Berlin, ~ Meaning: we don't know what will happen tomorrow",
     
