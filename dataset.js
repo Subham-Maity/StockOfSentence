@@ -669,6 +669,7 @@ generate = () => {
     "10- Star Trek: The Next Generation":
       "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.", 
 
+
     "1- Random":
       "No one can ever prepare you for what happens when you have a child👶🏻. When you see the baby in your arms🤱🏻👨🏻‍🍼 and you know that it's your job now. No one can prepare you for the love and the fear.",
       
@@ -698,6 +699,37 @@ generate = () => {
     
     "10- Random":
       "You had me at ‘hello.👋🏻"
+
+    "1- Cinema Paradiso":
+      "Life isn't like in the movies🎬. Life... is much harder.",
+    
+    "2- Cinema Paradiso":
+      "Progress📈 always comes late.",
+    
+    "3- Marriage Story":
+      "He🤦‍♂️ didn't see👀 me as separate from himself.",
+
+    "4- Marriage Story":
+      "People don't accept a mother who drinks too much wine🍷 and yells at her child and calls him an asshole.",
+      
+    "5- Marriage Story":
+      "You always have to have your own voice.🗣",
+
+    "6- Marriage Story":
+      "You and i both🙍‍♀️🙍‍♂️ know you chose this life. you wanted it until you didn't.❌",
+
+    "7- Marriage Story":
+      "A bit of earth🌎 that's yours.",
+
+    "8- Single Man":
+      "You know that only thing that has made the whole thing worthwhile✨ has been those few times that I was able to truly connect🕸 with another person.",
+    
+    "9- Single Man":
+      "Just get through the goddamn day🌞.",
+
+    "10- Single Man":
+      "If one is not enjoying one's present💐, there isn't a great deal to suggest that the future🔮 should be any better.",
+
  
     
     
