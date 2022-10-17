@@ -698,8 +698,6 @@ generate = () => {
     "10-The Prestige":
       " Now you're looking for the secret. But you won't find it because of course, you're not really looking 😵‍💫. You don't really want to work it out. You want to be fooled.,-cutter, ~ Meanign: cutter explaining that u are not actually want to find the secret ",
 
-    //Stop Here👇
-    //(ㆆ_ㆆ)ヾ(⌐■_■)ノ♪~_~＞︿＜¯\_(ツ)_/¯(～￣▽￣)～（づ￣ 3￣）づ╭❤️～༼ つ ◕_◕ ༽つ( ఠൠఠ )ﾉ( ◍•㉦•◍ )(ʘ ͜ʖ ʘ)O_O(*^_^*)`(*>﹏<*)′(*^▽^*)(❁´◡`❁)（*＾-＾*）(✿◡‿◡)φ(゜▽゜*)♪( •̀ ω •́ )✧[]~(￣▽￣)~*
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
