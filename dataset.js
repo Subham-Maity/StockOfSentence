@@ -466,34 +466,34 @@ generate = () => {
       "To infinity and beyond! 🔥 -  Toy Story, 1995 ~ Meaning: There are limitless possibilities💯, infinity is endless ! ",
 
     "133- Motivational ":
-    "The Training Is Nothing. The Will ✊ Is Everything. The Will To Act - Batman Begins, 2005 ~ Meaning: Unless a person has the will and is determined enough to do a certain task,he cannot excel int it",
+      "The Training Is Nothing. The Will ✊ Is Everything. The Will To Act - Batman Begins, 2005 ~ Meaning: Unless a person has the will and is determined enough to do a certain task,he cannot excel int it",
 
     "134- Inspirational ":
-    "You Always Fear 😨 What You Don't Understand 😕. - Batman Begins, 2005 ~ Meaning: A person is always nervous about unfamiliar things and unless he/she experiments them, they seem unachievable",
+      "You Always Fear 😨 What You Don't Understand 😕. - Batman Begins, 2005 ~ Meaning: A person is always nervous about unfamiliar things and unless he/she experiments them, they seem unachievable",
 
     "135- Inspirational ":
-    "Why do we fall 🍂, sir? So that we can learn to pick ourselves up. - Batman Begins, 2005 ~ Meaning: Obstacles are nothing but the stepping stones to success",
+      "Why do we fall 🍂, sir? So that we can learn to pick ourselves up. - Batman Begins, 2005 ~ Meaning: Obstacles are nothing but the stepping stones to success",
   
     "136- Insightful ":
-    "You either die a hero 🦸 or live long enough to see yourself become the villain 🦹. - The Dark Knight, 2008 ~ Meaning:Taking that chance to die, means that you are indeed a hero because you stood for something and are willing to pay the price of death. ",
+      "You either die a hero 🦸 or live long enough to see yourself become the villain 🦹. - The Dark Knight, 2008 ~ Meaning:Taking that chance to die, means that you are indeed a hero because you stood for something and are willing to pay the price of death. ",
     
     "137- Motivational ":
-    "It is not our abilities that show what we truly are… it is our choices 🔘. -Harry Potter and the Chamber of Secrets ~ Meaning: A person is best identified by the choices he/she made rather than the abilities possessed",
+      "It is not our abilities that show what we truly are… it is our choices 🔘. -Harry Potter and the Chamber of Secrets ~ Meaning: A person is best identified by the choices he/she made rather than the abilities possessed",
 
     "138- Motivational ":
-    "Oh yes, the past can hurt. But you can either run 🏃‍♀️ from it, or learn 📘 from it.” -The Lion King ~ Meaning: Bad things happen, learn what you can and keep moving forward.",
+      "Oh yes, the past can hurt. But you can either run 🏃‍♀️ from it, or learn 📘 from it.” -The Lion King ~ Meaning: Bad things happen, learn what you can and keep moving forward.",
 
     "139- Inspirational ":
-    "“What we do 🧑‍💼 in life echoes in eternity.” - Gladiator ~ Meaning: It is our reputation that is the only thing left after death. ",
+      "“What we do 🧑‍💼 in life echoes in eternity.” - Gladiator ~ Meaning: It is our reputation that is the only thing left after death. ",
 
     "140- Motivational ":
-    "Life is not the amount of breaths 😮‍💨 you take. It’s the moments that take your breath away 😲. - Hitch ~ Meaning: It’s not the number of years you live that counts in life, it’s how you live those years. We aren’t measured by how many memorable moments we have in our lives, but by how many new ones we create each day.Quality of life isn’t determined by how long you live, it’s determined by how well you live. ",
+      "Life is not the amount of breaths 😮‍💨 you take. It’s the moments that take your breath away 😲. - Hitch ~ Meaning: It’s not the number of years you live that counts in life, it’s how you live those years. We aren’t measured by how many memorable moments we have in our lives, but by how many new ones we create each day.Quality of life isn’t determined by how long you live, it’s determined by how well you live. ",
 
     "141- Motivational ":
-    "Why are you trying so hard to fit in?, when you were born to stand out. - What A Girl Wants ~ Meaning: Everyone has different types of skill and talent, so never follow others dream and their career.",
+      "Why are you trying so hard to fit in?, when you were born to stand out. - What A Girl Wants ~ Meaning: Everyone has different types of skill and talent, so never follow others dream and their career.",
 
     "142- Insightful ":
-    "“But in times of crisis, the wise 🦉 build bridges, while the foolish 🤡 build barriers. - Black Panther ~ Meaning: It's during difficult times that the wise always look for solutions,whereas the foolish always construct hurdles.",
+      "“But in times of crisis, the wise 🦉 build bridges, while the foolish 🤡 build barriers. - Black Panther ~ Meaning: It's during difficult times that the wise always look for solutions,whereas the foolish always construct hurdles.",
 
     "29- Inspirational ":
       "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
@@ -552,16 +552,16 @@ generate = () => {
     "56- inspirational":
       "When you want something in life, you just gotta reach out and grap it😊💫. - Into the Wild, 2007 ~ Meaning: If we want something that's good, isn't it? Most people don't even know what they want in their life. So, we should move ahead and try to achieve that rather than making excuses even after setting the goals.",
     "57- inspirational":
-       "Every man dies🙃, but not every man really lives🙄. - Braveheart, 1995 ~ We all have dreams, aspirations and goals. Some choose to give up thinking they are not good enough. Some fight for it, they feel and live for it.To fight is to live and to give up is to die.",
+      "Every man dies🙃, but not every man really lives🙄. - Braveheart, 1995 ~ We all have dreams, aspirations and goals. Some choose to give up thinking they are not good enough. Some fight for it, they feel and live for it.To fight is to live and to give up is to die.",
     "58- inspirational":
       "It's supposed to be hard. If it wasn't hard, everyone would do it😊. The hard... is what makes it great💫. - A League of Their Own, 1992 ~ Meaning: Our goals and aims of life should be difficult and challenging. That's what makes us live and fight for that. If they are easy then what the satisfaction on achieving them.",
     "59 - inspirational":
-       "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
+      "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
 
     "1- Money Heist ":
       "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
     "2- Money Heist ":
-       "The plan is designed to survive any setbacks💯, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
+      "The plan is designed to survive any setbacks💯, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
     "3- Money Heist ":
       "You’re the sexiest woman 👩in the world but I love you for your brains🧠. ― The Professor, ~ Meaning: He loves her for her intelligence",
     "4- Money Heist ":
@@ -637,12 +637,40 @@ generate = () => {
       "Forgetting is like a wound.😥 The wound may heal, but it has already left a scar.🥺",
 
     "20- Juuzou Suzuya (TOKYO GHOUL)":
-      "Why should I apologize for being a monster?🥺 Has anyone ever apologized for turning me into one?🥹"
+      "Why should I apologize for being a monster?🥺 Has anyone ever apologized for turning me into one?🥹",
+    
+    "1- Criminal Minds":
+      "I find that I do some of my best work📚 under intense terror💣🔪. - Dr. Spencer Reid, ~ Meaning: When the environment adds pressure and creates terror, new ideas are created to get make the best out of worse situation.",
+    
+    "2- Criminal Minds":
+      "One of the last things I said before he shot🔫 me was everything happens for a reason💫. Derek, if I lose faith🛐 in that then nothing in my life makes sense🙏🏼. - Penelope Grace Garcia, ~ Meaning: When we believe in something and that belief is challenged, that is the time when you need to hold on to the belief even more tightly.",
+    
+    "3- Criminal Minds":
+      "I belong in this unit.😤 And all I'm asking you for is the chance to show that🙏🏼. - Emily Prentiss, ~ Meaning: We need a chance to show that we belong somewhere.",
+    
+    "4- Criminal Minds":
+      "Nothing white people🙍🏻‍♂️do to blacks🙍🏿‍♂️ is just. -Christopher J. Scaver, Sr., ~ Meaning: What white people think fun is racism for black people.",
+    
+    "5- The Hobbit: The Battle Of The Five Armies":
+      "If more of us valued food🥗🍛 and cheer🍻 and song🎶 above hoarded gold🪙, it would be a merrier world.🥳 But, sad😔 or merry🤩, I must leave it now. Farewell👋🏼. -Thorin II Oakenshield, ~ Meaning: Life cann't always be cheerful but it has greed in it too. ",
+    
+    "6- Criminal Minds":
+      "There are things we don't want to happen but have to accept.🥺 Things we don't want to know but have to learn.📒 And people we can't live without but have to let go☠️. -Jennifer Jareau, ~ Meaning: There are certain things in life that is out of our control and its okay to move on from them.",
+    
+    "7- Criminal Minds":
+      "I study📚 guys like you for a living, I know more about you than you know about yourself🤟🏼🙏🏼. -Derek Morgan, ~ Meaning: When you do something for a long time, you began an expert on it.",
+    
+    "8- Criminal Minds":
+      "Beauty🤍 can cover a multitude of sins😈. But underneath, we all look exactly the same💀. -Frank Breitkopf, ~ Meaning: Though we show good behaviour formthe outside, we are all filled with greed and selfishness from the inside.",
+    
+    "9- Willow ":
+      "Magic🪄 is the bloodstream of the universe🌏. Forget all you know, or think you know. All that you require is your intuition😇. - High Aldwin, ~ Meaning: The way your intuition works is nature's wonder and magic.",
+    
+    "10- Star Trek: The Next Generation":
+      "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.", 
 
-    
-    
-    
-    
+
+ 
     
     
       //Stop Here👇
