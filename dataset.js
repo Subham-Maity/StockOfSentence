@@ -523,7 +523,7 @@ generate = () => {
     "7- Money Heist ":
       "First times are so special. But the last times are beyond comparison. Priceless💰. But people don’t usually know it. ― Berlin, ~ Meaning: People forget the last last time of their life",
     "8- Money Heist ":
-      "What I don’t want is for you to die 🪦 before you’ve even lived.” ― Berlin ~ Meaning: What I don’t want is for you to die before you’ve even lived.”,
+      "What I don’t want is for you to die 🪦 before you’ve even lived. ― Berlin ~ Meaning: What I don’t want is for you to die before you’ve even lived.”,
     "9- Money Heist ":
       "In heists, love ♥️ can get multiplied✖️. ― Tokyo ~ Meaning: we start loving more in a heist ",
     "10- Money Heist ":
