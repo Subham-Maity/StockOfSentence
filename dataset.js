@@ -668,7 +668,67 @@ generate = () => {
 
     "10- Star Trek: The Next Generation":
       "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.",
+      
+    "124- Random":
+      "No one can ever prepare you for what happens when you have a child👶🏻. When you see the baby in your arms🤱🏻👨🏻‍🍼 and you know that it's your job now. No one can prepare you for the love and the fear.",
+      
+    "125- Random":
+      "She was the, and still is to me, the most beautiful thing in the world.🌍",
 
+    "126- Random":
+      "We’re all traveling✈️ through time together, every day of our lives. All we can do is do our best to relish the remarkable ride.🎢",
+
+    "127- Random":
+      "It was the toughest decision of my life. Saying “yes” to the future meant saying “goodbye” to my dad forever.👋🏻",
+    
+    "128- Random":
+      "All the time traveling✈️ in the world can’t make someone love❤️ you.",
+    
+    "129- Random":
+      "I just try to live everyday🗓 as if I’ve deliberately come back to this one, to enjoy it, as if it was the final full day of my extraordinary, ordinary life.📆",
+    
+    "130- Random":
+      "Live life as if there were no second chances.🔑",
+      
+    "131- Random":
+      "I love your eyes.👀 I love the rest of your face, too. I haven’t even looked further down and I’m sure it’s all fantastic.🧚🏻‍♀️",
+
+    "132- Random":
+      "I’d only give one piece of advice to anyone marrying.💍 We’re all quite similar in the end. We all get old and tell the same tales too many times. But try and marry someone kind.",
+    
+    "133- Random":
+      "You had me at ‘hello.👋🏻",
+
+    "1- Cinema Paradiso":
+      "Life isn't like in the movies🎬. Life... is much harder.",
+    
+    "2- Cinema Paradiso":
+      "Progress📈 always comes late.",
+    
+    "3- Marriage Story":
+      "He🤦‍♂️ didn't see👀 me as separate from himself.",
+
+    "4- Marriage Story":
+      "People don't accept a mother who drinks too much wine🍷 and yells at her child and calls him an asshole.",
+      
+    "5- Marriage Story":
+      "You always have to have your own voice.🗣",
+
+    "6- Marriage Story":
+      "You and i both🙍‍♀️🙍‍♂️ know you chose this life. you wanted it until you didn't.❌",
+
+    "7- Marriage Story":
+      "A bit of earth🌎 that's yours.",
+
+    "8- Single Man":
+      "You know that only thing that has made the whole thing worthwhile✨ has been those few times that I was able to truly connect🕸 with another person.",
+    
+    "9- Single Man":
+      "Just get through the goddamn day🌞.",
+
+    "10- Single Man":
+      "If one is not enjoying one's present💐, there isn't a great deal to suggest that the future🔮 should be any better.",
+    
     "1-Inception":
       "Once An Idea Has Taken Hold Of The Brain, It’s Almost Impossible To Eradicate.😮 -Domm , ~Meaning:At one point, Cobb compares ideas to parasites: “What is the most resilient parasite? Bacteria? A virus?😱 An intestinal worm? An idea. Resilient...highly contagious. Once an idea has taken hold of the brain, it’s almost impossible to eradicate. An idea that is fully formed – fully understood – that sticks; right in there somewhere.”",
 
