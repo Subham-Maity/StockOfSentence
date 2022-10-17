@@ -558,8 +558,26 @@ generate = () => {
     "59 - inspirational":
        "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
 
-    
-    
+    "1- Money Heist ":
+      "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
+    "2- Money Heist ":
+       "The plan is designed to survive any setbacks💯, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
+    "3- Money Heist ":
+      "You’re the sexiest woman 👩in the world but I love you for your brains🧠. ― The Professor, ~ Meaning: He loves her for her intelligence",
+    "4- Money Heist ":
+      "Time is greater than money💵.― The Professor, ~ Meaning: nothing is more costly than time",
+    "5- Money Heist ":
+      "You can’t get out of the Bank 🏦of Spain 🇪🇸alive. It’s impossible. But I will get you out of there. ― The Professor, ~ Meaning: he has already planned to get them all out of bank",
+    "6- Money Heist ":
+      "Maybe we’re all immature👶 to some extent. ― The Professor ~ Meaning: we all are little immature ",
+    "7- Money Heist ":
+      "First times are so special. But the last times are beyond comparison. Priceless💰. But people don’t usually know it. ― Berlin, ~ Meaning: People forget the last last time of their life",
+    "8- Money Heist ":
+      "What I don’t want is for you to die 🪦 before you’ve even lived. ― Berlin ~ Meaning: What I don’t want is for you to die before you’ve even lived.",
+    "9- Money Heist ":
+      "In heist love ♥️ can get multiplied ✖️. ― Tokio, ~ Meaning: People start loving more in a bad situation ",
+    "10- Money Heist ":
+      "My love, the things that actually matter in life always come unexpectedly⏰. ― Berlin, ~ Meaning: we don't know what will happen tomorrow",
     
     
     
