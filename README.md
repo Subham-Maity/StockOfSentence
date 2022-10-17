@@ -6,9 +6,9 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 <table >
 	<tr>
 		 <td>
- <a href="https://github.com/Subham-Maity/StockOfSentence/graphs/contributors"><img src="https://contrib.rocks/image?repo=Subham-Maity/StockOfSentence" />
+<a href="https://github.com/Subham-Maity/StockOfSentence/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Subham-Maity/StockOfSentence" />
 </a>
-  </a>
 		</td>
 	</tr>
 </table>
