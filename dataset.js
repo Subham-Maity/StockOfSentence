@@ -792,6 +792,35 @@ generate = () => {
     "10-The Prestige":
       " Now you're looking for the secret. But you won't find it because of course, you're not really looking 😵‍💫. You don't really want to work it out. You want to be fooled.,-cutter, ~ Meanign: cutter explaining that u are not actually want to find the secret ",
 
+          "1- Dead Poets Society":
+      "Carpe diem. Seize the day, boys.✍🏾 Make your lives extraordinary ✍🏻. ~Meaning: Make the most of everyday.",
+    
+    "2- Field of Dreams":
+      "If you build it, they will come⚾. ~Meaning: If you want something done, do it yourself.",
+    
+    "3- Jerry Maguire":
+      "💸Show me the money💰. ~Meaning: Pay me what I am worth.",
+
+    "4- Moonstruck":
+      "Snap out of it! ⏰😴📢⬆. ~Meaning: Wake up, pay attention, get it together.",
+      
+    "5- Chinatown":
+      "Forget it Jake,🚓 it's Chinatown🐉. ~Meaning: the police are corrupt here, we can't do anthing about it.",
+
+    "6- Gladiator":
+      "Are you not entertained.🏛⛓ ~Meaning: Isn't this what you are here to see?",
+
+    "7- The Dark Knight":
+      "Why so serious?🃏😜. ~Meaning: Relax, have fun.",
+
+    "8- The Bicycle Theives":
+      "Why should I kill myself worrying when I'll end up just as dead?💀 ~Meaning: Life is too short to worry.",
+    
+    "9- Knute Rockne All American":
+      "Tell 'em to go out there with all they got and win just one for the Gipper🏈. ~Meaning: Win the game for the coach.",
+
+    "10- National Lampoons Animial House":
+      "Toga! Toga! 🍺 ~Meaning: A toga party is a Greco-Roman-themed costume party where attendees wear a toga (normally made from a bed sheet) with sandals. ",
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
