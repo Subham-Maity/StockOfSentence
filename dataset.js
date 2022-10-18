@@ -821,6 +821,51 @@ generate = () => {
 
     "10- National Lampoons Animial House":
       "Toga! Toga! 🍺 ~Meaning: A toga party is a Greco-Roman-themed costume party where attendees wear a toga (normally made from a bed sheet) with sandals. ",
+
+    "PIXAR- INSPIRE_1":
+      "A great artist🎨🎨 can come from anywhere.–Anton Ego, Ratatouille ~ Meaning: Whether in a 👨‍🍳world-renowned restaurant or a sewer system , greatness can be found anywhere and in all of us. Look inside to find the artist in you.",
+    
+    
+    "PIXAR- INSPIRE_2":
+      "Just keep swimming🐟🐟.–Dory, Finding Nemo. ~ Meaning: Don’t give up. Persistence pays off💪.",
+    
+    
+    "PIXAR- INSPIRE_3":
+      " Our fate lives 🏙️ within us. You only have to be brave 💪enough to see it.–Merida, Brave ~ Meaning:The past does not equal the future. We each determine our own destiny🏙️.",
+    
+    
+    "PIXAR- INSPIRE_4":
+      "I don’t want to survive. I wanna live.–👑Captain, WALL•E ~ Meaning:Live life to the fullest and seize each and every day💃.",
+    
+    
+    "PIXAR- INSPIRE_5":
+      "To infinity and beyond!⚡⚡–Buzz Lightyear, Toy Story ~ Meaning:Set your sights high and dream💤💤 big. There is no limit to what you can achieve, if you just believe!",
+    
+    
+    "PIXAR- INSPIRE_6":
+      "You and I are a team 👥👥. There is nothing more important than our friendship.–Mike Wazowski, Monsters👺👺, Inc. ~ Meaning:Life is easier with a friend by your side 🧑‍🤝‍🧑.",
+    
+    
+    
+    "PIXAR- INSPIRE_7":
+      "Good food🧑‍🍳 is like music you can taste, color you can smell🫕🫕. There is excellence all around you. You need only be aware to stop and savor it.–🧑‍🍳Chef Gusteau, Ratatouille ~ Meaning:Notice your surroundings. You never know what you might find.",
+    
+    
+    
+    "PIXAR- INSPIRE_8":
+      "Your only limit is your soul. What I say is true—anyone can cook🫕🫕 ... but only the fearless can be great.–Chef Gusteau, Ratatouille ~ Meaning:Don’t be afraid to fail📉📉, for it is through these moments that you will eventually succeed.",
+    
+    
+    
+    "PIXAR- INSPIRE_9":
+      "I never look back, darling. It distracts📱📱 from the now. –The Incredibles ~ Meaning: Just be in present 🎁🎁, plan for future and embrace the past",
+    
+    
+    
+    "PIXAR- INSPIRE_10": 
+      "When life gets you down⬇️, do you wanna know what you’ve gotta do? Just keep swimming🏊‍♂️🏊‍♂️.–Finding Nemo ~ Meaning: whenever life throws some problem at you face it bravely💪💪!",
+    
+
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
