@@ -495,6 +495,40 @@ generate = () => {
     "142- Insightful ":
       "“But in times of crisis, the wise 🦉 build bridges, while the foolish 🤡 build barriers. - Black Panther ~ Meaning: It's during difficult times that the wise always look for solutions,whereas the foolish always construct hurdles.",
 
+    "143- Insightful ":
+      "Accident is the first building block of evolution 🧬. - Interstellar, 2014 ~ Meaning: Our errors and mistakes does not always make us a failure, It can also lead us to another desirable result", 
+    
+    "144- Insightful ":
+      "The very things that hold you down ⬇️ are going to lift you up ⬆️. - Dumbo, 1941 ~ Meaning: Love yourself enough to accept your own flaws. Those “flaws” are what make us beautifully different.", 
+    
+    "145- Insightful ":
+      "Sometimes it is the people 🧍 who no one imagines anything of who do the things that no one can imagine. - The Imitation Game, 2014 ~ Meaning: It is not good to judge other people's abilities. Sometimes the one whom you have underestimated can do things that you can't imagine.",
+    
+    "146- Insightful ":
+      "An eye 👁️ for an eye 👁️ makes the whole world 🌐 blind. - Gandhi, 1982 ~ Meaning: A policy of revenge will lead to counterretaliations rather than peaceful resolutions",
+
+    "147- Inspirational ":
+      "Everything is possible, even the impossible. - Mary Poppins Returns, 2018 ~ Meaning: Your ideas can only come from you. Your ideas will change the world for someone. So run with those ideas, no matter how impossible they may seem. Run with those ideas even though people tell you that your idea is not possible.",
+
+    "148- Motivational ":
+      "Don't tell me 🤐 I can't do it; don't tell me 🤐 it can't be done!. - Aviator, 2004 ~ Meaning: Never consider things to be impossible",
+
+    "149- Motivational ":
+      "Just because someone stumbles and loses their path 🛣️, doesn't mean they're lost forever. - X-Men Days of Future Past, 2014 ~ Meaning: If someone commits mistakes that does not means that they cannot achieve success",
+
+    "150- Motivational ":
+      "We are who we choose to be. - Spider-Man, 2002 ~ Meaning: You have control over putting things and doing things in your life that you want to do.",
+
+    "151- Insightful ":
+      "Life is like a box of chocolates 🍫, you never know what you’re gonna get. - Forrest Gump, 1994 ~ Meaning: Life is unpredictable",
+
+    "152- Insightful ":
+      "Put two ships 🚢 in the open sea 🌊 without wind or ride, and they will come together. - Aquaman, 2014 ~ Meaning: It means how different we seem, we are all connected.",
+
+    "153- Insightful ":
+      "That’s one small step for man, one giant leap for mankind. - First Man, 2018 ~ Meaning: Progress is possible no matter how much small our step is.",
+
+
     "29- Inspirational ":
       "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
     "30- inspirational ":
