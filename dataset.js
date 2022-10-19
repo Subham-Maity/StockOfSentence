@@ -894,6 +894,26 @@ generate = () => {
       "I don’t even have a ‘pla.’ 🤔. -  Phoebe buffay ~ Meaning : You don't have a plan ",
     "11-Friends":
       "Oh, come on, Will, just take off your shirt and tell us. 🤔. -  Phoebe Buffay ~ Meaning : You can't hide anything from your friends ",
+    "1-Game of Thrones":
+      "When you play the game of thrones, you win or you die💀. There is no middle ground. -  Cersei Lannister ~ Meaning : There is no middle ground in life ",
+    "2-Game of Thrones":
+      "A lion🦁 doesn’t concern himself with the opinions of sheep🐏. -  Tywin Lannister ~ Meaning : Don't care about what others think ",
+    "3-Game of Thrones":
+      "The things I do for love🥰. -  Jamie Lannister ~ Meaning : Love can make you do crazy things ",
+    "4-Game of Thrones":
+      "I am the dragon’s daughter🐲, and I swear to you that those who would harm you will die screaming. -  Daenerys Targaryen ~ Meaning : You can be strong ",
+    "5-Game of Thrones":
+      "Valar morghulis⚰️ - jaqen H'ghar ~ Meaning : All men must die",
+    "6-Game of Thrones":
+      "The night is dark and full of terrors😰. -  Melisandre ~ Meaning : The world is a scary place ",
+    "7-Game of Thrones":
+      "A Lannister always pays his debts💰 - Tywin Lannister ~ Meaning : You must always pay your debts ",
+    "8-Game of Thrones":
+      "Chaos is a ladder🪜 - Littlefinger ~ Meaning : Chaos can be a good thing ",
+    "9-Game of Thrones":
+      "What do we say to the God of death? Not today. - Beric Dondarrion ~ Meaning : You can fight death ",
+    "10-Game of Thrones":
+      "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
 };
 
   // grab all the keys in the dictionary (authors) and store in an array
