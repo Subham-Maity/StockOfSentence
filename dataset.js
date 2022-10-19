@@ -879,21 +879,21 @@ generate = () => {
     "3-Friends":
       "Could I BE wearing any more clothes? 🤔. -  Chandler Bing ~ Meaning : You can never be overdressed ",
     "4-Friends":
-      "Well, maybe I don’t need your money. Wait, wait, I said maybe!",
+      "Well, maybe I don’t need your money. Wait, wait, I said maybe! 🤑. -  Monica Geller ~ Meaning : Money can't buy everything ",
     "5-Friends":
-      "Joey doesn’t share food!",
+      "Joey doesn’t share food! 🍕. -  Joey Tribbiani ~ Meaning : Food is sacred ",
     "6-Friends":
-      "I’m not so good with the advice. Can I interest you in a sarcastic comment?",
+      "I’m not so good with the advice. Can I interest you in a sarcastic comment? 😒. -  Chandler Bing ~ Meaning : Sometimes you just need to be sarcastic ",
     "7-Friends":
-      "I wish I could, but I don’t want to.",
+      "I wish I could, but I don’t want to. 😒. - Phoebe Buffay ~ Meaning : Sometimes you just don't want to do something ",
     "8-Friends":
-      "This is all a moo point.",
+      "This is all a moo point. 🐮. -  Joey Tribbiani ~ Meaning : It's a pointless argument ",
     "9-Friends":
-      "I’m not superstitious, but I am a little stitious.",
+      "I’m not superstitious, but I am a little stitious. 🤔. -  Ross Geller ~ Meaning : You can be a little superstitious ",
     "10-Friends":
-      "I don’t even have a ‘pla.’",
+      "I don’t even have a ‘pla.’ 🤔. -  Phoebe buffay ~ Meaning : You don't have a plan ",
     "11-Friends":
-      "Oh, come on, Will, just take off your shirt and tell us.",
+      "Oh, come on, Will, just take off your shirt and tell us. 🤔. -  Phoebe Buffay ~ Meaning : You can't hide anything from your friends ",
 };
 
   // grab all the keys in the dictionary (authors) and store in an array
