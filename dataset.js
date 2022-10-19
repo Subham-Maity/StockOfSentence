@@ -822,6 +822,7 @@ generate = () => {
     "10- National Lampoons Animial House":
       "Toga! Toga! 🍺 ~Meaning: A toga party is a Greco-Roman-themed costume party where attendees wear a toga (normally made from a bed sheet) with sandals. ",
 
+
     "PIXAR- INSPIRE_1":
       "A great artist🎨🎨 can come from anywhere.–Anton Ego, Ratatouille ~ Meaning: Whether in a 👨‍🍳world-renowned restaurant or a sewer system , greatness can be found anywhere and in all of us. Look inside to find the artist in you.",
     
@@ -865,8 +866,49 @@ generate = () => {
     "PIXAR- INSPIRE_10": 
       "When life gets you down⬇️, do you wanna know what you’ve gotta do? Just keep swimming🏊‍♂️🏊‍♂️.–Finding Nemo ~ Meaning: whenever life throws some problem at you face it bravely💪💪!",
     
+     "1-Doctor Who ":
+      "Remember, hate is always foolish 😡...and love ❤️...is always wise 😊. -  12th Doctor ~ Meaning : The hate will blind you and won't let you see that you're acting in a way you don't really want to, but love will always make you do your best for those you love ",
+    
+    "2-Doctor Who ":
+      "Human progress 🏃 isn't measuredby industry 🏭. It's measured by the value you place on a life 💗. -  12th Doctor ~ Meaning :  Science and technology turns useless if we don't treat each other as human beigns.",
+  
+    "3-Doctor Who ":
+      "Nothing's sad until it's over 🚩 , and then everything is 😭. -  12th Doctor ~ Meaning : Goodbyes are always sad ", 
+      
+    "4-Doctor Who":
+      "We're all stories in the end 🚩. Just make it a good one, eh? 📘. -  11th Doctor ~ Meaning : Live life to the fullest ",  
 
-  };
+    "5-Doctor Who":
+      "Sometimes, the only choices you have are bad ones 👈, but you still have to choose ☝️. -  12th Doctor ~ Meaning : Make a choice may be hard ",
+
+    "6-Doctor Who":
+      "Every story 📘 ever told really happened. Stories 📕 ...are where memories go when they're forgotten 💌. -  12th Doctor ~ Meaning : There is a person behind every story ",  
+      
+    "7-Jurassic Park ":
+      "Life finds a way 🌱. -  Ian Malcolm ~ Meaning : Nature will always find a way to survive even in most harshest conditions ",
+
+    "8-Avengers: Infinity War":
+      "The hardest choices 👈 require the strongest wills ✊. -  Thanos ~ Meaning : It's not always easy make a choice, but you must ",
+
+    "9-Sherlock":
+      "To a great mind, 🔷 nothing is little 🔹. -  Sherlock Holmes ~ Meaning : That wich is not easily seen can be easily ignored",
+
+    "10-Sherlock":
+      "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
