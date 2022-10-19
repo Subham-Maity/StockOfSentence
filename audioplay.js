@@ -2,6 +2,7 @@
 // Music Enhancer
 var codeXam = document.getElementById('codeXam');//codeXam is the id of the audio tag in the html file
 var codeXamBtn = document.getElementById('control');// codeXamBtn is the id of the button in the html file
+let closeQuoteWindow = document.getElementById('x-mark');// x-mark is the id of the button to close qoute window
 
 function playPause(song) {//playPause is the function that will be called when the button is clicked
     if (song.paused && song.currentTime >= 0 && !song.ended) {// if the song is paused and the current time is greater than 0 and the song is not ended then play the song
@@ -44,3 +45,9 @@ codeXamBtn.addEventListener('click', function (e) {// add an event listener to t
     playPause(codeXam);// call the playPause function
     progress(codeXamBtn, codeXam);// call the progress function
 });
+
+// pause the music once you exit quote window
+closeQuoteWindow.addEventListener('click', () => {
+    codeXamBtn.classList.toggle('is--playing');
+    codeXam.pause();
+})
