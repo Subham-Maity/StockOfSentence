@@ -872,7 +872,29 @@ generate = () => {
 
     "10-Sherlock":
       "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
-  };
+    "1-Friends":
+      "I'll be there for you 🤝🤝. -  Rachel Green ~ Meaning : A true friend will always be there for you ",
+    "2-Friends":
+      "We were on a break! 💔. -  Ross Geller ~ Meaning : A break is a break, no matter what you say ",
+    "3-Friends":
+      "Could I BE wearing any more clothes? 🤔. -  Chandler Bing ~ Meaning : You can never be overdressed ",
+    "4-Friends":
+      "Well, maybe I don’t need your money. Wait, wait, I said maybe!",
+    "5-Friends":
+      "Joey doesn’t share food!",
+    "6-Friends":
+      "I’m not so good with the advice. Can I interest you in a sarcastic comment?",
+    "7-Friends":
+      "I wish I could, but I don’t want to.",
+    "8-Friends":
+      "This is all a moo point.",
+    "9-Friends":
+      "I’m not superstitious, but I am a little stitious.",
+    "10-Friends":
+      "I don’t even have a ‘pla.’",
+    "11-Friends":
+      "Oh, come on, Will, just take off your shirt and tell us.",
+};
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
