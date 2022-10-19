@@ -872,9 +872,41 @@ generate = () => {
 
     "10-Sherlock":
       "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
-  };
+    
+      "1-Forrest Gump":
+      "My mama always said, 'Life was like a box of chocolates. You never know what you're gonna get.",
+      
+      "2-Forrest Gump":
+      "Anyway, like I was sayin', shrimp is the fruit of the sea. You can barbecue it, boil it, broil it, bake it, saute it. There's shrimp-kabobs, shrimp creole, shrimp gumbo. Pan fried, deep fried, stir-fried. There's pineapple shrimp, lemon shrimp, coconut shrimp, pepper shrimp, shrimp soup, shrimp stew, shrimp salad, shrimp and potatoes, shrimp burger, shrimp sandwich. That, that's about it.",
+      
+      "3-Forrest Gump":
+      "The best thing about visiting the President is the food! Now, since it was all free, and I wasn't hungry but thirsty, I must've drank me fifteen Dr. Peppers.",
 
-  // grab all the keys in the dictionary (authors) and store in an array
+      "4-Forrest Gump":
+      "One day it started raining, and it didn't quit for four months. We been through every kind of rain there is. Little bitty stingin' rain... and big ol' fat rain. Rain that flew in sideways. And sometimes rain even seemed to come straight up from underneath. Shoot, it even rained at night...",      
+      "5-Looper":
+      "Then I saw it. I saw a mom who would die for her son. A man who would kill for his wife. A boy, angry and alone. Laid out in front of him, the bad path. I saw it. And the path was a circle. Round and round. So I changed it.",
+     
+      "6-Looper":
+      " I work as a specialized assassin, in an outfit called the Loopers. When my organization from the future wants someone to die, they zap them back to me and I eliminate the target from the future. The only rule is: never let your target escape... even if your target is you.",
+      
+      "7-Looper":
+      "There's a reason we're called loopers. When we sign up for this job, taking out the future's garbage, we also agree to a very specific proviso. Time travel in the future is so illegal, that when our employers want to close our contracts, they'll also want to erase any trace of their relationship with us ever existing. So if we're still alive 30 years from now, they'll find our older self, zap him back to us, and we'll kill him like any other job. This is called closing your loop.",
+      
+      "8-Looper":
+      " Time travel has not yet been invented. But thirty years from now, it will have been. It will be instantly outlawed, used only in secret by only the largest criminal organizations. It's nearly impossible to dispose of a body in the future... I'm told. Tagging techniques, whatnot. So when these criminal organizations in the future need someone gone, they use specialized assassins in our present called 'Loopers.' And so, my employers in the future nab the target, they zap them back to me - their Looper. He appears, hands tied and head sacked, and I do the necessaries. Collect my silver. So the target has vanished from the future, and I've just disposed of a body that technically does not exist. Clean.",
+      
+      "9-Looper":
+      "This is my life now. I earned it. You had yours already. So why don't you do what old men do and die?",
+      
+      "10-Looper":
+      "My memory's cloudy. It's a cloud. Because my memories aren't really memories. They're just one possible eventuality now. And they grow clearer or cloudier as they become more are less likely. But then they get to the present moment, and they're instantly clear again. I can remember what you do after you do it. And it hurts."
+      
+    };
+
+
+
+      // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
   // grab a random key (author) and store it in author
   var author = authors[Math.floor(Math.random() * authors.length)]; //Math.floor(Math.random() * authors.length) is used to get random number between 0 and authors.length
