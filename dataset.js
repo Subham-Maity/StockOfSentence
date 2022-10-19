@@ -496,14 +496,14 @@ generate = () => {
       "“But in times of crisis, the wise 🦉 build bridges, while the foolish 🤡 build barriers. - Black Panther ~ Meaning: It's during difficult times that the wise always look for solutions,whereas the foolish always construct hurdles.",
 
     "143- Insightful ":
-      "Accident is the first building block of evolution 🧬. - Interstellar, 2014 ~ Meaning: Our errors and mistakes does not always make us a failure, It can also lead us to another desirable result", 
-    
+      "Accident is the first building block of evolution 🧬. - Interstellar, 2014 ~ Meaning: Our errors and mistakes does not always make us a failure, It can also lead us to another desirable result",
+
     "144- Insightful ":
-      "The very things that hold you down ⬇️ are going to lift you up ⬆️. - Dumbo, 1941 ~ Meaning: Love yourself enough to accept your own flaws. Those “flaws” are what make us beautifully different.", 
-    
+      "The very things that hold you down ⬇️ are going to lift you up ⬆️. - Dumbo, 1941 ~ Meaning: Love yourself enough to accept your own flaws. Those “flaws” are what make us beautifully different.",
+
     "145- Insightful ":
       "Sometimes it is the people 🧍 who no one imagines anything of who do the things that no one can imagine. - The Imitation Game, 2014 ~ Meaning: It is not good to judge other people's abilities. Sometimes the one whom you have underestimated can do things that you can't imagine.",
-    
+
     "146- Insightful ":
       "An eye 👁️ for an eye 👁️ makes the whole world 🌐 blind. - Gandhi, 1982 ~ Meaning: A policy of revenge will lead to counterretaliations rather than peaceful resolutions",
 
@@ -527,7 +527,6 @@ generate = () => {
 
     "153- Insightful ":
       "That’s one small step for man, one giant leap for mankind. - First Man, 2018 ~ Meaning: Progress is possible no matter how much small our step is.",
-
 
     "29- Inspirational ":
       "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
@@ -702,10 +701,10 @@ generate = () => {
 
     "10- Star Trek: The Next Generation":
       "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.",
-      
+
     "124- Random":
       "No one can ever prepare you for what happens when you have a child👶🏻. When you see the baby in your arms🤱🏻👨🏻‍🍼 and you know that it's your job now. No one can prepare you for the love and the fear.",
-      
+
     "125- Random":
       "She was the, and still is to me, the most beautiful thing in the world.🌍",
 
@@ -714,55 +713,48 @@ generate = () => {
 
     "127- Random":
       "It was the toughest decision of my life. Saying “yes” to the future meant saying “goodbye” to my dad forever.👋🏻",
-    
+
     "128- Random":
       "All the time traveling✈️ in the world can’t make someone love❤️ you.",
-    
+
     "129- Random":
       "I just try to live everyday🗓 as if I’ve deliberately come back to this one, to enjoy it, as if it was the final full day of my extraordinary, ordinary life.📆",
-    
-    "130- Random":
-      "Live life as if there were no second chances.🔑",
-      
+
+    "130- Random": "Live life as if there were no second chances.🔑",
+
     "131- Random":
       "I love your eyes.👀 I love the rest of your face, too. I haven’t even looked further down and I’m sure it’s all fantastic.🧚🏻‍♀️",
 
     "132- Random":
       "I’d only give one piece of advice to anyone marrying.💍 We’re all quite similar in the end. We all get old and tell the same tales too many times. But try and marry someone kind.",
-    
-    "133- Random":
-      "You had me at ‘hello.👋🏻",
+
+    "133- Random": "You had me at ‘hello.👋🏻",
 
     "1- Cinema Paradiso":
       "Life isn't like in the movies🎬. Life... is much harder.",
-    
-    "2- Cinema Paradiso":
-      "Progress📈 always comes late.",
-    
-    "3- Marriage Story":
-      "He🤦‍♂️ didn't see👀 me as separate from himself.",
+
+    "2- Cinema Paradiso": "Progress📈 always comes late.",
+
+    "3- Marriage Story": "He🤦‍♂️ didn't see👀 me as separate from himself.",
 
     "4- Marriage Story":
       "People don't accept a mother who drinks too much wine🍷 and yells at her child and calls him an asshole.",
-      
-    "5- Marriage Story":
-      "You always have to have your own voice.🗣",
+
+    "5- Marriage Story": "You always have to have your own voice.🗣",
 
     "6- Marriage Story":
       "You and i both🙍‍♀️🙍‍♂️ know you chose this life. you wanted it until you didn't.❌",
 
-    "7- Marriage Story":
-      "A bit of earth🌎 that's yours.",
+    "7- Marriage Story": "A bit of earth🌎 that's yours.",
 
     "8- Single Man":
       "You know that only thing that has made the whole thing worthwhile✨ has been those few times that I was able to truly connect🕸 with another person.",
-    
-    "9- Single Man":
-      "Just get through the goddamn day🌞.",
+
+    "9- Single Man": "Just get through the goddamn day🌞.",
 
     "10- Single Man":
       "If one is not enjoying one's present💐, there isn't a great deal to suggest that the future🔮 should be any better.",
-    
+
     "1-Inception":
       "Once An Idea Has Taken Hold Of The Brain, It’s Almost Impossible To Eradicate.😮 -Domm , ~Meaning:At one point, Cobb compares ideas to parasites: “What is the most resilient parasite? Bacteria? A virus?😱 An intestinal worm? An idea. Resilient...highly contagious. Once an idea has taken hold of the brain, it’s almost impossible to eradicate. An idea that is fully formed – fully understood – that sticks; right in there somewhere.”",
 
@@ -792,98 +784,83 @@ generate = () => {
     "10-The Prestige":
       " Now you're looking for the secret. But you won't find it because of course, you're not really looking 😵‍💫. You don't really want to work it out. You want to be fooled.,-cutter, ~ Meanign: cutter explaining that u are not actually want to find the secret ",
 
-          "1- Dead Poets Society":
+    "1- Dead Poets Society":
       "Carpe diem. Seize the day, boys.✍🏾 Make your lives extraordinary ✍🏻. ~Meaning: Make the most of everyday.",
-    
+
     "2- Field of Dreams":
       "If you build it, they will come⚾. ~Meaning: If you want something done, do it yourself.",
-    
+
     "3- Jerry Maguire":
       "💸Show me the money💰. ~Meaning: Pay me what I am worth.",
 
     "4- Moonstruck":
       "Snap out of it! ⏰😴📢⬆. ~Meaning: Wake up, pay attention, get it together.",
-      
+
     "5- Chinatown":
       "Forget it Jake,🚓 it's Chinatown🐉. ~Meaning: the police are corrupt here, we can't do anthing about it.",
 
     "6- Gladiator":
       "Are you not entertained.🏛⛓ ~Meaning: Isn't this what you are here to see?",
 
-    "7- The Dark Knight":
-      "Why so serious?🃏😜. ~Meaning: Relax, have fun.",
+    "7- The Dark Knight": "Why so serious?🃏😜. ~Meaning: Relax, have fun.",
 
     "8- The Bicycle Theives":
       "Why should I kill myself worrying when I'll end up just as dead?💀 ~Meaning: Life is too short to worry.",
-    
+
     "9- Knute Rockne All American":
       "Tell 'em to go out there with all they got and win just one for the Gipper🏈. ~Meaning: Win the game for the coach.",
 
     "10- National Lampoons Animial House":
       "Toga! Toga! 🍺 ~Meaning: A toga party is a Greco-Roman-themed costume party where attendees wear a toga (normally made from a bed sheet) with sandals. ",
 
-
     "PIXAR- INSPIRE_1":
       "A great artist🎨🎨 can come from anywhere.–Anton Ego, Ratatouille ~ Meaning: Whether in a 👨‍🍳world-renowned restaurant or a sewer system , greatness can be found anywhere and in all of us. Look inside to find the artist in you.",
-    
-    
+
     "PIXAR- INSPIRE_2":
       "Just keep swimming🐟🐟.–Dory, Finding Nemo. ~ Meaning: Don’t give up. Persistence pays off💪.",
-    
-    
+
     "PIXAR- INSPIRE_3":
       " Our fate lives 🏙️ within us. You only have to be brave 💪enough to see it.–Merida, Brave ~ Meaning:The past does not equal the future. We each determine our own destiny🏙️.",
-    
-    
+
     "PIXAR- INSPIRE_4":
       "I don’t want to survive. I wanna live.–👑Captain, WALL•E ~ Meaning:Live life to the fullest and seize each and every day💃.",
-    
-    
+
     "PIXAR- INSPIRE_5":
       "To infinity and beyond!⚡⚡–Buzz Lightyear, Toy Story ~ Meaning:Set your sights high and dream💤💤 big. There is no limit to what you can achieve, if you just believe!",
-    
-    
+
     "PIXAR- INSPIRE_6":
       "You and I are a team 👥👥. There is nothing more important than our friendship.–Mike Wazowski, Monsters👺👺, Inc. ~ Meaning:Life is easier with a friend by your side 🧑‍🤝‍🧑.",
-    
-    
-    
+
     "PIXAR- INSPIRE_7":
       "Good food🧑‍🍳 is like music you can taste, color you can smell🫕🫕. There is excellence all around you. You need only be aware to stop and savor it.–🧑‍🍳Chef Gusteau, Ratatouille ~ Meaning:Notice your surroundings. You never know what you might find.",
-    
-    
-    
+
     "PIXAR- INSPIRE_8":
       "Your only limit is your soul. What I say is true—anyone can cook🫕🫕 ... but only the fearless can be great.–Chef Gusteau, Ratatouille ~ Meaning:Don’t be afraid to fail📉📉, for it is through these moments that you will eventually succeed.",
-    
-    
-    
+
     "PIXAR- INSPIRE_9":
       "I never look back, darling. It distracts📱📱 from the now. –The Incredibles ~ Meaning: Just be in present 🎁🎁, plan for future and embrace the past",
-    
-    
-    
-    "PIXAR- INSPIRE_10": 
+
+    "PIXAR- INSPIRE_10":
       "When life gets you down⬇️, do you wanna know what you’ve gotta do? Just keep swimming🏊‍♂️🏊‍♂️.–Finding Nemo ~ Meaning: whenever life throws some problem at you face it bravely💪💪!",
-    
-     "1-Doctor Who ":
+
+    "1-Doctor Who ":
       "Remember, hate is always foolish 😡...and love ❤️...is always wise 😊. -  12th Doctor ~ Meaning : The hate will blind you and won't let you see that you're acting in a way you don't really want to, but love will always make you do your best for those you love ",
-    
+
     "2-Doctor Who ":
       "Human progress 🏃 isn't measuredby industry 🏭. It's measured by the value you place on a life 💗. -  12th Doctor ~ Meaning :  Science and technology turns useless if we don't treat each other as human beigns.",
-  
+
     "3-Doctor Who ":
-      "Nothing's sad until it's over 🚩 , and then everything is 😭. -  12th Doctor ~ Meaning : Goodbyes are always sad ", 
-      
+      "Nothing's sad until it's over 🚩 , and then everything is 😭. -  12th Doctor ~ Meaning : Goodbyes are always sad ",
+
     "4-Doctor Who":
-      "We're all stories in the end 🚩. Just make it a good one, eh? 📘. -  11th Doctor ~ Meaning : Live life to the fullest ",  
+      "We're all stories in the end 🚩. Just make it a good one, eh? 📘. -  11th Doctor ~ Meaning : Live life to the fullest ",
 
     "5-Doctor Who":
       "Sometimes, the only choices you have are bad ones 👈, but you still have to choose ☝️. -  12th Doctor ~ Meaning : Make a choice may be hard ",
 
     "6-Doctor Who":
-      "Every story 📘 ever told really happened. Stories 📕 ...are where memories go when they're forgotten 💌. -  12th Doctor ~ Meaning : There is a person behind every story ",  
-      
+      "Every story 📘 ever told really happened. Stories 📕 ...are where memories go when they're forgotten 💌. -  12th Doctor ~ Meaning : There is a person behind every story ",
+
     "7-Jurassic Park ":
       "Life finds a way 🌱. -  Ian Malcolm ~ Meaning : Nature will always find a way to survive even in most harshest conditions ",
 
@@ -895,20 +872,7 @@ generate = () => {
 
     "10-Sherlock":
       "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
-    };
-
-
-
-
-
-
-
-
-
-
-
-
-
+  };
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
