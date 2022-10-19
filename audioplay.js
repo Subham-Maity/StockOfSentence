@@ -1,7 +1,7 @@
 // Music Enhancer
 var codeXam = document.getElementById("codeXam"); //codeXam is the id of the audio tag in the html file
 var codeXamBtn = document.getElementById("control"); // codeXamBtn is the id of the button in the html file
-let xBtn = document.querySelector("#crossMark1"); //.x-mark is class for the cross(close) button in the index.html
+let xBtn = document.querySelector("#crossMark1"); // crossMark1 is id for the cross(close) button in the index.html
 
 function playPause(song) {
   //playPause is the function that will be called when the button is clicked
