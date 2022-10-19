@@ -64,6 +64,7 @@ xBtn.addEventListener("click", function (e) {
   //pause the music
 });
 
+//Function to play pause audio by pressing space bar
 window.addEventListener("keypress", (e) => {
   if (e.key == " " || e.code == "Space" || e.keyCode == 32) {
     // add an event listener to the button
