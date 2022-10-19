@@ -56,6 +56,7 @@ codeXamBtn.addEventListener("click", function (e) {
   progress(codeXamBtn, codeXam); // call the progress function
 });
 
+// Function to pause audio when cross(close) button is clicked
 xBtn.addEventListener("click", function (e) {
   // add an event listener to the button
   e.preventDefault();
