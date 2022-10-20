@@ -916,25 +916,25 @@ generate = () => {
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
 
     "1-Bridge of Spies":
-    "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel ",
+    "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
 
     "2-Bridge of Spies":
     "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
 
     "1-After Earth":
-    "Fear is not real. The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
+    "Fear is not real.😎 The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
    
     "1-300":
-   "Spartans, eat well, for tonight we dine in Hades. ⚔️ — King Leonidas, 300",
+   "Spartans, eat well🍻, for tonight we dine in Hadesea. ⚔️ — King Leonidas, 300 meaning-King Leonidas knows this will be their last mean before the final battle. he says this to encourage his soldires to accept death proudly",
 
    "2-300":
-   "He who sweats more in training bleeds less in war. — Spartan Creed",
+   "He who sweats💧 more in training bleeds less in war.🥷 — Spartan Creed ~ Meaning : The greater the preparation, the greater the ability to handle adversity",
 
    "3-300":
    "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
 
   "4-300":
-  "The Spartans do not ask how many are the enemy but where are they.– Plutarch",
+  "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
 
 
 };
