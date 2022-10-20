@@ -916,12 +916,28 @@ generate = () => {
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
 
     "1-Bridge of Spies":
-    "Well, the boss isn't always right. But, he's always the boss.-Rudolf Abel ",
+    "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel ",
 
     "2-Bridge of Spies":
-    "James Donovan : You're not worried?\nRudolf Abel: Would it help?"
+    "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
 
-    };
+    "1-After Earth":
+    "Fear is not real. The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
+   
+    "1-300":
+   "Spartans, eat well, for tonight we dine in Hades. ⚔️ — King Leonidas, 300",
+
+   "2-300":
+   "He who sweats more in training bleeds less in war. — Spartan Creed",
+
+   "3-300":
+   "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
+
+  "4-300":
+  "The Spartans do not ask how many are the enemy but where are they.– Plutarch",
+
+
+};
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
