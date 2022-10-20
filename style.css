@@ -19,7 +19,10 @@ body {
 	flex-direction: column;
 	z-index: 111;
 }
-
+.spacebar-msg {
+	color: yellow;
+	padding: 5px;
+}
 h1 {
 	font-family: "brandon-grotesque", sans-serif;
 	font-weight: bold;
