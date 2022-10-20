@@ -872,7 +872,49 @@ generate = () => {
 
     "10-Sherlock":
       "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
-  };
+    "1-Friends":
+      "I'll be there for you 🤝🤝. -  Rachel Green ~ Meaning : A true friend will always be there for you ",
+    "2-Friends":
+      "We were on a break! 💔. -  Ross Geller ~ Meaning : A break is a break, no matter what you say ",
+    "3-Friends":
+      "Could I BE wearing any more clothes? 🤔. -  Chandler Bing ~ Meaning : You can never be overdressed ",
+    "4-Friends":
+      "Well, maybe I don’t need your money. Wait, wait, I said maybe! 🤑. -  Monica Geller ~ Meaning : Money can't buy everything ",
+    "5-Friends":
+      "Joey doesn’t share food! 🍕. -  Joey Tribbiani ~ Meaning : Food is sacred ",
+    "6-Friends":
+      "I’m not so good with the advice. Can I interest you in a sarcastic comment? 😒. -  Chandler Bing ~ Meaning : Sometimes you just need to be sarcastic ",
+    "7-Friends":
+      "I wish I could, but I don’t want to. 😒. - Phoebe Buffay ~ Meaning : Sometimes you just don't want to do something ",
+    "8-Friends":
+      "This is all a moo point. 🐮. -  Joey Tribbiani ~ Meaning : It's a pointless argument ",
+    "9-Friends":
+      "I’m not superstitious, but I am a little stitious. 🤔. -  Ross Geller ~ Meaning : You can be a little superstitious ",
+    "10-Friends":
+      "I don’t even have a ‘pla.’ 🤔. -  Phoebe buffay ~ Meaning : You don't have a plan ",
+    "11-Friends":
+      "Oh, come on, Will, just take off your shirt and tell us. 🤔. -  Phoebe Buffay ~ Meaning : You can't hide anything from your friends ",
+    "1-Game of Thrones":
+      "When you play the game of thrones, you win or you die💀. There is no middle ground. -  Cersei Lannister ~ Meaning : There is no middle ground in life ",
+    "2-Game of Thrones":
+      "A lion🦁 doesn’t concern himself with the opinions of sheep🐏. -  Tywin Lannister ~ Meaning : Don't care about what others think ",
+    "3-Game of Thrones":
+      "The things I do for love🥰. -  Jamie Lannister ~ Meaning : Love can make you do crazy things ",
+    "4-Game of Thrones":
+      "I am the dragon’s daughter🐲, and I swear to you that those who would harm you will die screaming. -  Daenerys Targaryen ~ Meaning : You can be strong ",
+    "5-Game of Thrones":
+      "Valar morghulis⚰️ - jaqen H'ghar ~ Meaning : All men must die",
+    "6-Game of Thrones":
+      "The night is dark and full of terrors😰. -  Melisandre ~ Meaning : The world is a scary place ",
+    "7-Game of Thrones":
+      "A Lannister always pays his debts💰 - Tywin Lannister ~ Meaning : You must always pay your debts ",
+    "8-Game of Thrones":
+      "Chaos is a ladder🪜 - Littlefinger ~ Meaning : Chaos can be a good thing ",
+    "9-Game of Thrones":
+      "What do we say to the God of death? Not today. - Beric Dondarrion ~ Meaning : You can fight death ",
+    "10-Game of Thrones":
+      "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
+};
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
