@@ -914,7 +914,14 @@ generate = () => {
       "What do we say to the God of death? Not today. - Beric Dondarrion ~ Meaning : You can fight death ",
     "10-Game of Thrones":
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
-};
+
+    "1-Bridge of Spies":
+    "Well, the boss isn't always right. But, he's always the boss.-Rudolf Abel ",
+
+    "2-Bridge of Spies":
+    "James Donovan : You're not worried?\nRudolf Abel: Would it help?"
+
+    };
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
