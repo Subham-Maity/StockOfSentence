@@ -915,6 +915,7 @@ generate = () => {
     "10-Game of Thrones":
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
 
+
     "1-Bridge of Spies":
     "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
 
@@ -937,7 +938,50 @@ generate = () => {
   "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
 
 
-};
+    "1-Rush":
+      "A wise man🤔 can learn more from his enemies than a fool from his friends😌. - Niki Lauda ~ Meaning: Every occasion os an opportunity if we view it positively.",
+
+    "2-10 things I hate about you":
+      "Don’t✖️ let anyone ever make you feel like you don’t deserve what you want✊. - Heath Ledger ~ Meaning: Not everyone knows your life story. Live your life as your wish. Don't seek others validation.",
+
+    "3-Black Hawk Down":
+      "It’s what you do right now that makes a difference. ✊ - Struecker ~ Meaning: Your future depends on your present. ",
+
+    "4-Finding Forrester":
+      "We walk away from our dreams afraid we may fail😰, or worse yet, afraid we may succeed. 🫠 - William Forrester ~ Meaning: We are always afraid to purse our dreams. ",
+
+    "5-Planet of the Apes":
+      "I can't help thinking somewhere in the universe🌎 there has to be something better than man. Has to be.🙏🏼 - Taylor, ~ Meaning: The man has accomplished great things and still is a greedy being, there has to be something that is better than mankind.",
+
+    "6- Avengers: Endgame":
+      "You could not✖️ live with your own failure. Where did that bring you? Back to me.😏 - Thanos, ~ Meaning: No person can live on with their failures, failures always lead to the same problem until it is fixed.",
+
+
+    "7- Star Wars: The Last Jedi":
+      "I'll always be with you. Just like your father👨‍👦. - Luke Skywalker, ~ Meaning: Destruction of evil can never done with a evil force of anger, the hate only shifts but never ends.",
+
+    "8- The Avengers":
+      "The Avengers.💪🏼 That's what we call ourselves; we're sort of like a team. 'Earth's Mightiest Heroes'😎 type thing. - Tony Stark, ~ Meaning: The Avengers are the group that fight against the evils on the universe.",
+
+    "9- Avengers: Infinity War":
+      "Don't forget, I'm half-human. So that fifty percent of me that's stupid😵‍💫, that's a hundred percent you.🙏🏼 - Peter Quill, ~ Humans tend to make mistakes more than other artificial things so the accuracy of the task is compromised by Humans.",
+
+    "10- IronMan":
+      "Let's face👀 it, this is not the worst thing you've caught me doing🤭. - Tony Stark, ~ Meaning: Each person has done something that is morally bad.",
+
+    "11- Predestination":
+      "The one thing that this job has taught me is that truth✔️ is stranger than fiction❕️. - The Bartender, ~ Meaning: Fiction is the Imagination of the most complex things into a simple version, but the truth of the simplest things is much complex.",
+
+    "12- Back To The Future II":
+      "Marty! What in the name of Sir Isaac H. Newton happened here😯?. - Dr. Emmett Brown, ~ Meaning: ",
+
+    "13- Westworld":
+      "The right information at the right time is deadlier than any weapon🔪💣. - Martin Collins, ~ Meaning: Information and communication during an attack is very important as it is the information that leads us to attack when enemy let their guard down.",
+
+    "14- Stranger Things":
+      "Nobody normal🙂 ever accomplished anything meaningful in this🌍. - Jonathan Byres, ~ Meaning: To accomplish something in this world wo should be above normal, extraordinary.",
+  };
+
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
