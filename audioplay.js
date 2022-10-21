@@ -8,8 +8,12 @@ function playPause(song) {
   if (song.paused && song.currentTime >= 0 && !song.ended) {
     // if the song is paused and the current time is greater than 0 and the song is not ended then play the song
     song.play(); // play the song
+    let popUpMessage = $(".popup-message");
+    popUpMessage.css("opacity", 0);
   } else {
     song.pause(); // else pause the song
+    let popUpMessage = $(".popup-message");
+    popUpMessage.css("opacity", 1);
   }
 }
 
