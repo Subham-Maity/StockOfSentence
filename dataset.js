@@ -159,6 +159,8 @@ generate = () => {
       "If you want to improve, be content to be thought foolish and stupid. ― Epictetus ~ Meaning : To learn a new skill, you need to allow yourself to be a clumsy beginner",
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
+      "63-Random":
+      "",
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -188,6 +190,36 @@ generate = () => {
 
     "5-inspirational ":
       "Being vulnerable is a strength, not a weakness — Selena Gomez ~ Hinglish Meaning :  kamajor hona ek taakat hai, kamajoree nahin😊",
+
+    "6-inspirational":
+      "Education is the most powerful weapon which you can use to change the world - Nelson Mandela ~ Hinglish Meaning : pdai ek esi cheej hai jisse tum puri duniya ko badal sakte ho esa hathiyar hain😊",
+
+    "7-inspirational":
+      "We will fail when we fail to try - Rosa Parks ~ Hinglish Meaning :  Hum usi waqt haar jaate hain jb hum us cheej ko krna ki himmat hi nhi karte ✔️ ",
+
+    "8-inspirational":
+       "Champions keep playing until they get it right - Billie Jean King ~ Hinglish Meaning : Vijeta hamesha apne upar kaam krta rehta hai jbtk ki vo jeet nhi jata 💪",  
+
+    "9-inspirational":
+       "The journey of a thousand miles begins with one step - Lao Tzu ~ Hinglish Meaning : Ek bade safar ki shuruat ek ek kadam se hi hoti hai 💪",
+       
+    "10-inspirational":
+      "Dream big and dare to fail - Norman Vaughan ~ Hinglish Meaning : Bada socho aur uska pane ka junoon rakho apne under ✔️", 
+      
+    "11-inspirational":
+      "The power of imagination makes us infinite - John Muir ~ Hinglish Meaning : Hum jitna bada soch sakte socho taki hum utni hi mehnat krkr usko pa le 🙌", 
+      
+    "12-inspirational":
+      "Make each day your masterpiece - John Wooden ~ Hinglish Meaning : Apna har din ek safalta wala din bnao kyunki hmari puri zindagi dino ko milakar hi bnti hai to usko khrab mat kro ✔️", 
+
+    "13-inspirational":
+      "The best dreams happen when you’re awake - Cherie Gilderbloom ~ Hinglish Meaning : Sabse ache sapne tabhi aate hain jb hum jagge hue hote hain kyunki usi waqt hum aasl apni zindagi m hain 🙌", 
+
+    "14-inspirational":
+      "Once you choose hope, anything’s possible - Christopher Reeve ~ Hinglish Meaning : Jb tum icha ko choose kr lete ho to tum kuch bhi paa sakte ho 😍", 
+
+    "15-inspirational":
+      "Every moment is a fresh beginning - T.S. Eliot ~ Hinglish Meaning : Tumhara har pal ek new opportunity lekr aata hain to usko waste mat kro pichla soch soch kr 🥇", 
 
     "1-Motivational":
       "We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein ~ Meaning : Listen, learn and improve. That how you solve your problem and generate new ones.😸",
