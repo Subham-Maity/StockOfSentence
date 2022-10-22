@@ -1,94 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-    />
-    <link rel="shortcut icon" type="image/png" href="quote.png" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
-    />
-    <link rel="stylesheet" href="./style.css" />
-    <title>Stock Of Sentence</title>
-    <script src="https://use.typekit.net/jrj6out.js"></script>
-    <script>try{Typekit.load({ async: false });}catch(e){}</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css'><link rel="stylesheet" href="./style.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-  </head>
-  <body>
-    <audio
-      id="codeXam"
-      src="audio/codexam_lofi.mp3"
-      preload="metadata"
-      type="audio/mpeg"
-    ></audio>
-    <main>
-      <link
-        href="https://fonts.googleapis.com/css?family=Lato:300,400,700"
-        rel="stylesheet"
-        type="text/css"
-      />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+  <link rel="shortcut icon" type="image/png" href="quote.png" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <title>Stock Of Sentence</title>
+  <script src="https://use.typekit.net/jrj6out.js"></script>
+  <script>try { Typekit.load({ async: false }); } catch (e) { }</script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="./style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-<!--      Cross Marks-->
-      <div class="x-mark" id="crossMark1">
-        <div class="container">
-          <div class="left"></div>
-          <div class="right"></div>
+</head>
+
+<body>
+  <audio id="codeXam" src="https://www.mboxdrive.com/codexam_lofi.mp3" preload="metadata" type="audio/mpeg"></audio>
+  <main>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css" />
+
+    <!--      Cross Marks-->
+    <div class="x-mark" id="crossMark1">
+      <div class="container">
+        <div class="left"></div>
+        <div class="right"></div>
+      </div>
+
+
+      <!--        Intro Box-->
+    </div>
+    <div class="intro-container">
+      <h1 class="fancy-text">Make Yourself Better By Using Me</h1>
+      <div class="button shift-camera-button">
+        <div class="border">
+          <div class="left-plane"></div>
+          <div class="right-plane"></div>
+        </div>
+        <div class="text">
+          <h1><b>Enter The SOS World 🌎</b></h1>
+        </div>
+      </div>
+
+
+    </div>
+    <div class="sky-container">
+      <div class="quotes-container">
+        <div class="inner-quotes-container">
+          <p id="quote"></p>
+          <h3 id="author"></h3>
+        </div>
+
+        <div>
+          <a href="#" class="btn-flip" id="generate" data-back="Now Read" data-front="Today"></a>
+        </div>
+
+        <a href="https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw/featured" target="_blank"><i
+            class="fab fa-youtube"></i></a>
+
+
+        <div class="center">
+          <div id="control">
+            <div class="border"></div>
+            <div class="play"></div>
+          </div>
         </div>
 
 
-<!--        Intro Box-->
-      </div>
-      <div class="intro-container">
-        <h1 class="fancy-text">Make Yourself Better By Using Me</h1>
-        <div class="button shift-camera-button">
-          <div class="border">
-            <div class="left-plane"></div>
-            <div class="right-plane"></div>
-          </div>
-          <div class="text"> <h1><b>Enter The SOS World 🌎</b></h1></div>
-        </div>
 
+        <script src="./audioplay.js"></script>
 
-      </div>
-      <div class="sky-container">
-        <div class="quotes-container">
-          <div class="inner-quotes-container">
-            <p id="quote"></p>
-            <h3 id="author"></h3>
-          </div>
+        <script src="dataset.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r78/three.min.js'></script>
+        <script src="./script.js"></script>
 
-          <div>
-            <a href="#" class="btn-flip" id="generate" data-back="Now Read" data-front="Today"></a>
-          </div>
+  </main>
 
-          <a href="https://www.youtube.com/channel/UCztgfCRJci6nx0VPVZcFstw/featured" target="_blank"><i class="fab fa-youtube"></i></a>
+</body>
 
-
-          <div class="center">
-            <div id="control">
-              <div class="border"></div>
-              <div class="play"></div>
-            </div>
-          </div>
-
-
-
-          <script src="./audioplay.js"></script>
-
-      <script src="dataset.js"></script>
-      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
-      <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js'></script>
-      <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r78/three.min.js'></script><script  src="./script.js"></script>
-
-    </main>
-
-  </body>
 </html>
