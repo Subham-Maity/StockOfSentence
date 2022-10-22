@@ -137,13 +137,13 @@ h1 {
   color: white;
   left: 50%;
   top: 10%;
-  border: 1px solid #0d6efd;
+  border: 10px solid #002c3f;
   background: transparent;
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.5);
+  box-shadow: 0 8px 32px 0 rgb(30, 81, 103);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  border-radius: 10px;
-  border: 1px solid rgba(13, 110, 253, 0.3);
+  border-radius: 5rem;
+  border: 1px solid rgb(30, 81, 103);
   padding: 10px;
   transform: translate(-50%, -10%);
   opacity: 0;
@@ -151,15 +151,15 @@ h1 {
   transition: all 3s;
   animation: blink 3s infinite;
 }
-@keyframes blink{
-  0%{
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0);
+@keyframes blink {
+  0% {
+    box-shadow: 0 8px 32px 0 rgb(30, 81, 103, 0);
   }
-  50%{
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135);
+  50% {
+    box-shadow: 0 8px 32px 0 rgb(30, 81, 103);
   }
-  100%{
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0);
+  100% {
+    box-shadow: 0 8px 32px 0 rgb(30, 81, 103, 0);
   }
 }
 .popup-message p {
