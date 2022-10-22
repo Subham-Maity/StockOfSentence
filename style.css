@@ -131,10 +131,43 @@ h1 {
 	transform: rotate(45deg);
 }
 
+.popup-message {
+  	position: absolute;
+	font-size: 15px;
+  	color: white;
+  	left: 50%;
+  	top: 10%;
+  	border: 1px solid rgb(30, 81, 103);
+  	background: transparent;
+  	box-shadow: 0 8px 32px 0 rgb(30, 81, 103);
+  	backdrop-filter: blur(20px);
+  	-webkit-backdrop-filter: blur(20px);
+	border-radius: 5rem;
+	padding: 10px;
+  	transform: translate(-50%, -10%);
+  	opacity: 0;
+  	transition: all 3s;
+  	animation: blink 3s infinite;
+}
 
+@keyframes blink {
+  0% {
+    	box-shadow: 0 8px 32px 0 rgb(30, 81, 103, 0);
+  }
 
+  50% {
+    	box-shadow: 0 8px 32px 0 rgb(30, 81, 103);
+  }
 
+  100% {
+    	box-shadow: 0 8px 32px 0 rgb(30, 81, 103, 0);
+  }
+}
 
+.popup-message p {
+  	margin: 0;
+  	padding: 0;
+}
 
 .sky-container {
 	position: absolute;
