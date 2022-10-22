@@ -629,3 +629,14 @@ div.center {
     transform: rotate(360deg);
   }
 }
+
+.musicPopup {
+	position: absolute;
+	top: 1em;
+	color: #FFF;
+	left: 50%;
+	padding: 1em;
+	transform: translate(-50%);
+	opacity: 0;
+	font-size: 2em;
+}
