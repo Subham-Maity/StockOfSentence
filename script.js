@@ -238,7 +238,12 @@ $(".shift-camera-button").click(function () {
   introTimeline.add([
     TweenLite.to(xMark, 2, { opacity: 1, ease: Power3.easeInOut }),
     TweenLite.to(skyContainer, 2, { opacity: 1, ease: Power3.easeInOut }),
-    TweenLite.to(popUpMessage, 5, { opacity: 1, ease: Power3.easeIn }),
+    TweenLite.fromTo(
+      popUpMessage,
+      3,
+      { opacity: 1 },
+      { opacity: 0, ease: Power3.easeIn }
+    ),
   ]);
 });
 
@@ -248,7 +253,7 @@ $(".x-mark").click(function () {
   let outroTimeline = new TimelineMax(); // Hide sky container and show intro container with animation
   //   TweenLite.to(camera.rotation, 3, { x: 0, ease: Power3.easeInOut });
   outroTimeline.add([
-    TweenLite.to(popUpMessage, 4, { opacity: 0, ease: Power3.easeIn }),
+    TweenLite.to(popUpMessage, 3, { opacity: 0, ease: Power3.easeIn }),
     TweenLite.to(xMark, 0.5, { opacity: 0, ease: Power3.easeInOut }),
     TweenLite.to(skyContainer, 0.5, { opacity: 0, ease: Power3.easeInOut }),
     TweenLite.to(camera.rotation, 3, { x: 0, ease: Power3.easeInOut }),
