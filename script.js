@@ -214,6 +214,7 @@ window.addEventListener("mousemove", function (event) {
 let introContainer = $('.intro-container');
 let skyContainer = $('.sky-container');
 let xMark = $('.x-mark');
+let musicPopup = $('.musicPopup');
 
 
 $('.shift-camera-button').click(function () {
@@ -229,8 +230,9 @@ $('.shift-camera-button').click(function () {
 //   introTimeline.add(TweenLite.to(introContainer, 0.5, { opacity: 0, ease: Power3.easeIn }));
   introTimeline.add([
     TweenLite.to(xMark, 2, { opacity: 1, ease: Power3.easeInOut }),
-    TweenLite.to(skyContainer, 2, { opacity: 1, ease: Power3.easeInOut })]);
-
+    TweenLite.to(skyContainer, 2, { opacity: 1, ease: Power3.easeInOut }),
+    TweenLite.to(musicPopup, 2, { opacity: 1, ease: Power3.easeInOut }),
+    setTimeout(() => {TweenLite.to(musicPopup, 2, { opacity: 0, ease: Power3.easeInOut })},6000)]);
 });
 
 // Create a new instance of a pixi stage and renderer and add the renderer view element to the DOM

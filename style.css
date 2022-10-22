@@ -632,16 +632,11 @@ div.center {
 
 .musicPopup {
 	position: absolute;
-	bottom: 1em;
+	top: 1em;
 	color: #FFF;
 	left: 50%;
 	padding: 1em;
 	transform: translate(-50%);
 	opacity: 0;
-    animation: fade 10s cubic-bezier(0.23, 1, 0.320, 1);
-}
-
-@keyframes fade {
-  0%,100% { opacity: 0 }
-  50% { opacity: 1 }
+	font-size: 2em;
 }
