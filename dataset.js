@@ -946,6 +946,10 @@ generate = () => {
       "What do we say to the God of death? Not today. - Beric Dondarrion ~ Meaning : You can fight death ",
     "10-Game of Thrones":
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
+      "11-Game of Thrones":
+      "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.",
+      "12-Game of Thrones":
+      "Chaos isn't a pit. Chaos is a ladder.",
 
 
     "1-Bridge of Spies":
