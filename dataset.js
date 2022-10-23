@@ -1012,6 +1012,42 @@ generate = () => {
 
     "14- Stranger Things":
       "Nobody normal🙂 ever accomplished anything meaningful in this🌍. - Jonathan Byres, ~ Meaning: To accomplish something in this world wo should be above normal, extraordinary.",
+    
+    "1- Avengers: Endgame":
+      "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
+
+    "2- Avengers: Endgame":
+      "No amount of money 💰 has ever bought a second of time ⌛. - Tony Stark, ~ Meaning: Time is more precious than money.",
+
+    "3- Avengers: Endgame":
+      "It's not about how much we lost. It's about how much we have left. - Tony Stark, ~ Meaning: We must not worry about what we have lost but we must work with whatever we have left.",
+    
+    "4- Thor: The Dark World":
+      "I would rather be a good man than a great king 👑. - Thor, ~ Meaning: Being a good man is better than being a great king.",
+
+    "5- Thor: Ragnarok":
+      "I choose to run 🏃‍ towards my problems, and not away from them. Because that's what heroes do. - Thor, ~ Meaning: Always look for challenges in life.",
+
+    "6- Captain America: The First Avenger":
+      "All we can do is our best 💪, and sometimes the best that we can do is to start over. - Peggy Carter, ~ Meaning: Sometimes starting something from scratch can be the best thing to do.",
+
+    "7- Doctor Strange":
+      "Faith is my sword ⚔. Truth is my shield 🛡. Knowledge my armor. - Doctor Strange, ~ Meaning: Wisdom, faith and truth are the three powerful virtues in our life .",
+    
+    "8- Avengers: Age of Ultron":
+      "You never know. You hope for the best and make do with what you get. - Nick Fury, ~ Meaning: Hope for the best but be happy with any result.",
+
+    "9- Spiderman: Far From Home":
+      "Uneasy lies the head that wears the crown 👑. - Nick Fury, ~ Meaning: Being a King is a very difficult task.",
+    
+    "10- Thor: Ragnarok":
+      "Even when you had two eyes 👀,you'd see only half the picture 🖼. - Odin, ~ Meaning: Everyone needs to remember to keep an open mind.",
+
+    "11- Avengers: Endgame":
+      "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
+
+    "12- Spider-Man: Homecoming":
+      "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough.",
   };
 
 
