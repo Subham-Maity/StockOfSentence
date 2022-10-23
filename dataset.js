@@ -560,6 +560,9 @@ generate = () => {
     "153- Insightful ":
       "That’s one small step for man, one giant leap for mankind. - First Man, 2018 ~ Meaning: Progress is possible no matter how much small our step is.",
 
+    "154- Insightful":
+      "Comedy Is Subjective, Murray, Isn't That What They Say? All Of You, The System That Knows So Much: You Decide What's Right Or Wrong The Same Way You Decide What's Funny Or Not. - Joker, 2019 ~ Meaning: Its the people who make up the rules in the society, what need to be done and what not!", 
+
     "29- Inspirational ":
       "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
     "30- inspirational ":
@@ -622,6 +625,9 @@ generate = () => {
       "It's supposed to be hard. If it wasn't hard, everyone would do it😊. The hard... is what makes it great💫. - A League of Their Own, 1992 ~ Meaning: Our goals and aims of life should be difficult and challenging. That's what makes us live and fight for that. If they are easy then what the satisfaction on achieving them.",
     "59 - inspirational":
       "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
+    
+    "60 - inspirational":
+      "Zindagi mein jab koi pattern banta ya koi aadat banti dikhai de na ... toh uske baare mein achchi tarah se sochna chahiye ... genius is about knowing when to stop - Dear Zindagi, 2016 ~ English Translation - In life when you see a pattern or a habit forming ... then you should think about that very carefully ... genius is about knowing when to stop",
 
     "1- Money Heist ":
       "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
