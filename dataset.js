@@ -235,6 +235,12 @@ generate = () => {
 
     "5-Motivational":
       "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
+    
+    "6-Motivational":
+      "And here you are living, despite it all.🍃 - Rupi Kaur",
+    
+    "7-Motivational":
+      "How you love yourself is how you teach others to love you. 🎈 - Rupi Kaur",
 
     "63-Random":
       "There is love in friendship. Friendship is greater than life. The one who wins the heart of a friend, has won the world. – Lord Krisha to Sudama ~ Meaning : World can be in peace with Love. 🏳️🏳️",
@@ -622,8 +628,17 @@ generate = () => {
       "It's supposed to be hard. If it wasn't hard, everyone would do it😊. The hard... is what makes it great💫. - A League of Their Own, 1992 ~ Meaning: Our goals and aims of life should be difficult and challenging. That's what makes us live and fight for that. If they are easy then what the satisfaction on achieving them.",
     "59 - inspirational":
       "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
-    "60 - inspiratioanal":
-      "Courage is like a muscle, we strengthen it by use. - Ruth Gurdo",
+    "60 - inspirational":
+      "Don't let the past blackmail ❌ your present 🌟, to ruin a beautiful future 🔮",
+    "70 - inspirational" :
+      "Luck is what happens when preparation meets opportunity. 💯 - Seneca",
+    "71 - inpirational" :
+      "90% of life is confidence 🙌, and the thing about confidence is that no one knows if it’s real or not.🔥 - Euphoria, 2022",
+    "72 - inspirational" :
+      "Sometimes the right path 🛣 is not 🚫 the easiest one . Do not give up! 🎯",
+    "73 - inspirational" :
+      "Some people can’t ✖ believe in themselves until someone else 👫 believes in them first.✨ – Sean Maguire, Good Will Hunting",
+    
     "1- Money Heist ":
       "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
     "2- Money Heist ":
@@ -762,6 +777,17 @@ generate = () => {
       "I’d only give one piece of advice to anyone marrying.💍 We’re all quite similar in the end. We all get old and tell the same tales too many times. But try and marry someone kind.",
 
     "133- Random": "You had me at ‘hello.👋🏻",
+
+    "134 - Random":
+      "My mama 👩‍👦 always said, 'Life was like a box of chocolates.🍫 You never know what you're gonna get. ✨' -Forrest Gump, 1994",
+    "135 - Random":
+      "It’s normal to be screwed up, but it’s really screwed up to romanticize it.❌ — Dr. Gregory House, House 2004",
+    "136 - Random" : 
+      "The future🔮 is the home 🏠 of our deepest fears and our wildest hopes 🤞. – Grey’s Anatomy 2005",
+    "137 - Random":
+      "You do what feels good to you.🥰 - Euphoria, 2022",
+    "138 - Random":
+      "One day its gonna look like it happend overnight! 🎈 - Steve Harvey",
 
     "1- Cinema Paradiso":
       "Life isn't like in the movies🎬. Life... is much harder.",
