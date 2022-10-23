@@ -946,11 +946,27 @@ generate = () => {
       "What do we say to the God of death? Not today. - Beric Dondarrion ~ Meaning : You can fight death ",
     "10-Game of Thrones":
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
-      "11-Game of Thrones":
-      "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.",
-      "12-Game of Thrones":
-      "Chaos isn't a pit. Chaos is a ladder.",
 
+      "1-Princess Diaries":
+      "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.✊",
+      "2-Princess Diaries":
+      "The brave may not live forever, but the cautious do not live at all.⚔️",
+      "3-Princess Diaries":
+      "From now on you’ll be traveling the road between who you think you are and who you can be.✊",
+      "4-Princess Diaries":
+      "As always, this is as good as it’s going to get.🤝🤝",
+      "5-Princess Diaries":
+      "It’s not appropriate for royalty 👑 to jingle.",
+      "6-Princess Diaries":
+      "C’mon, you can do it.🤝🤝 Keep your eye on the ball.",
+      "7-Princess Diaries":
+      "You will find that the word fear is not in my vocabulary!✊ ",
+      "8-Princess Diaries":
+      "We never rush; we hasten.💰",
+      "9-Princess Diaries":
+      "Almost, but anyone can see your desires. No one knows what’s in your heart.🥰",
+      "10-Princess Diaries":
+      "Nepotism belongs in the arts, not in plumbing.🤝🤝",
 
     "1-Bridge of Spies":
     "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
