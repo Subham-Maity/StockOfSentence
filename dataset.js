@@ -159,6 +159,8 @@ generate = () => {
       "If you want to improve, be content to be thought foolish and stupid. ― Epictetus ~ Meaning : To learn a new skill, you need to allow yourself to be a clumsy beginner",
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
+      "63-Random":
+      "",
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -188,6 +190,36 @@ generate = () => {
 
     "5-inspirational ":
       "Being vulnerable is a strength, not a weakness — Selena Gomez ~ Hinglish Meaning :  kamajor hona ek taakat hai, kamajoree nahin😊",
+
+    "6-inspirational":
+      "Education is the most powerful weapon which you can use to change the world - Nelson Mandela ~ Hinglish Meaning : pdai ek esi cheej hai jisse tum puri duniya ko badal sakte ho esa hathiyar hain😊",
+
+    "7-inspirational":
+      "We will fail when we fail to try - Rosa Parks ~ Hinglish Meaning :  Hum usi waqt haar jaate hain jb hum us cheej ko krna ki himmat hi nhi karte ✔️ ",
+
+    "8-inspirational":
+       "Champions keep playing until they get it right - Billie Jean King ~ Hinglish Meaning : Vijeta hamesha apne upar kaam krta rehta hai jbtk ki vo jeet nhi jata 💪",  
+
+    "9-inspirational":
+       "The journey of a thousand miles begins with one step - Lao Tzu ~ Hinglish Meaning : Ek bade safar ki shuruat ek ek kadam se hi hoti hai 💪",
+       
+    "10-inspirational":
+      "Dream big and dare to fail - Norman Vaughan ~ Hinglish Meaning : Bada socho aur uska pane ka junoon rakho apne under ✔️", 
+      
+    "11-inspirational":
+      "The power of imagination makes us infinite - John Muir ~ Hinglish Meaning : Hum jitna bada soch sakte socho taki hum utni hi mehnat krkr usko pa le 🙌", 
+      
+    "12-inspirational":
+      "Make each day your masterpiece - John Wooden ~ Hinglish Meaning : Apna har din ek safalta wala din bnao kyunki hmari puri zindagi dino ko milakar hi bnti hai to usko khrab mat kro ✔️", 
+
+    "13-inspirational":
+      "The best dreams happen when you’re awake - Cherie Gilderbloom ~ Hinglish Meaning : Sabse ache sapne tabhi aate hain jb hum jagge hue hote hain kyunki usi waqt hum aasl apni zindagi m hain 🙌", 
+
+    "14-inspirational":
+      "Once you choose hope, anything’s possible - Christopher Reeve ~ Hinglish Meaning : Jb tum icha ko choose kr lete ho to tum kuch bhi paa sakte ho 😍", 
+
+    "15-inspirational":
+      "Every moment is a fresh beginning - T.S. Eliot ~ Hinglish Meaning : Tumhara har pal ek new opportunity lekr aata hain to usko waste mat kro pichla soch soch kr 🥇", 
 
     "1-Motivational":
       "We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein ~ Meaning : Listen, learn and improve. That how you solve your problem and generate new ones.😸",
@@ -466,34 +498,67 @@ generate = () => {
       "To infinity and beyond! 🔥 -  Toy Story, 1995 ~ Meaning: There are limitless possibilities💯, infinity is endless ! ",
 
     "133- Motivational ":
-    "The Training Is Nothing. The Will ✊ Is Everything. The Will To Act - Batman Begins, 2005 ~ Meaning: Unless a person has the will and is determined enough to do a certain task,he cannot excel int it",
+      "The Training Is Nothing. The Will ✊ Is Everything. The Will To Act - Batman Begins, 2005 ~ Meaning: Unless a person has the will and is determined enough to do a certain task,he cannot excel int it",
 
     "134- Inspirational ":
-    "You Always Fear 😨 What You Don't Understand 😕. - Batman Begins, 2005 ~ Meaning: A person is always nervous about unfamiliar things and unless he/she experiments them, they seem unachievable",
+      "You Always Fear 😨 What You Don't Understand 😕. - Batman Begins, 2005 ~ Meaning: A person is always nervous about unfamiliar things and unless he/she experiments them, they seem unachievable",
 
     "135- Inspirational ":
-    "Why do we fall 🍂, sir? So that we can learn to pick ourselves up. - Batman Begins, 2005 ~ Meaning: Obstacles are nothing but the stepping stones to success",
-  
+      "Why do we fall 🍂, sir? So that we can learn to pick ourselves up. - Batman Begins, 2005 ~ Meaning: Obstacles are nothing but the stepping stones to success",
+
     "136- Insightful ":
-    "You either die a hero 🦸 or live long enough to see yourself become the villain 🦹. - The Dark Knight, 2008 ~ Meaning:Taking that chance to die, means that you are indeed a hero because you stood for something and are willing to pay the price of death. ",
-    
+      "You either die a hero 🦸 or live long enough to see yourself become the villain 🦹. - The Dark Knight, 2008 ~ Meaning:Taking that chance to die, means that you are indeed a hero because you stood for something and are willing to pay the price of death. ",
+
     "137- Motivational ":
-    "It is not our abilities that show what we truly are… it is our choices 🔘. -Harry Potter and the Chamber of Secrets ~ Meaning: A person is best identified by the choices he/she made rather than the abilities possessed",
+      "It is not our abilities that show what we truly are… it is our choices 🔘. -Harry Potter and the Chamber of Secrets ~ Meaning: A person is best identified by the choices he/she made rather than the abilities possessed",
 
     "138- Motivational ":
-    "Oh yes, the past can hurt. But you can either run 🏃‍♀️ from it, or learn 📘 from it.” -The Lion King ~ Meaning: Bad things happen, learn what you can and keep moving forward.",
+      "Oh yes, the past can hurt. But you can either run 🏃‍♀️ from it, or learn 📘 from it.” -The Lion King ~ Meaning: Bad things happen, learn what you can and keep moving forward.",
 
     "139- Inspirational ":
-    "“What we do 🧑‍💼 in life echoes in eternity.” - Gladiator ~ Meaning: It is our reputation that is the only thing left after death. ",
+      "“What we do 🧑‍💼 in life echoes in eternity.” - Gladiator ~ Meaning: It is our reputation that is the only thing left after death. ",
 
     "140- Motivational ":
-    "Life is not the amount of breaths 😮‍💨 you take. It’s the moments that take your breath away 😲. - Hitch ~ Meaning: It’s not the number of years you live that counts in life, it’s how you live those years. We aren’t measured by how many memorable moments we have in our lives, but by how many new ones we create each day.Quality of life isn’t determined by how long you live, it’s determined by how well you live. ",
+      "Life is not the amount of breaths 😮‍💨 you take. It’s the moments that take your breath away 😲. - Hitch ~ Meaning: It’s not the number of years you live that counts in life, it’s how you live those years. We aren’t measured by how many memorable moments we have in our lives, but by how many new ones we create each day.Quality of life isn’t determined by how long you live, it’s determined by how well you live. ",
 
     "141- Motivational ":
-    "Why are you trying so hard to fit in?, when you were born to stand out. - What A Girl Wants ~ Meaning: Everyone has different types of skill and talent, so never follow others dream and their career.",
+      "Why are you trying so hard to fit in?, when you were born to stand out. - What A Girl Wants ~ Meaning: Everyone has different types of skill and talent, so never follow others dream and their career.",
 
     "142- Insightful ":
-    "“But in times of crisis, the wise 🦉 build bridges, while the foolish 🤡 build barriers. - Black Panther ~ Meaning: It's during difficult times that the wise always look for solutions,whereas the foolish always construct hurdles.",
+      "“But in times of crisis, the wise 🦉 build bridges, while the foolish 🤡 build barriers. - Black Panther ~ Meaning: It's during difficult times that the wise always look for solutions,whereas the foolish always construct hurdles.",
+
+    "143- Insightful ":
+      "Accident is the first building block of evolution 🧬. - Interstellar, 2014 ~ Meaning: Our errors and mistakes does not always make us a failure, It can also lead us to another desirable result",
+
+    "144- Insightful ":
+      "The very things that hold you down ⬇️ are going to lift you up ⬆️. - Dumbo, 1941 ~ Meaning: Love yourself enough to accept your own flaws. Those “flaws” are what make us beautifully different.",
+
+    "145- Insightful ":
+      "Sometimes it is the people 🧍 who no one imagines anything of who do the things that no one can imagine. - The Imitation Game, 2014 ~ Meaning: It is not good to judge other people's abilities. Sometimes the one whom you have underestimated can do things that you can't imagine.",
+
+    "146- Insightful ":
+      "An eye 👁️ for an eye 👁️ makes the whole world 🌐 blind. - Gandhi, 1982 ~ Meaning: A policy of revenge will lead to counterretaliations rather than peaceful resolutions",
+
+    "147- Inspirational ":
+      "Everything is possible, even the impossible. - Mary Poppins Returns, 2018 ~ Meaning: Your ideas can only come from you. Your ideas will change the world for someone. So run with those ideas, no matter how impossible they may seem. Run with those ideas even though people tell you that your idea is not possible.",
+
+    "148- Motivational ":
+      "Don't tell me 🤐 I can't do it; don't tell me 🤐 it can't be done!. - Aviator, 2004 ~ Meaning: Never consider things to be impossible",
+
+    "149- Motivational ":
+      "Just because someone stumbles and loses their path 🛣️, doesn't mean they're lost forever. - X-Men Days of Future Past, 2014 ~ Meaning: If someone commits mistakes that does not means that they cannot achieve success",
+
+    "150- Motivational ":
+      "We are who we choose to be. - Spider-Man, 2002 ~ Meaning: You have control over putting things and doing things in your life that you want to do.",
+
+    "151- Insightful ":
+      "Life is like a box of chocolates 🍫, you never know what you’re gonna get. - Forrest Gump, 1994 ~ Meaning: Life is unpredictable",
+
+    "152- Insightful ":
+      "Put two ships 🚢 in the open sea 🌊 without wind or ride, and they will come together. - Aquaman, 2014 ~ Meaning: It means how different we seem, we are all connected.",
+
+    "153- Insightful ":
+      "That’s one small step for man, one giant leap for mankind. - First Man, 2018 ~ Meaning: Progress is possible no matter how much small our step is.",
 
     "29- Inspirational ":
       "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
@@ -552,16 +617,16 @@ generate = () => {
     "56- inspirational":
       "When you want something in life, you just gotta reach out and grap it😊💫. - Into the Wild, 2007 ~ Meaning: If we want something that's good, isn't it? Most people don't even know what they want in their life. So, we should move ahead and try to achieve that rather than making excuses even after setting the goals.",
     "57- inspirational":
-       "Every man dies🙃, but not every man really lives🙄. - Braveheart, 1995 ~ We all have dreams, aspirations and goals. Some choose to give up thinking they are not good enough. Some fight for it, they feel and live for it.To fight is to live and to give up is to die.",
+      "Every man dies🙃, but not every man really lives🙄. - Braveheart, 1995 ~ We all have dreams, aspirations and goals. Some choose to give up thinking they are not good enough. Some fight for it, they feel and live for it.To fight is to live and to give up is to die.",
     "58- inspirational":
       "It's supposed to be hard. If it wasn't hard, everyone would do it😊. The hard... is what makes it great💫. - A League of Their Own, 1992 ~ Meaning: Our goals and aims of life should be difficult and challenging. That's what makes us live and fight for that. If they are easy then what the satisfaction on achieving them.",
     "59 - inspirational":
-       "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
+      "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
 
     "1- Money Heist ":
       "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
     "2- Money Heist ":
-       "The plan is designed to survive any setbacks💯, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
+      "The plan is designed to survive any setbacks💯, including my death. ― The Professor, ~ Meaning: I have designed this plan To survive all outcomes, even my death",
     "3- Money Heist ":
       "You’re the sexiest woman 👩in the world but I love you for your brains🧠. ― The Professor, ~ Meaning: He loves her for her intelligence",
     "4- Money Heist ":
@@ -578,13 +643,13 @@ generate = () => {
       "In heist love ♥️ can get multiplied ✖️. ― Tokio, ~ Meaning: People start loving more in a bad situation ",
     "10- Money Heist ":
       "My love, the things that actually matter in life always come unexpectedly⏰. ― Berlin, ~ Meaning: we don't know what will happen tomorrow",
-    
+
     "1- Matsumoto Rangiku (BLEACH)":
       "To know sorrow is not terrifying. What is terrifying is to know you can’t go back to the happiness you could have.🥹",
-  
+
     "2- Naruto Uzumaki (NARUTO)":
       "If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be.🔥🔥🔥",
-  
+
     "3- Saitama (ONE-PUNCH MAN)":
       "Simplicity is the easiest path to true beauty.😊",
 
@@ -637,17 +702,318 @@ generate = () => {
       "Forgetting is like a wound.😥 The wound may heal, but it has already left a scar.🥺",
 
     "20- Juuzou Suzuya (TOKYO GHOUL)":
-      "Why should I apologize for being a monster?🥺 Has anyone ever apologized for turning me into one?🥹"
+      "Why should I apologize for being a monster?🥺 Has anyone ever apologized for turning me into one?🥹",
 
-    
-    
-    
-    
-    
-    
-      //Stop Here👇
-    //(ㆆ_ㆆ)ヾ(⌐■_■)ノ♪~_~＞︿＜¯\_(ツ)_/¯(～￣▽￣)～（づ￣3￣）づ╭❤️～༼ つ ◕_◕ ༽つ( ఠൠఠ )ﾉ( ◍•㉦•◍ )(ʘ ͜ʖ ʘ)O_O(*^_^*)`(*>﹏<*)′(*^▽^*)(❁´◡`❁)（*＾-＾*）(✿◡‿◡)φ(゜▽゜*)♪( •̀ ω •́ )✧[]~(￣▽￣)~*
+    "1- Criminal Minds":
+      "I find that I do some of my best work📚 under intense terror💣🔪. - Dr. Spencer Reid, ~ Meaning: When the environment adds pressure and creates terror, new ideas are created to get make the best out of worse situation.",
+
+    "2- Criminal Minds":
+      "One of the last things I said before he shot🔫 me was everything happens for a reason💫. Derek, if I lose faith🛐 in that then nothing in my life makes sense🙏🏼. - Penelope Grace Garcia, ~ Meaning: When we believe in something and that belief is challenged, that is the time when you need to hold on to the belief even more tightly.",
+
+    "3- Criminal Minds":
+      "I belong in this unit.😤 And all I'm asking you for is the chance to show that🙏🏼. - Emily Prentiss, ~ Meaning: We need a chance to show that we belong somewhere.",
+
+    "4- Criminal Minds":
+      "Nothing white people🙍🏻‍♂️do to blacks🙍🏿‍♂️ is just. -Christopher J. Scaver, Sr., ~ Meaning: What white people think fun is racism for black people.",
+
+    "5- The Hobbit: The Battle Of The Five Armies":
+      "If more of us valued food🥗🍛 and cheer🍻 and song🎶 above hoarded gold🪙, it would be a merrier world.🥳 But, sad😔 or merry🤩, I must leave it now. Farewell👋🏼. -Thorin II Oakenshield, ~ Meaning: Life cann't always be cheerful but it has greed in it too. ",
+
+    "6- Criminal Minds":
+      "There are things we don't want to happen but have to accept.🥺 Things we don't want to know but have to learn.📒 And people we can't live without but have to let go☠️. -Jennifer Jareau, ~ Meaning: There are certain things in life that is out of our control and its okay to move on from them.",
+
+    "7- Criminal Minds":
+      "I study📚 guys like you for a living, I know more about you than you know about yourself🤟🏼🙏🏼. -Derek Morgan, ~ Meaning: When you do something for a long time, you began an expert on it.",
+
+    "8- Criminal Minds":
+      "Beauty🤍 can cover a multitude of sins😈. But underneath, we all look exactly the same💀. -Frank Breitkopf, ~ Meaning: Though we show good behaviour formthe outside, we are all filled with greed and selfishness from the inside.",
+
+    "9- Willow ":
+      "Magic🪄 is the bloodstream of the universe🌏. Forget all you know, or think you know. All that you require is your intuition😇. - High Aldwin, ~ Meaning: The way your intuition works is nature's wonder and magic.",
+
+    "10- Star Trek: The Next Generation":
+      "There are many parts of my youth⛹️🏽‍♂️ that I’m not proud of. There were loose threads, untidy parts of me that I would like to remove.➰️ But when I pulled on one of those threads, it unraveled the tapestry of my life🖤. - Captain Jean-Luc Picard, ~ Meaning: we all did many things that we are not proud of in our youth. But they are a part of you and makes who you are today.",
+
+    "124- Random":
+      "No one can ever prepare you for what happens when you have a child👶🏻. When you see the baby in your arms🤱🏻👨🏻‍🍼 and you know that it's your job now. No one can prepare you for the love and the fear.",
+
+    "125- Random":
+      "She was the, and still is to me, the most beautiful thing in the world.🌍",
+
+    "126- Random":
+      "We’re all traveling✈️ through time together, every day of our lives. All we can do is do our best to relish the remarkable ride.🎢",
+
+    "127- Random":
+      "It was the toughest decision of my life. Saying “yes” to the future meant saying “goodbye” to my dad forever.👋🏻",
+
+    "128- Random":
+      "All the time traveling✈️ in the world can’t make someone love❤️ you.",
+
+    "129- Random":
+      "I just try to live everyday🗓 as if I’ve deliberately come back to this one, to enjoy it, as if it was the final full day of my extraordinary, ordinary life.📆",
+
+    "130- Random": "Live life as if there were no second chances.🔑",
+
+    "131- Random":
+      "I love your eyes.👀 I love the rest of your face, too. I haven’t even looked further down and I’m sure it’s all fantastic.🧚🏻‍♀️",
+
+    "132- Random":
+      "I’d only give one piece of advice to anyone marrying.💍 We’re all quite similar in the end. We all get old and tell the same tales too many times. But try and marry someone kind.",
+
+    "133- Random": "You had me at ‘hello.👋🏻",
+
+    "1- Cinema Paradiso":
+      "Life isn't like in the movies🎬. Life... is much harder.",
+
+    "2- Cinema Paradiso": "Progress📈 always comes late.",
+
+    "3- Marriage Story": "He🤦‍♂️ didn't see👀 me as separate from himself.",
+
+    "4- Marriage Story":
+      "People don't accept a mother who drinks too much wine🍷 and yells at her child and calls him an asshole.",
+
+    "5- Marriage Story": "You always have to have your own voice.🗣",
+
+    "6- Marriage Story":
+      "You and i both🙍‍♀️🙍‍♂️ know you chose this life. you wanted it until you didn't.❌",
+
+    "7- Marriage Story": "A bit of earth🌎 that's yours.",
+
+    "8- Single Man":
+      "You know that only thing that has made the whole thing worthwhile✨ has been those few times that I was able to truly connect🕸 with another person.",
+
+    "9- Single Man": "Just get through the goddamn day🌞.",
+
+    "10- Single Man":
+      "If one is not enjoying one's present💐, there isn't a great deal to suggest that the future🔮 should be any better.",
+
+    "1-Inception":
+      "Once An Idea Has Taken Hold Of The Brain, It’s Almost Impossible To Eradicate.😮 -Domm , ~Meaning:At one point, Cobb compares ideas to parasites: “What is the most resilient parasite? Bacteria? A virus?😱 An intestinal worm? An idea. Resilient...highly contagious. Once an idea has taken hold of the brain, it’s almost impossible to eradicate. An idea that is fully formed – fully understood – that sticks; right in there somewhere.”",
+
+    "2-Inception":
+      "Downward Is The Only Way Forward.😬 -Domm , ~Meaning:Following the string of dreams in Inception isn’t easy. And when the characters say things like, 😣“Downward is the only way forward,” it certainly doesn’t help anybody follow the plot.",
+
+    "3-Inception":
+      "They Say We Only Use A Fraction Of Our Brain’s True Potential.😨 -Domm, ~Meaning:According to Domm Cobb, “They say we only use a fraction of our brain’s true potential. Now, that’s when we’re awake. When we’re asleep, we can do almost anything.”",
+
+    "4-Inception":
+      "True Inspiration Is Impossible To Fake. 😦-Aurthor , Meaning:In order to demonstrate the process of planting an idea in someone’s mind, Arthur tells Saito not to think about elephants, then asks him what he’s thinking about and he replies, “Elephants.” Arthur explains, “Right, but it’s not your idea. The dreamer can always remember the genesis of the idea.”",
+
+    "5-Inception":
+      "Dreams feel real while we’re in them. It’s only when we wake up that we realize something was actually strange 😵‍💫.-Domm , ~Meaning:Cobb makes a fantastic point about the psychology of dreams. It’s probably the first thing that comes up in a lecture about that part of human psychology,",
+    "6-GodFather":
+      " I’m gonna make him an offer he can’t refuse.😎” —Don Vito Corleone, ~Meaning:😎 Vito Corleone showing positive attitude",
+
+    "7-GodFather":
+      "A man who doesn’t spend time with his family can never be a real man. 😮‍💨 ” —Don Vito Corleone,~Meaning: Don realising the value family and duty of a real man",
+
+    "8-GodFather":
+      "Women and children can be careless, but not men😤. —Don Vito Corleone ,~ Meaning: Don tells the responsibility fo a real alpha male",
+
+    "9-GodFather":
+      "Revenge is a dish best served cold💀 ☠️. —Don Vito Corleone , ~ Meaning: Don tells the what revenge means to him",
+
+    "10-The Prestige":
+      " Now you're looking for the secret. But you won't find it because of course, you're not really looking 😵‍💫. You don't really want to work it out. You want to be fooled.,-cutter, ~ Meanign: cutter explaining that u are not actually want to find the secret ",
+
+    "1- Dead Poets Society":
+      "Carpe diem. Seize the day, boys.✍🏾 Make your lives extraordinary ✍🏻. ~Meaning: Make the most of everyday.",
+
+    "2- Field of Dreams":
+      "If you build it, they will come⚾. ~Meaning: If you want something done, do it yourself.",
+
+    "3- Jerry Maguire":
+      "💸Show me the money💰. ~Meaning: Pay me what I am worth.",
+
+    "4- Moonstruck":
+      "Snap out of it! ⏰😴📢⬆. ~Meaning: Wake up, pay attention, get it together.",
+
+    "5- Chinatown":
+      "Forget it Jake,🚓 it's Chinatown🐉. ~Meaning: the police are corrupt here, we can't do anthing about it.",
+
+    "6- Gladiator":
+      "Are you not entertained.🏛⛓ ~Meaning: Isn't this what you are here to see?",
+
+    "7- The Dark Knight": "Why so serious?🃏😜. ~Meaning: Relax, have fun.",
+
+    "8- The Bicycle Theives":
+      "Why should I kill myself worrying when I'll end up just as dead?💀 ~Meaning: Life is too short to worry.",
+
+    "9- Knute Rockne All American":
+      "Tell 'em to go out there with all they got and win just one for the Gipper🏈. ~Meaning: Win the game for the coach.",
+
+    "10- National Lampoons Animial House":
+      "Toga! Toga! 🍺 ~Meaning: A toga party is a Greco-Roman-themed costume party where attendees wear a toga (normally made from a bed sheet) with sandals. ",
+
+    "PIXAR- INSPIRE_1":
+      "A great artist🎨🎨 can come from anywhere.–Anton Ego, Ratatouille ~ Meaning: Whether in a 👨‍🍳world-renowned restaurant or a sewer system , greatness can be found anywhere and in all of us. Look inside to find the artist in you.",
+
+    "PIXAR- INSPIRE_2":
+      "Just keep swimming🐟🐟.–Dory, Finding Nemo. ~ Meaning: Don’t give up. Persistence pays off💪.",
+
+    "PIXAR- INSPIRE_3":
+      " Our fate lives 🏙️ within us. You only have to be brave 💪enough to see it.–Merida, Brave ~ Meaning:The past does not equal the future. We each determine our own destiny🏙️.",
+
+    "PIXAR- INSPIRE_4":
+      "I don’t want to survive. I wanna live.–👑Captain, WALL•E ~ Meaning:Live life to the fullest and seize each and every day💃.",
+
+    "PIXAR- INSPIRE_5":
+      "To infinity and beyond!⚡⚡–Buzz Lightyear, Toy Story ~ Meaning:Set your sights high and dream💤💤 big. There is no limit to what you can achieve, if you just believe!",
+
+    "PIXAR- INSPIRE_6":
+      "You and I are a team 👥👥. There is nothing more important than our friendship.–Mike Wazowski, Monsters👺👺, Inc. ~ Meaning:Life is easier with a friend by your side 🧑‍🤝‍🧑.",
+
+    "PIXAR- INSPIRE_7":
+      "Good food🧑‍🍳 is like music you can taste, color you can smell🫕🫕. There is excellence all around you. You need only be aware to stop and savor it.–🧑‍🍳Chef Gusteau, Ratatouille ~ Meaning:Notice your surroundings. You never know what you might find.",
+
+    "PIXAR- INSPIRE_8":
+      "Your only limit is your soul. What I say is true—anyone can cook🫕🫕 ... but only the fearless can be great.–Chef Gusteau, Ratatouille ~ Meaning:Don’t be afraid to fail📉📉, for it is through these moments that you will eventually succeed.",
+
+    "PIXAR- INSPIRE_9":
+      "I never look back, darling. It distracts📱📱 from the now. –The Incredibles ~ Meaning: Just be in present 🎁🎁, plan for future and embrace the past",
+
+    "PIXAR- INSPIRE_10":
+      "When life gets you down⬇️, do you wanna know what you’ve gotta do? Just keep swimming🏊‍♂️🏊‍♂️.–Finding Nemo ~ Meaning: whenever life throws some problem at you face it bravely💪💪!",
+
+    "1-Doctor Who ":
+      "Remember, hate is always foolish 😡...and love ❤️...is always wise 😊. -  12th Doctor ~ Meaning : The hate will blind you and won't let you see that you're acting in a way you don't really want to, but love will always make you do your best for those you love ",
+
+    "2-Doctor Who ":
+      "Human progress 🏃 isn't measuredby industry 🏭. It's measured by the value you place on a life 💗. -  12th Doctor ~ Meaning :  Science and technology turns useless if we don't treat each other as human beigns.",
+
+    "3-Doctor Who ":
+      "Nothing's sad until it's over 🚩 , and then everything is 😭. -  12th Doctor ~ Meaning : Goodbyes are always sad ",
+
+    "4-Doctor Who":
+      "We're all stories in the end 🚩. Just make it a good one, eh? 📘. -  11th Doctor ~ Meaning : Live life to the fullest ",
+
+    "5-Doctor Who":
+      "Sometimes, the only choices you have are bad ones 👈, but you still have to choose ☝️. -  12th Doctor ~ Meaning : Make a choice may be hard ",
+
+    "6-Doctor Who":
+      "Every story 📘 ever told really happened. Stories 📕 ...are where memories go when they're forgotten 💌. -  12th Doctor ~ Meaning : There is a person behind every story ",
+
+    "7-Jurassic Park ":
+      "Life finds a way 🌱. -  Ian Malcolm ~ Meaning : Nature will always find a way to survive even in most harshest conditions ",
+
+    "8-Avengers: Infinity War":
+      "The hardest choices 👈 require the strongest wills ✊. -  Thanos ~ Meaning : It's not always easy make a choice, but you must ",
+
+    "9-Sherlock":
+      "To a great mind, 🔷 nothing is little 🔹. -  Sherlock Holmes ~ Meaning : That wich is not easily seen can be easily ignored",
+
+    "10-Sherlock":
+      "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
+    "1-Friends":
+      "I'll be there for you 🤝🤝. -  Rachel Green ~ Meaning : A true friend will always be there for you ",
+    "2-Friends":
+      "We were on a break! 💔. -  Ross Geller ~ Meaning : A break is a break, no matter what you say ",
+    "3-Friends":
+      "Could I BE wearing any more clothes? 🤔. -  Chandler Bing ~ Meaning : You can never be overdressed ",
+    "4-Friends":
+      "Well, maybe I don’t need your money. Wait, wait, I said maybe! 🤑. -  Monica Geller ~ Meaning : Money can't buy everything ",
+    "5-Friends":
+      "Joey doesn’t share food! 🍕. -  Joey Tribbiani ~ Meaning : Food is sacred ",
+    "6-Friends":
+      "I’m not so good with the advice. Can I interest you in a sarcastic comment? 😒. -  Chandler Bing ~ Meaning : Sometimes you just need to be sarcastic ",
+    "7-Friends":
+      "I wish I could, but I don’t want to. 😒. - Phoebe Buffay ~ Meaning : Sometimes you just don't want to do something ",
+    "8-Friends":
+      "This is all a moo point. 🐮. -  Joey Tribbiani ~ Meaning : It's a pointless argument ",
+    "9-Friends":
+      "I’m not superstitious, but I am a little stitious. 🤔. -  Ross Geller ~ Meaning : You can be a little superstitious ",
+    "10-Friends":
+      "I don’t even have a ‘pla.’ 🤔. -  Phoebe buffay ~ Meaning : You don't have a plan ",
+    "11-Friends":
+      "Oh, come on, Will, just take off your shirt and tell us. 🤔. -  Phoebe Buffay ~ Meaning : You can't hide anything from your friends ",
+    "1-Game of Thrones":
+      "When you play the game of thrones, you win or you die💀. There is no middle ground. -  Cersei Lannister ~ Meaning : There is no middle ground in life ",
+    "2-Game of Thrones":
+      "A lion🦁 doesn’t concern himself with the opinions of sheep🐏. -  Tywin Lannister ~ Meaning : Don't care about what others think ",
+    "3-Game of Thrones":
+      "The things I do for love🥰. -  Jamie Lannister ~ Meaning : Love can make you do crazy things ",
+    "4-Game of Thrones":
+      "I am the dragon’s daughter🐲, and I swear to you that those who would harm you will die screaming. -  Daenerys Targaryen ~ Meaning : You can be strong ",
+    "5-Game of Thrones":
+      "Valar morghulis⚰️ - jaqen H'ghar ~ Meaning : All men must die",
+    "6-Game of Thrones":
+      "The night is dark and full of terrors😰. -  Melisandre ~ Meaning : The world is a scary place ",
+    "7-Game of Thrones":
+      "A Lannister always pays his debts💰 - Tywin Lannister ~ Meaning : You must always pay your debts ",
+    "8-Game of Thrones":
+      "Chaos is a ladder🪜 - Littlefinger ~ Meaning : Chaos can be a good thing ",
+    "9-Game of Thrones":
+      "What do we say to the God of death? Not today. - Beric Dondarrion ~ Meaning : You can fight death ",
+    "10-Game of Thrones":
+      "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
+
+
+    "1-Bridge of Spies":
+    "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
+
+    "2-Bridge of Spies":
+    "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
+
+    "1-After Earth":
+    "Fear is not real.😎 The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
+   
+    "1-300":
+   "Spartans, eat well🍻, for tonight we dine in Hadesea. ⚔️ — King Leonidas, 300 meaning-King Leonidas knows this will be their last mean before the final battle. he says this to encourage his soldires to accept death proudly",
+
+   "2-300":
+   "He who sweats💧 more in training bleeds less in war.🥷 — Spartan Creed ~ Meaning : The greater the preparation, the greater the ability to handle adversity",
+
+   "3-300":
+   "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
+
+  "4-300":
+  "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
+
+
+    "1-Rush":
+      "A wise man🤔 can learn more from his enemies than a fool from his friends😌. - Niki Lauda ~ Meaning: Every occasion os an opportunity if we view it positively.",
+
+    "2-10 things I hate about you":
+      "Don’t✖️ let anyone ever make you feel like you don’t deserve what you want✊. - Heath Ledger ~ Meaning: Not everyone knows your life story. Live your life as your wish. Don't seek others validation.",
+
+    "3-Black Hawk Down":
+      "It’s what you do right now that makes a difference. ✊ - Struecker ~ Meaning: Your future depends on your present. ",
+
+    "4-Finding Forrester":
+      "We walk away from our dreams afraid we may fail😰, or worse yet, afraid we may succeed. 🫠 - William Forrester ~ Meaning: We are always afraid to purse our dreams. ",
+
+    "5-Planet of the Apes":
+      "I can't help thinking somewhere in the universe🌎 there has to be something better than man. Has to be.🙏🏼 - Taylor, ~ Meaning: The man has accomplished great things and still is a greedy being, there has to be something that is better than mankind.",
+
+    "6- Avengers: Endgame":
+      "You could not✖️ live with your own failure. Where did that bring you? Back to me.😏 - Thanos, ~ Meaning: No person can live on with their failures, failures always lead to the same problem until it is fixed.",
+
+
+    "7- Star Wars: The Last Jedi":
+      "I'll always be with you. Just like your father👨‍👦. - Luke Skywalker, ~ Meaning: Destruction of evil can never done with a evil force of anger, the hate only shifts but never ends.",
+
+    "8- The Avengers":
+      "The Avengers.💪🏼 That's what we call ourselves; we're sort of like a team. 'Earth's Mightiest Heroes'😎 type thing. - Tony Stark, ~ Meaning: The Avengers are the group that fight against the evils on the universe.",
+
+    "9- Avengers: Infinity War":
+      "Don't forget, I'm half-human. So that fifty percent of me that's stupid😵‍💫, that's a hundred percent you.🙏🏼 - Peter Quill, ~ Humans tend to make mistakes more than other artificial things so the accuracy of the task is compromised by Humans.",
+
+    "10- IronMan":
+      "Let's face👀 it, this is not the worst thing you've caught me doing🤭. - Tony Stark, ~ Meaning: Each person has done something that is morally bad.",
+
+    "11- Predestination":
+      "The one thing that this job has taught me is that truth✔️ is stranger than fiction❕️. - The Bartender, ~ Meaning: Fiction is the Imagination of the most complex things into a simple version, but the truth of the simplest things is much complex.",
+
+    "12- Back To The Future II":
+      "Marty! What in the name of Sir Isaac H. Newton happened here😯?. - Dr. Emmett Brown, ~ Meaning: ",
+
+    "13- Westworld":
+      "The right information at the right time is deadlier than any weapon🔪💣. - Martin Collins, ~ Meaning: Information and communication during an attack is very important as it is the information that leads us to attack when enemy let their guard down.",
+
+    "14- Stranger Things":
+      "Nobody normal🙂 ever accomplished anything meaningful in this🌍. - Jonathan Byres, ~ Meaning: To accomplish something in this world wo should be above normal, extraordinary.",
   };
+
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
