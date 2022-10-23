@@ -44,3 +44,14 @@ codeXamBtn.addEventListener('click', function (e) {// add an event listener to t
     playPause(codeXam);// call the playPause function
     progress(codeXamBtn, codeXam);// call the progress function
 });
+
+document.addEventListener('keyup', event=> {
+    if(event.code === 'Space'){
+        codeXamBtn.classList.toggle('is--playing');
+        if (codeXam.paused && codeXam.currentTime >= 0 && !codeXam.ended) {
+            codeXam.play();
+        } else {
+            codeXam.pause();
+        }
+    }
+})
