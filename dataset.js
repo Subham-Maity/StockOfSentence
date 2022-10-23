@@ -900,7 +900,7 @@ generate = () => {
       "The hardest choices 👈 require the strongest wills ✊. -  Thanos ~ Meaning : It's not always easy make a choice, but you must ",
 
     "9-Sherlock":
-      "To a great mind, 🔷 nothing is little 🔹. -  Sherlock Holmes ~ Meaning : That wich is not easily seen can be easily ignored",
+      "To a great mind, 🔷 nothing is little 🔹. -  Sherlock Holmes ~ Meaning : That which is not easily seen can be easily ignored",
 
     "10-Sherlock":
       "Oh, I may be on the side of the angels 👼, but don't think for one second that i am one of them 💀. -  Sherlock Holmes ~ Meaning : To catch a criminal, you have to think like one ",
@@ -1012,6 +1012,82 @@ generate = () => {
 
     "14- Stranger Things":
       "Nobody normal🙂 ever accomplished anything meaningful in this🌍. - Jonathan Byres, ~ Meaning: To accomplish something in this world wo should be above normal, extraordinary.",
+    
+    "1- How I met your mother":
+    "The biggest mistake would be not to make that mistake, because then you’ll go your whole life not knowing if something was a mistake or not🤔. - Lily Aldrin, ~ Meaning: Life is about taking risks. You can’t always play it safe.",
+    
+    "2- How I met your mother":
+    "Because sometimes even if you know how something’s gonna end, that doesn’t mean you can’t enjoy the ride🎢. - Ted Mosby, ~ Meaning: Some things are temporary, but that doesn’t mean they are meaningless.",
+    
+    "3- How I met your mother":
+    "You can’t cling to the past, because no matter how tightly you hold on, it’s already gone😔. - Ted Mosby, ~ Meaning: It's already happened and time will move on, even if you're still stuck in the past.",
+    
+    "4- How I met your mother":
+    "Oprah wasn't built🏗 in a day. - Lily Aldrin, ~ Meaning: You cannot expect to do important things in a short period of time.",
+    
+    "5- How I met your mother":
+    "Nothing good happens after 2 a.m. When 2 a.m. rolls around, just go home and go to sleep🛌. - Ted Mosby, ~ Meaning: Don't make any decisions after 2 A.M. because they are wrong decisions.",
+    
+    "6- Prison Break":
+    "We are captives⛓ of our own identities, living in prisons of our own creation. - Theodore Bagwell, ~ Meaning: We constrain ourselves through how we identify ourselves.",
+    
+    "7- The 100":
+    "Life Should Be About More Than Just Surviving. - Clarke Griffin, ~ Meaning: We have to make the most of the time we have in our lifetime",
+    
+    "8- The 100":
+    "Victory stands on the back of sacrifice. - Lexa, ~ Meaning: You have to make sacrifices to win",
+    
+    "9- The Vampire diaries":
+    "Smiling doesn't always mean you're happy. Sometimes it simply means that you are a strong person. - Elena Gilbert",
+    
+    "10- The Originals":
+    "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
+
+    "1- Avengers: Endgame":
+    "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
+
+  "2- Avengers: Endgame":
+    "No amount of money 💰 has ever bought a second of time ⌛. - Tony Stark, ~ Meaning: Time is more precious than money.",
+
+  "3- Avengers: Endgame":
+    "It's not about how much we lost. It's about how much we have left. - Tony Stark, ~ Meaning: We must not worry about what we have lost but we must work with whatever we have left.",
+  
+  "4- Thor: The Dark World":
+    "I would rather be a good man than a great king 👑. - Thor, ~ Meaning: Being a good man is better than being a great king.",
+
+  "5- Thor: Ragnarok":
+    "I choose to run 🏃‍ towards my problems, and not away from them. Because that's what heroes do. - Thor, ~ Meaning: Always look for challenges in life.",
+
+  "6- Captain America: The First Avenger":
+    "All we can do is our best 💪, and sometimes the best that we can do is to start over. - Peggy Carter, ~ Meaning: Sometimes starting something from scratch can be the best thing to do.",
+
+  "7- Doctor Strange":
+    "Faith is my sword ⚔. Truth is my shield 🛡. Knowledge my armor. - Doctor Strange, ~ Meaning: Wisdom, faith and truth are the three powerful virtues in our life .",
+  
+  "8- Avengers: Age of Ultron":
+    "You never know. You hope for the best and make do with what you get. - Nick Fury, ~ Meaning: Hope for the best but be happy with any result.",
+
+  "9- Spiderman: Far From Home":
+    "Uneasy lies the head that wears the crown 👑. - Nick Fury, ~ Meaning: Being a King is a very difficult task.",
+  
+  "10- Thor: Ragnarok":
+    "Even when you had two eyes 👀,you'd see only half the picture 🖼. - Odin, ~ Meaning: Everyone needs to remember to keep an open mind.",
+
+  "11- Avengers: Endgame":
+    "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
+
+  "12- Spider-Man: Homecoming":
+    "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough."
+     
+
+
+
+
+
+
+
+
+    
   };
 
 

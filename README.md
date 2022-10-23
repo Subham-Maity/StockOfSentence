@@ -1,4 +1,5 @@
 <div align="center"><h1> <p>1. What is <a href="https://github.com/Subham-Maity/StockOfSentence/">SOS</a> ? 🤔</p> </h1></div>
+<div align="center"><b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b></div>
 
 
 <p align="center" >
@@ -39,6 +40,9 @@ https://user-images.githubusercontent.com/97989643/195848594-73c8eca6-821c-4b9e-
         <img src="https://user-images.githubusercontent.com/97989643/195846129-7710e773-ed01-4c6e-9cbc-c4af061e80d2.gif" width="600" height="295" /> </p>
 
 **************
+
+
+
 <div align="center">
 <h1 align=center>Contributors✨</h1>
 
@@ -53,5 +57,10 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 		</td>
 	</tr>
 </table>
+<h3 align="center"> Stargazers over time </h3>
+
+[![Stargazers over time](https://starchart.cc/Subham-Maity/StockOfSentence.svg)](https://starchart.cc/Subham-Maity/StockOfSentence)
 </div>
+
+## Connect with me: [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codexam.personal@gmail.com)](mailto:codexam.personal@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subham-xam/)](https://www.linkedin.com/in/subham-xam/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/code_xam) 
 

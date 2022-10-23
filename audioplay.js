@@ -10,6 +10,11 @@ function playPause(song) {
     song.play(); // play the song
   } else {
     song.pause(); // else pause the song
+    let popUpMessage = $(".popup-message");
+    popUpMessage.css("opacity", 1);
+    setTimeout(() => {
+      popUpMessage.css("opacity", 0);
+    }, 3000);
   }
 }
 
