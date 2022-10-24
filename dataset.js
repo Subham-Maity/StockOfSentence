@@ -1129,8 +1129,43 @@ generate = () => {
     "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
 
   "12- Spider-Man: Homecoming":
-    "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough."
+    "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough.",
      
+  "1- Rocky Balboa":
+    "It Ain’t How Hard You Hit 👊…It’s How Hard You Can Get Hit 🥊 and Keep Moving Forward.🏃‍♂️ It's About How Much You Can Take And Keep Moving Forward!👏. -Rocky Balboa, ~ Meaning: The strongest people are those that get back up and keep fighting",
+
+  "2- The Karate Kid Part II":
+    "Never put passion 🤩 before principle 💪. Even if win, you lose.😔 - Mr. Miyagi, ~ Meaning: In order for your principles to matter and to guide your life, you must take them seriously",
+
+  "3- Three Kings":
+    "The way it works is, you do the thing you’re scared 😱 shitless of, and you get the courage AFTER you do it, not before you do it 🔂. - Archie Gates, ~ Meaning: Courage cannot exist without first being afraid",
+
+  "4- Pocahontas":
+    "Sometimes the right path 🛣 is not the easiest one 😫 - Grandmother Willow, ~ Meaning: Sometimes it's hard to make the right choice",
+
+  "5- Gladiator":
+    "Nothing happens to anyone 🙍‍♀️ that he is not fitted by nature 🌱 to bear. - Maximus, ~ Meaning: There is nothing that you can't handle if you put your mind to it",
+
+  "6- Incredibles 2":
+    "You want to get out of the hole? 🕳 First you’re going to have to put down the shovel 🧹. - Rick Dicker, ~ Meaning: You have to stop causing your own problems",
+
+  "7- Ratatouille":
+    "If you focus on what you left behind 😵‍💫, you will never be able to see what lies ahead..🌟 - Gusteau, ~ Meaning: Stop thinking about the past. Instead think about the future.",
+
+  "8- Ferris Bueller’s Day Off":
+    "Life moves pretty fast. 💨 If you don’t stop and look around 🌹 once in a while, you could miss it 🥺 - Ferris Bueller, ~ Meaning: Enjoy life because it moves quickly",
+    
+  "9- Dead Poets Society":
+    "Carpe diem. 🎆 Seize the day, boys. Make your lives extraordinary ❤️‍🔥 - John Keating, ~ Meaning: Make the most out of your life and live to the fullest.",
+
+  "10- Finding Nemo":
+    "Just keep swimming. 🏊‍♀️ Just keep swimming. 🐠 Just keep swimming, swimming, swimming. 🐟 What do we do? We swim, swim. 🌊 - Dory, ~ Meaning: When life gets hard, you have to keep moving foward",
+
+  "11- Black Panther":
+    "How many times do I have to teach you:👩‍🏫 just because something works doesn’t mean it can’t be improved. 🛠 - Shuri, ~ Meaning: There is always room for innovation.",
+
+  "12- First Man":
+    "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
 
 
 
