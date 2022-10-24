@@ -235,7 +235,7 @@ generate = () => {
 
     "5-Motivational":
       "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
-    
+        
     "6-Motivational":
       "And here you are living, despite it all.🍃 - Rupi Kaur ~ Meaning: Despite everything you’ve been through or are going through, you are still here… so what are you doing? Be the best vision of you. Invest in you.",
     
