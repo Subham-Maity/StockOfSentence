@@ -1079,7 +1079,68 @@ generate = () => {
   "12- Spider-Man: Homecoming":
     "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough."
      
-
+    
+    "# Random Movies : Random Inspirational Quotes":
+    
+    "1- The Great Gatsby" :
+    "Reserving judgments is a matter of infinite hope."
+    
+    "2- Shawshank Redemption" :
+    "Nothing stops. Nothing."
+    
+    "3- The Wolf of the Wal/ Street" :
+    "Winners use words that say 'must' and 'will'."
+    
+    "4- 300" :
+    "No Retreat, No Surrender."
+    
+    "5- Inception" :
+    "You mustn't be afraid to dream a little bigger."
+    
+    "6- Braveheart" :
+    "If it's worth it, fight for it."
+    
+    "7- Coach Carter" :
+    "The power to shine is in every one of us."
+    
+    "8- Runaway Bride" :
+    "'It's not gonna be easy, but it's gonna be worth it."
+    
+    "9- Peaceful Warrior" :
+    "Love what you do."
+    
+    "10- The Bucket List" :
+    "Find the joy and make it contagious."
+    
+    "11- The Notebook" :
+    "Awaken your soul and reach for more."
+    
+    "12- The Pursuit of Happyness" :
+    "'Don't let anybody tell you that you can't do something."
+    
+    "13- Into the Wild" :
+    "Find the beauty in all things."
+    
+    "14- Freedom Writers" :
+    "No Excuses!"
+    
+    "15- Good Will Hunting" :
+    "Love something more than yourself."
+  
+    "16- Hitch" :
+    "'Find the things that take your breath away."
+    
+    "17- Lord of the Rings" :
+    "Step up to the plate and write your story forward."
+    
+    "18- The Aviator" :
+    "Don't tell me I can't do it; don't tell me it can't be done!"
+    
+    "19- Marley and Me" :
+    "Do you make people feel rare, pure, and extraordinary?"
+    
+    "20-  Mulan" :
+    "Be YOUR best, despite the odds."
 
 
 
