@@ -948,25 +948,25 @@ generate = () => {
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
 
       "1-Princess Diaries":
-      "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.✊",
+      "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.✊ ~ Meaning : Courageous people put their priorities over fear",
       "2-Princess Diaries":
-      "The brave may not live forever, but the cautious do not live at all.⚔️",
+      "The brave may not live forever, but the cautious do not live at all.⚔️  ~ Meaning : IF you are over cautious, you miss out on life",
       "3-Princess Diaries":
-      "From now on you’ll be traveling the road between who you think you are and who you can be.✊",
+      "From now on you’ll be traveling the road between who you think you are and who you can be.✊  ~ Meaning : You can always be better",
       "4-Princess Diaries":
-      "As always, this is as good as it’s going to get.🤝🤝",
+      "As always, this is as good as it’s going to get.🤝🤝 ~ Meaning : Always be happy with what you have",
       "5-Princess Diaries":
-      "It’s not appropriate for royalty 👑 to jingle.",
+      "It’s not appropriate for royalty 👑 to jingle. ~ Meaning : You can't be too flashy",
       "6-Princess Diaries":
-      "C’mon, you can do it.🤝🤝 Keep your eye on the ball.",
+      "C’mon, you can do it.🤝🤝 Keep your eye on the ball. ~ Meaning : You can do anything if you put your mind to it",
       "7-Princess Diaries":
-      "You will find that the word fear is not in my vocabulary!✊ ",
+      "You will find that the word fear is not in my vocabulary!✊ ~ Meaning : You can be fearless",
       "8-Princess Diaries":
-      "We never rush; we hasten.💰",
+      "We never rush; we hasten.💰 ~ Meaning : You can be fast without being reckless",
       "9-Princess Diaries":
-      "Almost, but anyone can see your desires. No one knows what’s in your heart.🥰",
+      "Almost, but anyone can see your desires. No one knows what’s in your heart.🥰 ~ Meaning : You can be close, but not too close",
       "10-Princess Diaries":
-      "Nepotism belongs in the arts, not in plumbing.🤝🤝",
+      "Nepotism belongs in the arts, not in plumbing.🤝🤝 ~ Meaning : You can't be too close to your family",
 
     "1-Bridge of Spies":
     "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
