@@ -394,7 +394,10 @@ generate = () => {
 
     "20-inspirational ":
       "Your real strength comes from being the best 'you' you can be. - Po, Kung Fu Panda ~ Meaning: You can't change who you are and you can only achieve success when you try to be the best version of yourself",
-
+    
+    "21-inspirational ":
+      "No matter what anybody tells you, words and ideas can change the world. - Mr.Keating, Dead poets society ~ Meaning: Even our smallest of ideas can bring a change to the world.",
+   
     "109-Random ":
       "It's the job that's never started that takes the longest time to finish - Samwise Gamgee, Lord of the Rings ~ Meaning: The only way to get something done is to start doing it.",
 
