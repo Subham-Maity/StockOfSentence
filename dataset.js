@@ -1167,7 +1167,41 @@ generate = () => {
   "12- First Man":
     "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
 
+    "13- The Notebook":
+    "So it’s not gonna be easy. It’s gonna be really hard😫. We’re gonna have to work at this every day💪, but I want to do that because I want you. I want all of you, forever, you and me, every day.😌",
 
+  "14- ETERNAL SUNSHINE OF THE SPOTLESS MIND":
+    "I could die right now, Clem. I'm just... happy😌. I've never felt that before. I'm just exactly where I want to be.",
+
+  "15- The Great Gatsby":
+    "I wish I had done everything on earth with you.🥺",
+
+  "16- The Princess Bride":
+    "Death cannot stop true love. All it can do is delay it for a while.",
+
+  "17- When Harry Met Sally":
+    "I came here tonight because when you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.🌟",
+
+  "18- Blue is the warmest colour":
+    "You were the only thing in my life that was real.❤️‍🔥",
+
+  "19- Goodwill Hunting":
+    "It doesn’t matter if the guy is perfect or the girl is perfect, as long as they are perfect for each other.👏",
+
+  "20- Titanic":
+    "Winning that ticket, Rose, was the best thing that ever happened to me… it brought me to you.",
+
+  "21 -Titanic":
+    "It’s been 84 years, and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in. Titanic was called the Ship of Dreams, and it was. It really was.",
+
+  "22- Titanic":
+    "I mean, I got everything I need right here with me. I got air in my lungs💨, a few blank sheets of paper. I mean, I love waking up in the morning not knowing what’s gonna happen or, who I’m gonna meet, where I’m gonna wind up. Just the other night I was sleeping under a bridge and now here I am on the grandest ship in the world having champagne with you fine people.",
+
+  "23- Titanic":
+    "It was the ship of dreams to everyone else🎆. To me, it was a slave ship, taking me back to America in chains😔. Outwardly, I was everything a well brought up girl should be. Inside, I was screaming.",
+
+  "24- Titanic":
+    "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count.",
 
 
 
