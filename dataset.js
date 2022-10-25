@@ -159,8 +159,7 @@ generate = () => {
       "If you want to improve, be content to be thought foolish and stupid. ― Epictetus ~ Meaning : To learn a new skill, you need to allow yourself to be a clumsy beginner",
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
-      "63-Random":
-      "",
+    "63-Random": "",
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -198,28 +197,28 @@ generate = () => {
       "We will fail when we fail to try - Rosa Parks ~ Hinglish Meaning :  Hum usi waqt haar jaate hain jb hum us cheej ko krna ki himmat hi nhi karte ✔️ ",
 
     "8-inspirational":
-       "Champions keep playing until they get it right - Billie Jean King ~ Hinglish Meaning : Vijeta hamesha apne upar kaam krta rehta hai jbtk ki vo jeet nhi jata 💪",  
+      "Champions keep playing until they get it right - Billie Jean King ~ Hinglish Meaning : Vijeta hamesha apne upar kaam krta rehta hai jbtk ki vo jeet nhi jata 💪",
 
     "9-inspirational":
-       "The journey of a thousand miles begins with one step - Lao Tzu ~ Hinglish Meaning : Ek bade safar ki shuruat ek ek kadam se hi hoti hai 💪",
-       
+      "The journey of a thousand miles begins with one step - Lao Tzu ~ Hinglish Meaning : Ek bade safar ki shuruat ek ek kadam se hi hoti hai 💪",
+
     "10-inspirational":
-      "Dream big and dare to fail - Norman Vaughan ~ Hinglish Meaning : Bada socho aur uska pane ka junoon rakho apne under ✔️", 
-      
+      "Dream big and dare to fail - Norman Vaughan ~ Hinglish Meaning : Bada socho aur uska pane ka junoon rakho apne under ✔️",
+
     "11-inspirational":
-      "The power of imagination makes us infinite - John Muir ~ Hinglish Meaning : Hum jitna bada soch sakte socho taki hum utni hi mehnat krkr usko pa le 🙌", 
-      
+      "The power of imagination makes us infinite - John Muir ~ Hinglish Meaning : Hum jitna bada soch sakte socho taki hum utni hi mehnat krkr usko pa le 🙌",
+
     "12-inspirational":
-      "Make each day your masterpiece - John Wooden ~ Hinglish Meaning : Apna har din ek safalta wala din bnao kyunki hmari puri zindagi dino ko milakar hi bnti hai to usko khrab mat kro ✔️", 
+      "Make each day your masterpiece - John Wooden ~ Hinglish Meaning : Apna har din ek safalta wala din bnao kyunki hmari puri zindagi dino ko milakar hi bnti hai to usko khrab mat kro ✔️",
 
     "13-inspirational":
-      "The best dreams happen when you’re awake - Cherie Gilderbloom ~ Hinglish Meaning : Sabse ache sapne tabhi aate hain jb hum jagge hue hote hain kyunki usi waqt hum aasl apni zindagi m hain 🙌", 
+      "The best dreams happen when you’re awake - Cherie Gilderbloom ~ Hinglish Meaning : Sabse ache sapne tabhi aate hain jb hum jagge hue hote hain kyunki usi waqt hum aasl apni zindagi m hain 🙌",
 
     "14-inspirational":
-      "Once you choose hope, anything’s possible - Christopher Reeve ~ Hinglish Meaning : Jb tum icha ko choose kr lete ho to tum kuch bhi paa sakte ho 😍", 
+      "Once you choose hope, anything’s possible - Christopher Reeve ~ Hinglish Meaning : Jb tum icha ko choose kr lete ho to tum kuch bhi paa sakte ho 😍",
 
     "15-inspirational":
-      "Every moment is a fresh beginning - T.S. Eliot ~ Hinglish Meaning : Tumhara har pal ek new opportunity lekr aata hain to usko waste mat kro pichla soch soch kr 🥇", 
+      "Every moment is a fresh beginning - T.S. Eliot ~ Hinglish Meaning : Tumhara har pal ek new opportunity lekr aata hain to usko waste mat kro pichla soch soch kr 🥇",
 
     "1-Motivational":
       "We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein ~ Meaning : Listen, learn and improve. That how you solve your problem and generate new ones.😸",
@@ -235,10 +234,10 @@ generate = () => {
 
     "5-Motivational":
       "It is better to fail in originality than to succeed in imitation. — Herman Melville  ~ Meaning : Stop overthinking and step out of your mind. Now is the right time to act and do!😸",
-    
+
     "6-Motivational":
       "And here you are living, despite it all.🍃 - Rupi Kaur ~ Meaning: Despite everything you’ve been through or are going through, you are still here… so what are you doing? Be the best vision of you. Invest in you.",
-    
+
     "7-Motivational":
       "How you love yourself is how you teach others to love you. 🎈 - Rupi Kaur ~ Meaning: We must love ourselves first and value ourselves. This will not only set a benchmark for us but also for others.",
 
@@ -567,7 +566,7 @@ generate = () => {
       "That’s one small step for man, one giant leap for mankind. - First Man, 2018 ~ Meaning: Progress is possible no matter how much small our step is.",
 
     "154- Insightful":
-      "Comedy Is Subjective, Murray, Isn't That What They Say? All Of You, The System That Knows So Much: You Decide What's Right Or Wrong The Same Way You Decide What's Funny Or Not. - Joker, 2019 ~ Meaning: Its the people who make up the rules in the society, what need to be done and what not!", 
+      "Comedy Is Subjective, Murray, Isn't That What They Say? All Of You, The System That Knows So Much: You Decide What's Right Or Wrong The Same Way You Decide What's Funny Or Not. - Joker, 2019 ~ Meaning: Its the people who make up the rules in the society, what need to be done and what not!",
 
     "29- Inspirational ":
       "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
@@ -633,15 +632,15 @@ generate = () => {
       "I know what I have to do now.🔥 I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?😊💫. - Cast Away, 2000 ~ Meaning: No matter how tough the situation is , we got to fight and struggle with the hope of that better days will come ahead. This gives us the strength to endure the suffering.",
     "60 - inspirational":
       "Don't let the past blackmail ❌ your present 🌟, to ruin a beautiful future 🔮 ~ Meaning: often our past experiences can affect our present activities, and what we do in our present can affect our future, so don't let one's Bad past Experiences have an impact on one's present! ",
-    "70 - inspirational" :
+    "70 - inspirational":
       "Luck is what happens when preparation meets opportunity. 💯 - Seneca ~ Meaning: People many a time mistake success with luck, its the constant hard work along with opportunities offered that makes one successful!",
-    "71 - inpirational" :
+    "71 - inpirational":
       "90% of life is confidence 🙌, and the thing about confidence is that no one knows if it’s real or not.🔥 - Euphoria, 2022 ~ Meaning: Things done with confidence can lead to success.",
-    "72 - inspirational" :
+    "72 - inspirational":
       "Sometimes the right path 🛣 is not 🚫 the easiest one. Do not give up! 🎯 ~ Meaning: We assume that the path that we choose has to be smooth and easy going but the right path comes with a lots of ups and downs and comes with a lot of experience",
-    "73 - inspirational" :
+    "73 - inspirational":
       "Some people can’t ✖ believe in themselves until someone else 👫 believes in them first.✨ – Sean Maguire, Good Will Hunting ~ Meaning: If you sometimes have trouble believing in yourself then read, absorb, enjoy.",
-    
+
     "1- Money Heist ":
       "If you really want something in life, you have to steal🥷 it from somebody else. 🔥 -  Berlin, ~ Meaning: You have to steal the opportunity from others to achieve something great",
     "2- Money Heist ":
@@ -785,10 +784,9 @@ generate = () => {
       "My mama 👩‍👦 always said, 'Life was like a box of chocolates.🍫 You never know what you're gonna get. ✨' -Forrest Gump, 1994",
     "135 - Random":
       "It’s normal to be screwed up, but it’s really screwed up to romanticize it.❌ — Dr. Gregory House, House 2004 ~ Meaning: If you have a sob story and you think it's okay to tell it in public to gain sympathy, stop it. Whatever you have gone through, there's a good chance that many others have too.",
-    "136 - Random" : 
+    "136 - Random":
       "The future🔮 is the home 🏠 of our deepest fears and our wildest hopes 🤞. – Grey’s Anatomy 2005 ~ Meaning: We ourselves imagine how our future look like with a hope of achieving it.",
-    "137 - Random":
-      "You do what feels good to you.🥰 - Euphoria, 2022",
+    "137 - Random": "You do what feels good to you.🥰 - Euphoria, 2022",
     "138 - Random":
       "One day its gonna look like it happend overnight! 🎈 - Steve Harvey ~ Meaning: It takes constant amount of hard work that leads to success. day by day, step by step one can lead its way to success!",
     "139 - Random":
@@ -979,48 +977,47 @@ generate = () => {
     "10-Game of Thrones":
       "That’s what I do. I drink🍷 and I know things🤓 - Tyrion Lannister ~ Meaning : You can be wise even if you can not be strong",
 
-      "1-Princess Diaries":
+    "1-Princess Diaries":
       "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.✊ ~ Meaning : Courageous people put their priorities over fear",
-      "2-Princess Diaries":
+    "2-Princess Diaries":
       "The brave may not live forever, but the cautious do not live at all.⚔️  ~ Meaning : IF you are over cautious, you miss out on life",
-      "3-Princess Diaries":
+    "3-Princess Diaries":
       "From now on you’ll be traveling the road between who you think you are and who you can be.✊  ~ Meaning : You can always be better",
-      "4-Princess Diaries":
+    "4-Princess Diaries":
       "As always, this is as good as it’s going to get.🤝🤝 ~ Meaning : Always be happy with what you have",
-      "5-Princess Diaries":
+    "5-Princess Diaries":
       "It’s not appropriate for royalty 👑 to jingle. ~ Meaning : You can't be too flashy",
-      "6-Princess Diaries":
+    "6-Princess Diaries":
       "C’mon, you can do it.🤝🤝 Keep your eye on the ball. ~ Meaning : You can do anything if you put your mind to it",
-      "7-Princess Diaries":
+    "7-Princess Diaries":
       "You will find that the word fear is not in my vocabulary!✊ ~ Meaning : You can be fearless",
-      "8-Princess Diaries":
+    "8-Princess Diaries":
       "We never rush; we hasten.💰 ~ Meaning : You can be fast without being reckless",
-      "9-Princess Diaries":
+    "9-Princess Diaries":
       "Almost, but anyone can see your desires. No one knows what’s in your heart.🥰 ~ Meaning : You can be close, but not too close",
-      "10-Princess Diaries":
+    "10-Princess Diaries":
       "Nepotism belongs in the arts, not in plumbing.🤝🤝 ~ Meaning : You can't be too close to your family",
 
     "1-Bridge of Spies":
-    "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
+      "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
 
     "2-Bridge of Spies":
-    "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
+      "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
 
     "1-After Earth":
-    "Fear is not real.😎 The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
-   
+      "Fear is not real.😎 The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
+
     "1-300":
-   "Spartans, eat well🍻, for tonight we dine in Hadesea. ⚔️ — King Leonidas, 300 meaning-King Leonidas knows this will be their last mean before the final battle. he says this to encourage his soldires to accept death proudly",
+      "Spartans, eat well🍻, for tonight we dine in Hadesea. ⚔️ — King Leonidas, 300 meaning-King Leonidas knows this will be their last mean before the final battle. he says this to encourage his soldires to accept death proudly",
 
-   "2-300":
-   "He who sweats💧 more in training bleeds less in war.🥷 — Spartan Creed ~ Meaning : The greater the preparation, the greater the ability to handle adversity",
+    "2-300":
+      "He who sweats💧 more in training bleeds less in war.🥷 — Spartan Creed ~ Meaning : The greater the preparation, the greater the ability to handle adversity",
 
-   "3-300":
-   "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
+    "3-300":
+      "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
 
-  "4-300":
-  "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
-
+    "4-300":
+      "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
 
     "1-Rush":
       "A wise man🤔 can learn more from his enemies than a fool from his friends😌. - Niki Lauda ~ Meaning: Every occasion os an opportunity if we view it positively.",
@@ -1039,7 +1036,6 @@ generate = () => {
 
     "6- Avengers: Endgame":
       "You could not✖️ live with your own failure. Where did that bring you? Back to me.😏 - Thanos, ~ Meaning: No person can live on with their failures, failures always lead to the same problem until it is fixed.",
-
 
     "7- Star Wars: The Last Jedi":
       "I'll always be with you. Just like your father👨‍👦. - Luke Skywalker, ~ Meaning: Destruction of evil can never done with a evil force of anger, the hate only shifts but never ends.",
@@ -1064,119 +1060,130 @@ generate = () => {
 
     "14- Stranger Things":
       "Nobody normal🙂 ever accomplished anything meaningful in this🌍. - Jonathan Byres, ~ Meaning: To accomplish something in this world wo should be above normal, extraordinary.",
-    
+
     "1- How I met your mother":
-    "The biggest mistake would be not to make that mistake, because then you’ll go your whole life not knowing if something was a mistake or not🤔. - Lily Aldrin, ~ Meaning: Life is about taking risks. You can’t always play it safe.",
-    
+      "The biggest mistake would be not to make that mistake, because then you’ll go your whole life not knowing if something was a mistake or not🤔. - Lily Aldrin, ~ Meaning: Life is about taking risks. You can’t always play it safe.",
+
     "2- How I met your mother":
-    "Because sometimes even if you know how something’s gonna end, that doesn’t mean you can’t enjoy the ride🎢. - Ted Mosby, ~ Meaning: Some things are temporary, but that doesn’t mean they are meaningless.",
-    
+      "Because sometimes even if you know how something’s gonna end, that doesn’t mean you can’t enjoy the ride🎢. - Ted Mosby, ~ Meaning: Some things are temporary, but that doesn’t mean they are meaningless.",
+
     "3- How I met your mother":
-    "You can’t cling to the past, because no matter how tightly you hold on, it’s already gone😔. - Ted Mosby, ~ Meaning: It's already happened and time will move on, even if you're still stuck in the past.",
-    
+      "You can’t cling to the past, because no matter how tightly you hold on, it’s already gone😔. - Ted Mosby, ~ Meaning: It's already happened and time will move on, even if you're still stuck in the past.",
+
     "4- How I met your mother":
-    "Oprah wasn't built🏗 in a day. - Lily Aldrin, ~ Meaning: You cannot expect to do important things in a short period of time.",
-    
+      "Oprah wasn't built🏗 in a day. - Lily Aldrin, ~ Meaning: You cannot expect to do important things in a short period of time.",
+
     "5- How I met your mother":
-    "Nothing good happens after 2 a.m. When 2 a.m. rolls around, just go home and go to sleep🛌. - Ted Mosby, ~ Meaning: Don't make any decisions after 2 A.M. because they are wrong decisions.",
-    
+      "Nothing good happens after 2 a.m. When 2 a.m. rolls around, just go home and go to sleep🛌. - Ted Mosby, ~ Meaning: Don't make any decisions after 2 A.M. because they are wrong decisions.",
+
     "6- Prison Break":
-    "We are captives⛓ of our own identities, living in prisons of our own creation. - Theodore Bagwell, ~ Meaning: We constrain ourselves through how we identify ourselves.",
-    
+      "We are captives⛓ of our own identities, living in prisons of our own creation. - Theodore Bagwell, ~ Meaning: We constrain ourselves through how we identify ourselves.",
+
     "7- The 100":
-    "Life Should Be About More Than Just Surviving. - Clarke Griffin, ~ Meaning: We have to make the most of the time we have in our lifetime",
-    
+      "Life Should Be About More Than Just Surviving. - Clarke Griffin, ~ Meaning: We have to make the most of the time we have in our lifetime",
+
     "8- The 100":
-    "Victory stands on the back of sacrifice. - Lexa, ~ Meaning: You have to make sacrifices to win",
-    
+      "Victory stands on the back of sacrifice. - Lexa, ~ Meaning: You have to make sacrifices to win",
+
     "9- The Vampire diaries":
-    "Smiling doesn't always mean you're happy. Sometimes it simply means that you are a strong person. - Elena Gilbert",
-    
+      "Smiling doesn't always mean you're happy. Sometimes it simply means that you are a strong person. - Elena Gilbert",
+
     "10- The Originals":
-    "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
+      "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
 
     "1- Avengers: Endgame":
-    "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
+      "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
 
-  "2- Avengers: Endgame":
-    "No amount of money 💰 has ever bought a second of time ⌛. - Tony Stark, ~ Meaning: Time is more precious than money.",
+    "2- Avengers: Endgame":
+      "No amount of money 💰 has ever bought a second of time ⌛. - Tony Stark, ~ Meaning: Time is more precious than money.",
 
-  "3- Avengers: Endgame":
-    "It's not about how much we lost. It's about how much we have left. - Tony Stark, ~ Meaning: We must not worry about what we have lost but we must work with whatever we have left.",
-  
-  "4- Thor: The Dark World":
-    "I would rather be a good man than a great king 👑. - Thor, ~ Meaning: Being a good man is better than being a great king.",
+    "3- Avengers: Endgame":
+      "It's not about how much we lost. It's about how much we have left. - Tony Stark, ~ Meaning: We must not worry about what we have lost but we must work with whatever we have left.",
 
-  "5- Thor: Ragnarok":
-    "I choose to run 🏃‍ towards my problems, and not away from them. Because that's what heroes do. - Thor, ~ Meaning: Always look for challenges in life.",
+    "4- Thor: The Dark World":
+      "I would rather be a good man than a great king 👑. - Thor, ~ Meaning: Being a good man is better than being a great king.",
 
-  "6- Captain America: The First Avenger":
-    "All we can do is our best 💪, and sometimes the best that we can do is to start over. - Peggy Carter, ~ Meaning: Sometimes starting something from scratch can be the best thing to do.",
+    "5- Thor: Ragnarok":
+      "I choose to run 🏃‍ towards my problems, and not away from them. Because that's what heroes do. - Thor, ~ Meaning: Always look for challenges in life.",
 
-  "7- Doctor Strange":
-    "Faith is my sword ⚔. Truth is my shield 🛡. Knowledge my armor. - Doctor Strange, ~ Meaning: Wisdom, faith and truth are the three powerful virtues in our life .",
-  
-  "8- Avengers: Age of Ultron":
-    "You never know. You hope for the best and make do with what you get. - Nick Fury, ~ Meaning: Hope for the best but be happy with any result.",
+    "6- Captain America: The First Avenger":
+      "All we can do is our best 💪, and sometimes the best that we can do is to start over. - Peggy Carter, ~ Meaning: Sometimes starting something from scratch can be the best thing to do.",
 
-  "9- Spiderman: Far From Home":
-    "Uneasy lies the head that wears the crown 👑. - Nick Fury, ~ Meaning: Being a King is a very difficult task.",
-  
-  "10- Thor: Ragnarok":
-    "Even when you had two eyes 👀,you'd see only half the picture 🖼. - Odin, ~ Meaning: Everyone needs to remember to keep an open mind.",
+    "7- Doctor Strange":
+      "Faith is my sword ⚔. Truth is my shield 🛡. Knowledge my armor. - Doctor Strange, ~ Meaning: Wisdom, faith and truth are the three powerful virtues in our life .",
 
-  "11- Avengers: Endgame":
-    "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
+    "8- Avengers: Age of Ultron":
+      "You never know. You hope for the best and make do with what you get. - Nick Fury, ~ Meaning: Hope for the best but be happy with any result.",
 
-  "12- Spider-Man: Homecoming":
-    "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough.",
-     
-  "1- Rocky Balboa":
-    "It Ain’t How Hard You Hit 👊…It’s How Hard You Can Get Hit 🥊 and Keep Moving Forward.🏃‍♂️ It's About How Much You Can Take And Keep Moving Forward!👏. -Rocky Balboa, ~ Meaning: The strongest people are those that get back up and keep fighting",
+    "9- Spiderman: Far From Home":
+      "Uneasy lies the head that wears the crown 👑. - Nick Fury, ~ Meaning: Being a King is a very difficult task.",
 
-  "2- The Karate Kid Part II":
-    "Never put passion 🤩 before principle 💪. Even if win, you lose.😔 - Mr. Miyagi, ~ Meaning: In order for your principles to matter and to guide your life, you must take them seriously",
+    "10- Thor: Ragnarok":
+      "Even when you had two eyes 👀,you'd see only half the picture 🖼. - Odin, ~ Meaning: Everyone needs to remember to keep an open mind.",
 
-  "3- Three Kings":
-    "The way it works is, you do the thing you’re scared 😱 shitless of, and you get the courage AFTER you do it, not before you do it 🔂. - Archie Gates, ~ Meaning: Courage cannot exist without first being afraid",
+    "11- Avengers: Endgame":
+      "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
 
-  "4- Pocahontas":
-    "Sometimes the right path 🛣 is not the easiest one 😫 - Grandmother Willow, ~ Meaning: Sometimes it's hard to make the right choice",
+    "12- Spider-Man: Homecoming":
+      "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough.",
 
-  "5- Gladiator":
-    "Nothing happens to anyone 🙍‍♀️ that he is not fitted by nature 🌱 to bear. - Maximus, ~ Meaning: There is nothing that you can't handle if you put your mind to it",
+    "1- Rocky Balboa":
+      "It Ain’t How Hard You Hit 👊…It’s How Hard You Can Get Hit 🥊 and Keep Moving Forward.🏃‍♂️ It's About How Much You Can Take And Keep Moving Forward!👏. -Rocky Balboa, ~ Meaning: The strongest people are those that get back up and keep fighting",
 
-  "6- Incredibles 2":
-    "You want to get out of the hole? 🕳 First you’re going to have to put down the shovel 🧹. - Rick Dicker, ~ Meaning: You have to stop causing your own problems",
+    "2- The Karate Kid Part II":
+      "Never put passion 🤩 before principle 💪. Even if win, you lose.😔 - Mr. Miyagi, ~ Meaning: In order for your principles to matter and to guide your life, you must take them seriously",
 
-  "7- Ratatouille":
-    "If you focus on what you left behind 😵‍💫, you will never be able to see what lies ahead..🌟 - Gusteau, ~ Meaning: Stop thinking about the past. Instead think about the future.",
+    "3- Three Kings":
+      "The way it works is, you do the thing you’re scared 😱 shitless of, and you get the courage AFTER you do it, not before you do it 🔂. - Archie Gates, ~ Meaning: Courage cannot exist without first being afraid",
 
-  "8- Ferris Bueller’s Day Off":
-    "Life moves pretty fast. 💨 If you don’t stop and look around 🌹 once in a while, you could miss it 🥺 - Ferris Bueller, ~ Meaning: Enjoy life because it moves quickly",
-    
-  "9- Dead Poets Society":
-    "Carpe diem. 🎆 Seize the day, boys. Make your lives extraordinary ❤️‍🔥 - John Keating, ~ Meaning: Make the most out of your life and live to the fullest.",
+    "4- Pocahontas":
+      "Sometimes the right path 🛣 is not the easiest one 😫 - Grandmother Willow, ~ Meaning: Sometimes it's hard to make the right choice",
 
-  "10- Finding Nemo":
-    "Just keep swimming. 🏊‍♀️ Just keep swimming. 🐠 Just keep swimming, swimming, swimming. 🐟 What do we do? We swim, swim. 🌊 - Dory, ~ Meaning: When life gets hard, you have to keep moving foward",
+    "5- Gladiator":
+      "Nothing happens to anyone 🙍‍♀️ that he is not fitted by nature 🌱 to bear. - Maximus, ~ Meaning: There is nothing that you can't handle if you put your mind to it",
 
-  "11- Black Panther":
-    "How many times do I have to teach you:👩‍🏫 just because something works doesn’t mean it can’t be improved. 🛠 - Shuri, ~ Meaning: There is always room for innovation.",
+    "6- Incredibles 2":
+      "You want to get out of the hole? 🕳 First you’re going to have to put down the shovel 🧹. - Rick Dicker, ~ Meaning: You have to stop causing your own problems",
 
-  "12- First Man":
-    "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
+    "7- Ratatouille":
+      "If you focus on what you left behind 😵‍💫, you will never be able to see what lies ahead..🌟 - Gusteau, ~ Meaning: Stop thinking about the past. Instead think about the future.",
 
+    "8- Ferris Bueller’s Day Off":
+      "Life moves pretty fast. 💨 If you don’t stop and look around 🌹 once in a while, you could miss it 🥺 - Ferris Bueller, ~ Meaning: Enjoy life because it moves quickly",
 
+    "9- Dead Poets Society":
+      "Carpe diem. 🎆 Seize the day, boys. Make your lives extraordinary ❤️‍🔥 - John Keating, ~ Meaning: Make the most out of your life and live to the fullest.",
 
+    "10- Finding Nemo":
+      "Just keep swimming. 🏊‍♀️ Just keep swimming. 🐠 Just keep swimming, swimming, swimming. 🐟 What do we do? We swim, swim. 🌊 - Dory, ~ Meaning: When life gets hard, you have to keep moving foward",
 
+    "11- Black Panther":
+      "How many times do I have to teach you:👩‍🏫 just because something works doesn’t mean it can’t be improved. 🛠 - Shuri, ~ Meaning: There is always room for innovation.",
 
+    "12- First Man":
+      "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
 
-
-
-    
+    "1- Cast away":
+      "Aha. Look what I’ve created. I have made FIRE🔥🤘. ~ Meaning: In order to survive 💪 people always need to experimenting the things",
+    "2- Star wars":
+      "May the Force be with you. ~ Meaning: To wish 👍 individual 🚶 or group 👨‍👨‍👦‍👦 good luck 👍 or good will",
+    "3- Forrest gump":
+      "My mama 🙋always said life was like a box of chocolates 🍫🍫. You never know what you're gonna get. ~ Meaning: Life is full of surprizes 🌈   so one must need to always admire it",
+    "4- The Termintor":
+      "I'll be back 💪. ~ Meaning: One must have goals 📆 to accomplish and bounce back after every obstacle",
+    "5- Finding nemo":
+      "Just keep swimming 🏊. ~ Meaning: Just dont give up, keep trying",
+    "6- The help":
+      "You is kind 😄. You is smart 😎. You is important. ~ Meaning: One must appreciate himself🚶/herself🙋 instead of what other thinks.",
+    "7- Toy story":
+      "To infinity and beyond!. ~ Meaning: Limitless possibilities so one must be trying and looking out what him🚶/her🙋 likes to do",
+    "8- Moonstruck":
+      "Snap out of it! ~ Meaning: Stop thinking about negative 😟 things or something unpleasant 😞",
+    "9- Babe":
+      "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
+    "10- Dr. No":
+      "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attarctive character for secret agents",
   };
-
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
