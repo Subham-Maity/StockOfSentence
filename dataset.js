@@ -1163,17 +1163,26 @@ generate = () => {
     "12- First Man":
       "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
 
-    "1- Cast away": "Aha. Look what I’ve created. I have made FIRE.",
-    "2- Star wars": "May the Force be with you.",
+    "1- Cast away":
+      "Aha. Look what I’ve created. I have made FIRE🔥🤘. ~ Meaning: In order to survive 💪 people always need to experimenting the things",
+    "2- Star wars":
+      "May the Force be with you. ~ Meaning: To wish 👍 individual 🚶 or group 👨‍👨‍👦‍👦 good luck 👍 or good will",
     "3- Forrest gump":
-      "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
-    "4- The termintor": "I'll be back.",
-    "5- Finding nemo": "Just keep swimming.",
-    "6- The help": "You is kind. You is smart. You is important.",
-    "7- Toy story": "To infinity and beyond!",
-    "8- Moonstruck": "Snap out of it!",
-    "9- Babe": "That'll do, pig. That'll do.",
-    "10- Dr. No": "Bond. James Bond.",
+      "My mama 🙋always said life was like a box of chocolates 🍫🍫. You never know what you're gonna get. ~ Meaning: Life is full of surprizes 🌈   so one must need to always admire it",
+    "4- The Termintor":
+      "I'll be back 💪. ~ Meaning: One must have goals 📆 to accomplish and bounce back after every obstacle",
+    "5- Finding nemo":
+      "Just keep swimming 🏊. ~ Meaning: Just dont give up, keep trying",
+    "6- The help":
+      "You is kind 😄. You is smart 😎. You is important. ~ Meaning: One must appreciate himself🚶/herself🙋 instead of what other thinks.",
+    "7- Toy story":
+      "To infinity and beyond!. ~ Meaning: Limitless possibilities so one must be trying and looking out what him🚶/her🙋 likes to do",
+    "8- Moonstruck":
+      "Snap out of it! ~ Meaning: Stop thinking about negative 😟 things or something unpleasant 😞",
+    "9- Babe":
+      "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
+    "10- Dr. No":
+      "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attarctive character for secret agents",
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
