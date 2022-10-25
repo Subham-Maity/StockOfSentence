@@ -999,25 +999,25 @@ generate = () => {
       "Nepotism belongs in the arts, not in plumbing.🤝🤝 ~ Meaning : You can't be too close to your family",
 
     "1-Bridge of Spies":
-      "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
+        "Well, the boss isn't always right. But, he's always the boss.😎-Rudolf Abel",
 
     "2-Bridge of Spies":
-      "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
+        "James Donovan : You're not worried?\nRudolf Abel: Would it help?😌",
 
     "1-After Earth":
       "Fear is not real.😎 The only place that fear can exist is in our thoughts of the future.It is a product of our imagination, causing us to fear things that do not at present and may not ever exist. That is near insanity. Do not misunderstand me danger is very real but fear is a choice.-Will Smith",
 
     "1-300":
-      "Spartans, eat well🍻, for tonight we dine in Hadesea. ⚔️ — King Leonidas, 300 meaning-King Leonidas knows this will be their last mean before the final battle. he says this to encourage his soldires to accept death proudly",
+         "Spartans, eat well🍻, for tonight we dine in Hadesea. ⚔️ — King Leonidas, 300 meaning-King Leonidas knows this will be their last mean before the final battle. he says this to encourage his soldires to accept death proudly",
 
-    "2-300":
-      "He who sweats💧 more in training bleeds less in war.🥷 — Spartan Creed ~ Meaning : The greater the preparation, the greater the ability to handle adversity",
+     "2-300":
+         "He who sweats💧 more in training bleeds less in war.🥷 — Spartan Creed ~ Meaning : The greater the preparation, the greater the ability to handle adversity",
 
-    "3-300":
-      "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
+     "3-300":
+         "You should reach the limits of virtue before you cross the border of death. - Aristodemus",
 
-    "4-300":
-      "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
+      "4-300":
+          "The Spartans👑 do not ask how many are the enemy but where are they🤺.– Plutarch ~ Meaning : One must be brave enough to face his fears",
 
     "1-Rush":
       "A wise man🤔 can learn more from his enemies than a fool from his friends😌. - Niki Lauda ~ Meaning: Every occasion os an opportunity if we view it positively.",
@@ -1089,13 +1089,13 @@ generate = () => {
       "Smiling doesn't always mean you're happy. Sometimes it simply means that you are a strong person. - Elena Gilbert",
 
     "10- The Originals":
-      "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
+        "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
 
     "1- Avengers: Endgame":
-      "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
+        "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
 
-    "2- Avengers: Endgame":
-      "No amount of money 💰 has ever bought a second of time ⌛. - Tony Stark, ~ Meaning: Time is more precious than money.",
+      "2- Avengers: Endgame":
+        "No amount of money 💰 has ever bought a second of time ⌛. - Tony Stark, ~ Meaning: Time is more precious than money.",
 
     "3- Avengers: Endgame":
       "It's not about how much we lost. It's about how much we have left. - Tony Stark, ~ Meaning: We must not worry about what we have lost but we must work with whatever we have left.",
@@ -1103,11 +1103,11 @@ generate = () => {
     "4- Thor: The Dark World":
       "I would rather be a good man than a great king 👑. - Thor, ~ Meaning: Being a good man is better than being a great king.",
 
-    "5- Thor: Ragnarok":
-      "I choose to run 🏃‍ towards my problems, and not away from them. Because that's what heroes do. - Thor, ~ Meaning: Always look for challenges in life.",
+      "5- Thor: Ragnarok":
+        "I choose to run 🏃‍ towards my problems, and not away from them. Because that's what heroes do. - Thor, ~ Meaning: Always look for challenges in life.",
 
-    "6- Captain America: The First Avenger":
-      "All we can do is our best 💪, and sometimes the best that we can do is to start over. - Peggy Carter, ~ Meaning: Sometimes starting something from scratch can be the best thing to do.",
+      "6- Captain America: The First Avenger":
+        "All we can do is our best 💪, and sometimes the best that we can do is to start over. - Peggy Carter, ~ Meaning: Sometimes starting something from scratch can be the best thing to do.",
 
     "7- Doctor Strange":
       "Faith is my sword ⚔. Truth is my shield 🛡. Knowledge my armor. - Doctor Strange, ~ Meaning: Wisdom, faith and truth are the three powerful virtues in our life .",
@@ -1121,8 +1121,8 @@ generate = () => {
     "10- Thor: Ragnarok":
       "Even when you had two eyes 👀,you'd see only half the picture 🖼. - Odin, ~ Meaning: Everyone needs to remember to keep an open mind.",
 
-    "11- Avengers: Endgame":
-      "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
+      "11- Avengers: Endgame":
+        "The measure of a person, of a hero 🦸‍ is how well they succeed at being who they are. - Frigga, ~ Meaning: Everyone needs to be successful in their personal milestones.",
 
     "12- Spider-Man: Homecoming":
       "No man can win every battle , but no man should fall without a struggle . - Peter Parker, ~ Meaning: Keep fighting even when things get tough.",
@@ -1130,23 +1130,23 @@ generate = () => {
     "1- Rocky Balboa":
       "It Ain’t How Hard You Hit 👊…It’s How Hard You Can Get Hit 🥊 and Keep Moving Forward.🏃‍♂️ It's About How Much You Can Take And Keep Moving Forward!👏. -Rocky Balboa, ~ Meaning: The strongest people are those that get back up and keep fighting",
 
-    "2- The Karate Kid Part II":
-      "Never put passion 🤩 before principle 💪. Even if win, you lose.😔 - Mr. Miyagi, ~ Meaning: In order for your principles to matter and to guide your life, you must take them seriously",
+      "2- The Karate Kid Part II":
+        "Never put passion 🤩 before principle 💪. Even if win, you lose.😔 - Mr. Miyagi, ~ Meaning: In order for your principles to matter and to guide your life, you must take them seriously",
 
-    "3- Three Kings":
-      "The way it works is, you do the thing you’re scared 😱 shitless of, and you get the courage AFTER you do it, not before you do it 🔂. - Archie Gates, ~ Meaning: Courage cannot exist without first being afraid",
+      "3- Three Kings":
+        "The way it works is, you do the thing you’re scared 😱 shitless of, and you get the courage AFTER you do it, not before you do it 🔂. - Archie Gates, ~ Meaning: Courage cannot exist without first being afraid",
 
-    "4- Pocahontas":
-      "Sometimes the right path 🛣 is not the easiest one 😫 - Grandmother Willow, ~ Meaning: Sometimes it's hard to make the right choice",
+      "4- Pocahontas":
+        "Sometimes the right path 🛣 is not the easiest one 😫 - Grandmother Willow, ~ Meaning: Sometimes it's hard to make the right choice",
 
-    "5- Gladiator":
-      "Nothing happens to anyone 🙍‍♀️ that he is not fitted by nature 🌱 to bear. - Maximus, ~ Meaning: There is nothing that you can't handle if you put your mind to it",
+      "5- Gladiator":
+        "Nothing happens to anyone 🙍‍♀️ that he is not fitted by nature 🌱 to bear. - Maximus, ~ Meaning: There is nothing that you can't handle if you put your mind to it",
 
-    "6- Incredibles 2":
-      "You want to get out of the hole? 🕳 First you’re going to have to put down the shovel 🧹. - Rick Dicker, ~ Meaning: You have to stop causing your own problems",
+      "6- Incredibles 2":
+        "You want to get out of the hole? 🕳 First you’re going to have to put down the shovel 🧹. - Rick Dicker, ~ Meaning: You have to stop causing your own problems",
 
-    "7- Ratatouille":
-      "If you focus on what you left behind 😵‍💫, you will never be able to see what lies ahead..🌟 - Gusteau, ~ Meaning: Stop thinking about the past. Instead think about the future.",
+      "7- Ratatouille":
+        "If you focus on what you left behind 😵‍💫, you will never be able to see what lies ahead..🌟 - Gusteau, ~ Meaning: Stop thinking about the past. Instead think about the future.",
 
     "8- Ferris Bueller’s Day Off":
       "Life moves pretty fast. 💨 If you don’t stop and look around 🌹 once in a while, you could miss it 🥺 - Ferris Bueller, ~ Meaning: Enjoy life because it moves quickly",
@@ -1154,35 +1154,38 @@ generate = () => {
     "9- Dead Poets Society":
       "Carpe diem. 🎆 Seize the day, boys. Make your lives extraordinary ❤️‍🔥 - John Keating, ~ Meaning: Make the most out of your life and live to the fullest.",
 
-    "10- Finding Nemo":
-      "Just keep swimming. 🏊‍♀️ Just keep swimming. 🐠 Just keep swimming, swimming, swimming. 🐟 What do we do? We swim, swim. 🌊 - Dory, ~ Meaning: When life gets hard, you have to keep moving foward",
+      "10- Finding Nemo":
+        "Just keep swimming. 🏊‍♀️ Just keep swimming. 🐠 Just keep swimming, swimming, swimming. 🐟 What do we do? We swim, swim. 🌊 - Dory, ~ Meaning: When life gets hard, you have to keep moving foward",
 
-    "11- Black Panther":
-      "How many times do I have to teach you:👩‍🏫 just because something works doesn’t mean it can’t be improved. 🛠 - Shuri, ~ Meaning: There is always room for innovation.",
+      "11- Black Panther":
+        "How many times do I have to teach you:👩‍🏫 just because something works doesn’t mean it can’t be improved. 🛠 - Shuri, ~ Meaning: There is always room for innovation.",
 
     "12- First Man":
       "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
-
-    "1- Cast away":
-      "Aha. Look what I’ve created. I have made FIRE🔥🤘. ~ Meaning: In order to survive 💪 people always need to experimenting the things",
-    "2- Star wars":
-      "May the Force be with you. ~ Meaning: To wish 👍 individual 🚶 or group 👨‍👨‍👦‍👦 good luck 👍 or good will",
-    "3- Forrest gump":
-      "My mama 🙋always said life was like a box of chocolates 🍫🍫. You never know what you're gonna get. ~ Meaning: Life is full of surprizes 🌈   so one must need to always admire it",
-    "4- The Termintor":
-      "I'll be back 💪. ~ Meaning: One must have goals 📆 to accomplish and bounce back after every obstacle",
-    "5- Finding nemo":
-      "Just keep swimming 🏊. ~ Meaning: Just dont give up, keep trying",
-    "6- The help":
-      "You is kind 😄. You is smart 😎. You is important. ~ Meaning: One must appreciate himself🚶/herself🙋 instead of what other thinks.",
-    "7- Toy story":
-      "To infinity and beyond!. ~ Meaning: Limitless possibilities so one must be trying and looking out what him🚶/her🙋 likes to do",
-    "8- Moonstruck":
-      "Snap out of it! ~ Meaning: Stop thinking about negative 😟 things or something unpleasant 😞",
-    "9- Babe":
-      "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
-    "10- Dr. No":
-      "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attarctive character for secret agents",
+    "1- The Dark Knight":
+      "You either die a hero 🦸‍♂️, or you live long enough to see yourself become the villain. - Harvey Dent, ~ Meaning: You can't be a hero forever. You have to make sacrifices to achieve your goals.",
+    "2- The Dark Knight Rises":
+      "I believe whatever doesn't kill 💥 you simply makes you...stranger. - The Joker, ~ Meaning: All the hardships that we face make us stronger 💪",
+    "3- The Dark Knight Rises":
+      "The Night 🌃 Is Darkest Right Before The Dawn 🪔. And I Promise You, The Dawn Is Coming. - Harvey Dent ~ Meaning: The darkest times are right before the light 🪔.",
+    "4- The Dark Knight Rises":
+      "The Training 🗡️ Is Nothing. The Will Is Everything. The Will To Act. - Henri Ducard ~ Meaning: The will to act is more important 🎖️ than the training 🗡️.",
+    "5- The Dark Knight Rises":
+      "The World 🌎 Is Not What It Used To Be. - Alfred Pennyworth ~ Meaning: The world 🌎 is changing and we have to adapt to it.",
+    "6- The Dark Knight Rises":
+      "You Always Fear 😨 What You Don't Understand 🤔. - Carmine Falcone ~ Meaning: We fear where we feel amused 🤯.",
+    "Batman Begins-1":
+      "Why do we fall, sir? So that we can learn to pick ourselves up. - Alfred Pennyworth ~ Meaning: We fall so that we can learn 📗 from our mistakes.",
+    "Batman Begins-2":
+      "I'm not locked up in here with you, you're locked up in here with me. - The Joker ~ Meaning: We are all trapped in our own minds.",
+    "Batman Begins-3":
+      "It's not who I am underneath but what I do that defines me. - Batman ~ Meaning: It's not who you are but what you do that defines you 🫅.",
+    "Batman Begins-4":
+      "As A Man 👨, I'm Flesh And Blood 🩸; I Can Be Ignored, I Can Be Destroyed. But As A Symbol... As A Symbol 🦇, I Can Be Incorruptible. I Can Be Everlasting. - Batman ~ Meaning: When you change your Identity you change your life.",
+    "5- The Dark Knight Rises":
+      "A Hero 🦸 Can Be Anyone, Even Someone Doing Something As Simple And Reassuring As Putting A Coat Around A Little Boy's Shoulders To Let Him Him Know The World  🗺️ Hadn't Ended - Batman ~ Meaning: A hero can be anyone.",
+    "Batman Begins-6":
+      "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
