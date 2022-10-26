@@ -1183,7 +1183,11 @@ generate = () => {
       "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
     "10- Dr. No":
       "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attarctive character for secret agents",
-  };
+    "11-  Les Misérables":
+      "Nobody loves the light like the blind man😰. ~ Meaning: We always want what we cannot have. 😱",
+    "12- 8 ½":
+      "My dears, happiness 😊 consists of being able to tell the truth without hurting anyone. ~ Meaning: 😄 Honesty given in a kind, caring way, is the best. 😃",
+      };
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
