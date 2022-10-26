@@ -1207,6 +1207,38 @@ generate = () => {
       "A Hero 🦸 Can Be Anyone, Even Someone Doing Something As Simple And Reassuring As Putting A Coat Around A Little Boy's Shoulders To Let Him Him Know The World  🗺️ Hadn't Ended - Batman ~ Meaning: A hero can be anyone.",
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
+    "13- The Notebook":
+      "So it’s not gonna be easy. It’s gonna be really hard😫. We’re gonna have to work at this every day💪, but I want to do that because I want you. Meaning: Love is worth the hardships.",
+
+    "14- ETERNAL SUNSHINE OF THE SPOTLESS MIND":
+      "I could die right now, Clem. I'm just... happy😌. I've never felt that before. I'm just exactly where I want to be. ~Meaning: True love can be more valuable than life itself.",
+
+    "15- The Great Gatsby":
+      "I wish I had done everything on earth with you.🥺 ~Meaning: The value of time is only understandable when there is none left.",
+
+    "16- The Princess Bride":
+      "Death cannot stop true love❤️‍🔥. All it can do is delay it for a while. ~Meaning: Even death cannot forestall a true love.",
+
+    "17- When Harry Met Sally":
+      "I came here tonight 🏃because when you realize you want to spend the rest of your life with somebody❤️, you want the rest of your life to start as soon as possible.🌟 ~Meaning: Love motivates you to look forward to life.",
+
+    "18- Blue is the warmest colour":
+      "You were the only thing in my life that was real.❤️‍🔥 ~Meaning: Sometimes, love can be the only thing we can find solace in.",
+
+    "19- Goodwill Hunting":
+      "It doesn’t matter if the guy is perfect or the girl is perfect💫, as long as they are perfect for each other.👏 ~Meaning: You can be different alone, but perfect as a couple.",
+
+    "20- Titanic":
+      "Winning that ticket💌, Rose, was the best thing that ever happened to me… it brought me to you. ~Meaning: The value of the ship ticket is in the fact that it allowed them to meet.",
+
+    "21- Titanic":
+      "I mean, I got everything I need right here with me. I got air in my lungs💨. Just the other night I was sleeping under a bridge and now here I am on the grandest ship in the world having champagne🥂 with you fine people. Meaning: Live life in the moment.",
+
+    "22- Titanic":
+      "It was the ship of dreams to everyone else🎆. To me, it was a slave ship, taking me back to America in chains😔. Outwardly, I was everything a well brought up girl should be. Inside, I was screaming. ~Meaning: The value of the same thing can be different others.",
+
+    "23- Titanic":
+      "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
     };
 
   // grab all the keys in the dictionary (authors) and store in an array
