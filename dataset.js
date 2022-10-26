@@ -1182,8 +1182,28 @@ generate = () => {
     "9- Babe":
       "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
     "10- Dr. No":
-      "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attarctive character for secret agents",
-      "1- The Dark Knight":
+       "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attractive character for secret agents",
+    "1-  Les Misérables":
+      "Nobody loves the light 💡 like the blind man😰. ~ Meaning: We always want what we cannot have. 😱",
+    "2- The Bicycle Thieves":
+      "There’s a cure for everything except death 💀. ~ Meaning: Do not worry about today. 😟 Instead, enjoy today. 🍿",
+     "3- 8 ½":
+      "My dears, happiness 😊 consists of being able to tell the truth without hurting anyone. ~ Meaning: 😄 Honesty given in a kind, caring way, is the best. ❤️",
+     "4- Pain and Glory":
+      "Writing is like drawing ✏️, with letters 🔤.  ~ Meaning: You can be as creative with words as you are with a drawing. 🖍️",
+     "5- Never Talk to Strangers":
+      "If you never talk to strangers, you'll never meet anyone new 🧑‍🤝‍🧑. ~ Meaning: Take a chance and speak to people and learn things from them 🗣️.",
+     "6- Top Gun":
+      "I feel the need — the need for speed 💨 🚄!. ~ Meaning: It is okay to feel excitement 🤩 and anticipation for something.",
+     "7- The Adventures of Sherlock Holmes":
+      "Elementary, my dear Watson 😄 . ~ Meaning: It is a simple thing, not complicated, and I will explain it. ❤🔢",
+     "8- My Big Fat Greek Wedding":
+      "Here ... We Have Apple 🍎And Orange 🍊 . We All Different, But ... We All Fruit 🥝. ~ Meaning: Even though we look different on the outside, we all are the same on the inside 😊 .",
+     "9- Barbarella":
+      "My name isn't pretty-pretty 👗, it's Barbarella. ~ Meaning: I want to be treated with respect 🧑🏽‍⚖️🫡.",
+     "10- Mohabbatein":
+      "Life is about giving and receiving love ... and nothing else 💌. ~ Meaning: Loving others 💑 is all that we need to do in life 🫶🏽.",
+    "1- The Dark Knight":
       "You either die a hero 🦸‍♂️, or you live long enough to see yourself become the villain. - Harvey Dent, ~ Meaning: You can't be a hero forever. You have to make sacrifices to achieve your goals.",
     "2- The Dark Knight Rises":
       "I believe whatever doesn't kill 💥 you simply makes you...stranger. - The Joker, ~ Meaning: All the hardships that we face make us stronger 💪",
@@ -1240,6 +1260,7 @@ generate = () => {
     "23- Titanic":
       "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
     };
+
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
