@@ -14,152 +14,233 @@ generate = () => {
 
     "1-Random":
       "In the aftermath of my tooth extraction, I have returned home  ~ Hinglish meaning of this line  : mere daant nikaalane ke baad, main ghar laut aaya hoon ",
+
     "Flexibility of the word FUCK":
       "Sexual: Let's fuck.  Mischief: Let's fuck with them.  Aggression: Let's fuck them up.  Anger: Fuck you.    Regret: Fuck me!     Resignation: Oh, fuck it     Surprise: Holy fuck!    Puzzlement: What the fuck?     Greeting: How the fuck are you?      Fraud: I got fucked over.          Identification: Who the fuck are you?     Philosophical: Who gives a fuck?     Compliment: She's so fucking beautiful.    Confusion: Where the fuck are we?     Wonder: What the fuck is that?     Amazement: How the fuck did he do that?           Threat: Don't fuck with me!             Realization: I fucking knew it!",
+
     "1-Ig: The Knowledge Spreader":
       "Keep it down  ~ Hinglish meaning of this line  : Thoda kam shor Machao😔 ",
+
     "2-Ig: The Knowledge Spreader":
       "Latch/bolt the door  ~ Hinglish meaning of this line  : Kundi laga do 😊",
+
     "3-Ig: The Knowledge Spreader":
       "Make your bed  ~ Hinglish meaning of this line  : Bistar sahi karo😊 ",
+
     "4-Ig: The Knowledge Spreader":
       "This is no brainer  ~ Hinglish meaning of this line  : Isme Zyada Dimag Lagane ki Zaroorat Nahi hai😲 ",
+
     "5-Ig: The Knowledge Spreader":
       "I've had anough of you  ~ Hinglish meaning of this line  : Mai tumhe bohot jhel chuki hun 😲 ",
+
     "6-Ig: The Knowledge Spreader": "Asthma  ~ Pronounce  : Az-Ma 😲 ",
+
     "7-Ig: The Knowledge Spreader": "Breakfast  ~ Pronounce  : Break-fst😲 ",
+
     "8-Ig: The Knowledge Spreader": "Dessert  ~ Pronounce  : Di-Zuhrt 😲",
+
     "9-Ig: The Knowledge Spreader": "Jewellery  ~ Pronounce  : Jool-Ri 😲",
+
     "10-Ig: The Knowledge Spreader": "Tomorrow  ~ Pronounce  : To-Maw-ro 😲 ",
+
     "2-Random ": "Cynophile ~ A person who loves dogs , Dog lover 🐕",
+
     "3-Random ": "Musicophile ~ One who loves music 🎸",
+
     "4-Random ": "Autophile ~ A person who loves being alone. 😔",
+
     "5-Random ": "Dendrophile ~ A person who loves trees 🌴",
+
     "6-Random ": "Hodophile ~ One who loves to travel ✈️",
+
     "7-Random ": "Thalassophile ~ Someone who loves the sea 🌊",
+
     "8-Random ": "Selenophile ~ a person who loves the moon 🌚",
+
     "9-Random ": "Astrophile ~ One who loves stars or astronomy 🚀",
+
     "1-Ocean English Academy":
       "Thank you for showering me with a lot of love ~ Hinglish meaning of this line  : Mere upar itna sara payar barsane k liye bohot sukriya app sabhika😘💕",
+
     "2-Ocean English Academy":
       "This is what I did ~ Hinglish meaning of this line  : Jo maine kiya tha 🙂",
+
     "3-Ocean English Academy":
       "I just need to make sure ~ Hinglish meaning of this line  : mujhe bas yah sunishchit karane kee zaroorat hai 🙄",
+
     "4-Ocean English Academy":
       "I do mean it,In real life ~ Hinglish meaning of this line  : mera matalab hai, vaastavik jeevan mein 😒",
+
     "5-Ocean English Academy":
       "I don't want to bombard with you lots of motivation ~ Hinglish meaning of this line  : main aapake saath dher saaree preranaon kee bauchhaar nahin karana chaahata 😁",
+
     "6-Ocean English Academy":
       "This is what I did ~ Hinglish meaning of this line  : Jo maine kiya tha 🙂",
+
     "7-Ocean English Academy":
       "May/Could I speak to Subham ? / If you confirm - Is this subham I'm talking to? ~ Hinglish meaning of this line  : Keya mai subham se baad kar sakhta hun ? 🤙",
+
     "8-Ocean English Academy":
       "Yes this is he.Please tell me how could I be of help ?~ Hinglish meaning of this line  : haan yah vahee hai.krpaya mujhe batao ki main kaise madad kar sakata hoon? 🤔",
+
     "9-Ocean English Academy":
       "The reason I am calling is to........ ~ Hinglish meaning of this line  : Maine jis liye call kiya wo hai 🙂",
+
     "10-Ocean English Academy":
       "Just a quick call to update you that today's meeting has been called off ~ Hinglish meaning of this line  : aapako apadet karane ke lie bas ek tvarit kol ki aaj kee baithak ko band kar diya gaya hai🙂",
+
     "10-Random ": "skeptical ~ an attitude of doubt 🤔",
+
     "11-Random ":
       "I just took a year off.The love of fitness never fades ~ mainne abhee ek saal kee chhuttee lee hai.fitness ka pyaar kabhee kam nahin hota 💪",
+
     "12-Random ": "I'll confront him  ~ main usaka saamana karoonga 💪 ",
+
     "13-Random ":
       "Love is unconditional when you can bolster that person through ETERNITY!💖",
+
     "14-Random ": "very weird  ~ Bizarre 🦉 ",
+
     "15-Random ": "Iron ~ Pronounce : Ion 😸",
+
     "16-Random ":
       "Touch wood ! ~ Hinglish meaning of this word : khi nazar n lge 🌚 ",
+
     "17-Random ":
       "Many-Many happy returns of the day ! ~ Hinglish meaning of this line  : Bhagwan kre yeh din bar bar aaye ! 🙂",
+
     "18-Random ":
       "I screwed up ~  Hinglish meaning of this line  : It's my mistake.🙄",
+
     "20-Random ":
       "Blow your own trumpet ~ to talk about oneself or one's achievements especially in a way that shows that one is proud or too proud He had a very successful year and has every right to blow his own trumpet. 😎",
+
     "21-Random ":
       "blow your own horn ~  to talk about oneself or one's achievements especially in a way that shows pride or too much pride We've had a very successful year, and I think we have a right to blow our own horn a little.😎",
+
     "22-Random ":
       "blow the whistle ~ you report them to the authorities about illegal or immoral things that they may have done 😡",
+
     "23-Random ":
       "When the pigs fly ~  used to say that one thinks that something will never happen.😮‍💨",
+
     "24-Random ":
       "The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela 💪",
+
     "25-Random ":
       "Aaj mere paas gaadi hai, bungla hai, paisa hai... tumhare paas kya hai? Mere paas, mere paas... Maa hai ~ English Meaning : A Mother is the most priced possession 💪",
+
     "26-Random ":
       "Don't put all your eggs in one basket ~ Meaning : In stock market, don't put all your money in one company's stocks as you may lose it, if that company gors bankrupt💪",
+
     "27-Random ":
       "The ball is in your court ~ Meaning : It's your decision now that matters 💪",
+
     "28-Random ":
       "I'll have what she's having ~ Meaning : You say it on a date if you couldn't select a dish. P.S : It impresses the girl too💪",
+
     "29-Random ":
       "Your future is created by what you do today, not tomorrow - APJ Abdul Kalam ~ Meaning : Never wait for things to happen, start today 💪",
+
     "30-Random ":
       "Through thick and thin ~ Meaning : Being loyal to someone no matter what the situation is💪",
+
     "31-Random ":
       "Kabhi Kabhi Kuch Jeetne Ke Liya Kuch Haar Na Padta Hai. Aur Haar Ke Jeetne Wale Ko Baazigar Kehte Hain ~ Meaning : Sometimes, you have to lose to actually win💪",
+
     "32-Random ":
       "Don't beat around the bush ~ Hinglish Meaning : Seedhe point pe aao na💪",
+
     "33-Random ":
       "Hum jahan khade ho jaate hain, line wahi se shuru hoti hain ~ Meaning : Wherever I stand, the line starts from there💪",
+
     "34-Random ":
       "Winners are not those who never fail but those who never quit - APJ Abdul Kalam ~ Meaning : Winner never quit and quitters never win💪",
+
     "35-Random ":
       "YOLO - You Only Live Once  ~ Hinglish Meaning : Apna har din aise jiyo jaise ki aakhri ho💪",
+
     "36-Random ":
       "Find people who will make you better - Michelle Obama ~ Meaning : Remove toxic people from your life💪",
+
     "37-Random ":
       "Success🥇 is not final, Failure😞 is not fatal, it is the courage to continue 🏃‍♂️ that counts - Winston S.Churchil ~ Meaning : Being consistent is most important no matter what you are doing",
+
     "38-Random ":
       "Tough time⌛ never last, tough people 💪do - Robert schuller",
+
     "39-Random ":
       "No one is perfect that's why pencils✏️ have erasers - Wolfgang Rieve ~ Meaning : Stop being perfectionist.",
+
     "40-Random ":
       "Accept your past⏲️ without regret😞, Handle your present with confidence😊, and face your future without fear😱 - APJ Abdul Kalam",
+
     "41-Random ":
       "Optimism is the faith that leads to achievement🥇. Nothing can be done without hope and confidence😊 - Helen Keller ~ Meaning : One should not loose hope, faith and confidence",
+
     "42-Random ":
       "There are no shortcut's to any place🌄 worth going - Beverly Sills ~ Meaning : If you will get something immediately you will not get real essence of getting that📔",
+
     "43-Random ":
       "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible - Francis of assisi",
+
     "44-Random ":
       "Any fool can know. The point is to understand📔 - Albert Einstein ~ Meaning ~ Knowing is not enough, understanding is important",
+
     "45-Random ":
       "You don't drown by falling in the water🌊; you drown by staying there - Edcole ~ Meaning : Leave that place where you not getting what you want",
+
     "46-Random ":
       "Many life's failures are people who did not resalise how close they were to success when they gave up😞 - Thomas A. Edison ~ Meaning : Never gave up success is just one step away",
+
     "47-Random ":
       "Never Let your memories be greater than your dreams 💭- Douglas Ivester",
+
     "48-Random ":
       "When every seems to be going against you, remember that the airplane✈️ takes off against the wind🌬️, not with it - Henery Ford ~ Meaning : Fight against your fear that's when you get to your destination",
+
     "49-Random ":
       "Don't find fault❌, find a remedy✔️; anybody can complain. - Henry Ford ~ Hinglish Meaning : Don't complain, find a solution",
+
     "50-Random ":
       "The journey of a thousand miles🛣️ begins with one1️⃣ step. - Lao Tzu ~ Meaning : Start with small steps, you will reach your destination",
+
     "51-Random ":
       "Criticism is easy; achievement🏆 is difficult. - Winston Churchill ~ Meaning : It's easy to criticize, but it's difficult to achieve",
+
     "52-Random ":
       "Whatever you are, be a good one💪. - Abraham Lincoln ~ Meaning : Be the best version of yourself",
+
     "53-Random ":
       "What a difference a day makes. - Ella Fitzgerald ~ Meaning : One day can change your life",
+
     "54-Random ":
       "The best way to predict the future🔮 is to create🛠️ it. - Abraham Lincoln ~ Meaning : Create your own future",
+
     "55-Random ":
       "The best revenge is massive success🙌. - Frank Sinatra ~ Meaning : Success is the best revenge",
+
     "56-Random ":
       "The only place where success comes before work👨‍💻 is in the dictionary📔. - Vidal Sassoon ~ Meaning : Success doesn't come easy",
+
     "57-Random ":
       "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson ~ Meaning : You are the creator of your own destiny",
+
     "58-Random ":
       "Life is what happens when you're busy⌚ making other plans. - John Lennon ~ Meaning : Life is unpredictable",
+
     "59-Random ":
       "Do not go where the path may lead❌, go instead where there is no path✔️ and leave a trail. - Ralph Waldo Emerson ~ Meaning : Don't follow the crowd, make your own path",
+
     "60-Random ":
       "The only way to do great work is to love😍 what you do👨‍💻. - Steve Jobs ~ Meaning : Do what you love",
+
     "61-Random":
       "If you want to improve, be content to be thought foolish and stupid. ― Epictetus ~ Meaning : To learn a new skill, you need to allow yourself to be a clumsy beginner",
+
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
-    "63-Random": "",
+
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -1182,26 +1263,26 @@ generate = () => {
     "9- Babe":
       "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
     "10- Dr. No":
-       "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attractive character for secret agents",
+      "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attractive character for secret agents",
     "1-  Les Misérables":
       "Nobody loves the light 💡 like the blind man😰. ~ Meaning: We always want what we cannot have. 😱",
     "2- The Bicycle Thieves":
       "There’s a cure for everything except death 💀. ~ Meaning: Do not worry about today. 😟 Instead, enjoy today. 🍿",
-     "3- 8 ½":
+    "3- 8 ½":
       "My dears, happiness 😊 consists of being able to tell the truth without hurting anyone. ~ Meaning: 😄 Honesty given in a kind, caring way, is the best. ❤️",
-     "4- Pain and Glory":
+    "4- Pain and Glory":
       "Writing is like drawing ✏️, with letters 🔤.  ~ Meaning: You can be as creative with words as you are with a drawing. 🖍️",
-     "5- Never Talk to Strangers":
+    "5- Never Talk to Strangers":
       "If you never talk to strangers, you'll never meet anyone new 🧑‍🤝‍🧑. ~ Meaning: Take a chance and speak to people and learn things from them 🗣️.",
-     "6- Top Gun":
+    "6- Top Gun":
       "I feel the need — the need for speed 💨 🚄!. ~ Meaning: It is okay to feel excitement 🤩 and anticipation for something.",
-     "7- The Adventures of Sherlock Holmes":
+    "7- The Adventures of Sherlock Holmes":
       "Elementary, my dear Watson 😄 . ~ Meaning: It is a simple thing, not complicated, and I will explain it. ❤🔢",
-     "8- My Big Fat Greek Wedding":
+    "8- My Big Fat Greek Wedding":
       "Here ... We Have Apple 🍎And Orange 🍊 . We All Different, But ... We All Fruit 🥝. ~ Meaning: Even though we look different on the outside, we all are the same on the inside 😊 .",
-     "9- Barbarella":
+    "9- Barbarella":
       "My name isn't pretty-pretty 👗, it's Barbarella. ~ Meaning: I want to be treated with respect 🧑🏽‍⚖️🫡.",
-     "10- Mohabbatein":
+    "10- Mohabbatein":
       "Life is about giving and receiving love ... and nothing else 💌. ~ Meaning: Loving others 💑 is all that we need to do in life 🫶🏽.",
     "1- The Dark Knight":
       "You either die a hero 🦸‍♂️, or you live long enough to see yourself become the villain. - Harvey Dent, ~ Meaning: You can't be a hero forever. You have to make sacrifices to achieve your goals.",
@@ -1228,56 +1309,50 @@ generate = () => {
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
 
-      "1- The Dark Knight":
+    "1- The Dark Knight":
       "Some Men Just Want To Watch The World Burn ~ Hinglish meaning of this line  : Kuch log ki kujli tabhi mit ti hain, jab wo duniya ko jalte hue dekhte hai🙂",
-      "2-Random ":
+    "2-Random ":
       "a barking dog never bites ~  a person who constantly threatens never acts🐕",
-      "3-It's a Wonderful Life":
+    "3-It's a Wonderful Life":
       "Every time a bell rings an angel gets his wings ~ Hinglish meaning of this line  : Jab jab ghantee bajtee hai, ek paree ko pankh praapt hota hai🧚",
-      "4-Random ":
-      "a little bird told me ~  someone told me a secret🤫",
-      "5-Joker":
+    "4-Random ": "a little bird told me ~  someone told me a secret🤫",
+    "5-Joker":
       "Have you ever danced with the devil in the pale moonlight ~ Hinglish meaning of this line  : Kya aapane kabhee shaitaan ke saath neelee chaandanee mein nritya kiya hai🤡",
-      "6-Random ":
-      "a matter of time ~  when something is inevitable⏳",
-      "7-The Usual Suspects":
+    "6-Random ": "a matter of time ~  when something is inevitable⏳",
+    "7-The Usual Suspects":
       "The greatest trick the devil ever pulled was convincing the world he didn’t exist ~ Hinglish meaning of this line  : Shaitaan ka kheencha hua sabase bada jaal hai duniya ko yakin dilana ki vah astitvaheen hai👺",
-      "8-Random ":
-      "add insult to injury ~ worsen an unfavorable situation",
-      "9-Random ":
-      "an arm and a leg ~  very expensive💰",
-      "10-Random ":
+    "8-Random ": "add insult to injury ~ worsen an unfavorable situation",
+    "9-Random ": "an arm and a leg ~  very expensive💰",
+    "10-Random ":
       "beauty is in the eye of the beholder ~  everyone has different preferences for what is attractive🥰",
 
-
-    
     "1- Punch Drunk Love":
       "I have a love💕 in my life, it makes me stronger than anything you can imagine. ~ Meaninig: Real Love strengthens you and make you stronger.",
-    
+
     "2- House of the Dragons":
       "The gods🐲 have yet to make a man who lacks the patience for absolute power🤴. - Otto hightower, ~ Meaning: Each and every man is greedy by nature.",
-    
+
     "3- House of the Dragons":
       "Our worth is not given. It must be taken. - Lord Corlys Velaryon, ~ Meaning: You have to earn what you think you deserve.",
-    
+
     "4- House of the Dragons":
       "What Is This ... Mortal Life, If Not The Pursuit Of Legacy. - Lord Corlys Velaryon, ~ Meaning: Life becomes worthless unless and until you leave a legacy behind when you die.",
-    
+
     "5- The Big Bang Theory":
       "People Say You Can't Live Without Love💕 ... I Think Oxygen Is More Important. - Sheldon Cooper, ~ Meaning: A diss on the famous quote, you cant live without oxygen.",
-    
+
     "6- The Notebook":
       "You can't live your life for other people. You-ve got to do what's right for you, even if it hurts someone you love💕. - Noah, ~ Meaning: You have to take care of yourself befire others.",
-    
+
     "7- Harry Potter and the Chamber of Secrets":
       "It is not our abilities that show what we truly are, it is our choices. - Dumblebore, ~ Meaning: the choices that you make shows who you really are.",
-    
+
     "8- The Karate Kid":
       "Life will knock us down, but we can choose whether or not to stand back up. - Mr Miyagi🥋, ~ Meaning: We have to bounce back after each problem that life throws at us.",
-    
+
     "9- Castaway":
       "I have to keep breathing, and tomorrow the sun🌞 will rise, and who knows what the tide will bring in. - Chuck Noland, ~ Meaning: Be optimistic Each new day is a new beginning.",
-    
+
     "10 - The Godfather":
       "Great men🤠 are not born great, they grow to become great. - Michael, ~ Meaning: Every great person starts small and becomes great through his hardwork.",
 
@@ -1312,10 +1387,8 @@ generate = () => {
       "It was the ship of dreams to everyone else🎆. To me, it was a slave ship, taking me back to America in chains😔. Outwardly, I was everything a well brought up girl should be. Inside, I was screaming. ~Meaning: The value of the same thing can be different others.",
 
     "23- Titanic":
-      "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest."
-
-
-    };
+      "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
+  };
 
 
   // grab all the keys in the dictionary (authors) and store in an array
