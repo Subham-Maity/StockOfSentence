@@ -1183,7 +1183,31 @@ generate = () => {
       "That'll do 🙋, pig 🐖. That'll do 🙋. ~ Meaning: Thank you doing something awesome",
     "10- Dr. No":
       "Bond 🕵. James Bond 🕵. ~ Meaning: A daring and attarctive character for secret agents",
-  };
+      "1- The Dark Knight":
+      "You either die a hero 🦸‍♂️, or you live long enough to see yourself become the villain. - Harvey Dent, ~ Meaning: You can't be a hero forever. You have to make sacrifices to achieve your goals.",
+    "2- The Dark Knight Rises":
+      "I believe whatever doesn't kill 💥 you simply makes you...stranger. - The Joker, ~ Meaning: All the hardships that we face make us stronger 💪",
+    "3- The Dark Knight Rises":
+      "The Night 🌃 Is Darkest Right Before The Dawn 🪔. And I Promise You, The Dawn Is Coming. - Harvey Dent ~ Meaning: The darkest times are right before the light 🪔.",
+    "4- The Dark Knight Rises":
+      "The Training 🗡️ Is Nothing. The Will Is Everything. The Will To Act. - Henri Ducard ~ Meaning: The will to act is more important 🎖️ than the training 🗡️.",
+    "5- The Dark Knight Rises":
+      "The World 🌎 Is Not What It Used To Be. - Alfred Pennyworth ~ Meaning: The world 🌎 is changing and we have to adapt to it.",
+    "6- The Dark Knight Rises":
+      "You Always Fear 😨 What You Don't Understand 🤔. - Carmine Falcone ~ Meaning: We fear where we feel amused 🤯.",
+    "Batman Begins-1":
+      "Why do we fall, sir? So that we can learn to pick ourselves up. - Alfred Pennyworth ~ Meaning: We fall so that we can learn 📗 from our mistakes.",
+    "Batman Begins-2":
+      "I'm not locked up in here with you, you're locked up in here with me. - The Joker ~ Meaning: We are all trapped in our own minds.",
+    "Batman Begins-3":
+      "It's not who I am underneath but what I do that defines me. - Batman ~ Meaning: It's not who you are but what you do that defines you 🫅.",
+    "Batman Begins-4":
+      "As A Man 👨, I'm Flesh And Blood 🩸; I Can Be Ignored, I Can Be Destroyed. But As A Symbol... As A Symbol 🦇, I Can Be Incorruptible. I Can Be Everlasting. - Batman ~ Meaning: When you change your Identity you change your life.",
+    "5- The Dark Knight Rises":
+      "A Hero 🦸 Can Be Anyone, Even Someone Doing Something As Simple And Reassuring As Putting A Coat Around A Little Boy's Shoulders To Let Him Him Know The World  🗺️ Hadn't Ended - Batman ~ Meaning: A hero can be anyone.",
+    "Batman Begins-6":
+      "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
+    };
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
