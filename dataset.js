@@ -1162,29 +1162,30 @@ generate = () => {
 
     "12- First Man":
       "When you get a different vantage point 🏔, it changes your perspective 😲 ... It allows us to see things that maybe we should have seen a long time ago. 🙌 - Neil Armstrong, ~ Meaning: It's amazing how different things can look when you really make an effort to understand the world from another person’s perspective",
-    "GOT-1":
-      "Never  forget what you are. The rest of the world 🗺  will not. Wear it like armor, and it can never be used to hurt you - Tyrion Lannister.",
-    "GOT-2":
-      "A mind needs books 📚 as a sword needs a whetstone, if it is to keep its edge. - Tyrion Lannister.",
-    "GOT-3":
-      "Any man who must say, 'I am the king,' is no true king. I'll make sure you understand that when I've won your war for you. - Tywin Lannister.",
-    "GOT-4": "There is only one thing we say to death: Not today - Arya Stark.",
-    "GOT-5": "Chaos isn't a pit. Chaos is a ladder. - Littlefinger.",
-    "GOT-6": "You know nothing, Jon Snow - Ygritte.",
-    "HOBBIT-1":
-      "It's the job that's never started as takes longest to finish - Bilbo Baggins.",
-    "HOBBIT-2":
-      "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to. - Bilbo Baggins.",
-    "HOBBIT-3":
-      "I wish it need not have happened in my time,said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us. - Gandalf.",
-    "HOBBIT-4":
-      "It's the job that's never started as takes longest to finish - Bilbo Baggins.",
-    "HOBBIT-5":
-      "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to. - Bilbo Baggins.",
-    "HOUSE OF DRAGON-1":
-      "The idea that we control the dragons 🐉 is an illusion. – Viserys",
-    "HOUSE OF DRAGON-2":
-      "Dreams didn'k make us Kings Dragons 🐉 did. – Daemon ",
+    "1- The Dark Knight":
+      "You either die a hero 🦸‍♂️, or you live long enough to see yourself become the villain. - Harvey Dent, ~ Meaning: You can't be a hero forever. You have to make sacrifices to achieve your goals.",
+    "2- The Dark Knight Rises":
+      "I believe whatever doesn't kill 💥 you simply makes you...stranger. - The Joker, ~ Meaning: All the hardships that we face make us stronger 💪",
+    "3- The Dark Knight Rises":
+      "The Night 🌃 Is Darkest Right Before The Dawn 🪔. And I Promise You, The Dawn Is Coming. - Harvey Dent ~ Meaning: The darkest times are right before the light 🪔.",
+    "4- The Dark Knight Rises":
+      "The Training 🗡️ Is Nothing. The Will Is Everything. The Will To Act. - Henri Ducard ~ Meaning: The will to act is more important 🎖️ than the training 🗡️.",
+    "5- The Dark Knight Rises":
+      "The World 🌎 Is Not What It Used To Be. - Alfred Pennyworth ~ Meaning: The world 🌎 is changing and we have to adapt to it.",
+    "6- The Dark Knight Rises":
+      "You Always Fear 😨 What You Don't Understand 🤔. - Carmine Falcone ~ Meaning: We fear where we feel amused 🤯.",
+    "Batman Begins-1":
+      "Why do we fall, sir? So that we can learn to pick ourselves up. - Alfred Pennyworth ~ Meaning: We fall so that we can learn 📗 from our mistakes.",
+    "Batman Begins-2":
+      "I'm not locked up in here with you, you're locked up in here with me. - The Joker ~ Meaning: We are all trapped in our own minds.",
+    "Batman Begins-3":
+      "It's not who I am underneath but what I do that defines me. - Batman ~ Meaning: It's not who you are but what you do that defines you 🫅.",
+    "Batman Begins-4":
+      "As A Man 👨, I'm Flesh And Blood 🩸; I Can Be Ignored, I Can Be Destroyed. But As A Symbol... As A Symbol 🦇, I Can Be Incorruptible. I Can Be Everlasting. - Batman ~ Meaning: When you change your Identity you change your life.",
+    "5- The Dark Knight Rises":
+      "A Hero 🦸 Can Be Anyone, Even Someone Doing Something As Simple And Reassuring As Putting A Coat Around A Little Boy's Shoulders To Let Him Him Know The World  🗺️ Hadn't Ended - Batman ~ Meaning: A hero can be anyone.",
+    "Batman Begins-6":
+      "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
