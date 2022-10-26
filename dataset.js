@@ -1207,6 +1207,26 @@ generate = () => {
       "A Hero 🦸 Can Be Anyone, Even Someone Doing Something As Simple And Reassuring As Putting A Coat Around A Little Boy's Shoulders To Let Him Him Know The World  🗺️ Hadn't Ended - Batman ~ Meaning: A hero can be anyone.",
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
+      "1- The Dark Knight":
+      "Some Men Just Want To Watch The World Burn ~ Hinglish meaning of this line  : Kuch log ki kujli tabhi mit ti hain, jab wo duniya ko jalte hue dekhte hai🙂",
+      "2-Random ":
+      "a barking dog never bites ~  a person who constantly threatens never acts🐕",
+      "3-It's a Wonderful Life":
+      "Every time a bell rings an angel gets his wings ~ Hinglish meaning of this line  : Jab jab ghantee bajtee hai, ek paree ko pankh praapt hota hai🧚",
+      "4-Random ":
+      "a little bird told me ~  someone told me a secret🤫",
+      "5-Joker":
+      "Have you ever danced with the devil in the pale moonlight ~ Hinglish meaning of this line  : Kya aapane kabhee shaitaan ke saath neelee chaandanee mein nritya kiya hai🤡",
+      "6-Random ":
+      "a matter of time ~  when something is inevitable⏳",
+      "7-The Usual Suspects":
+      "The greatest trick the devil ever pulled was convincing the world he didn’t exist ~ Hinglish meaning of this line  : Shaitaan ka kheencha hua sabase bada jaal hai duniya ko yakin dilana ki vah astitvaheen hai👺",
+      "8-Random ":
+      "add insult to injury ~ worsen an unfavorable situation",
+      "9-Random ":
+      "an arm and a leg ~  very expensive💰",
+      "10-Random ":
+      "beauty is in the eye of the beholder ~  everyone has different preferences for what is attractive🥰",
     };
 
   // grab all the keys in the dictionary (authors) and store in an array
