@@ -1227,6 +1227,38 @@ generate = () => {
       "A Hero 🦸 Can Be Anyone, Even Someone Doing Something As Simple And Reassuring As Putting A Coat Around A Little Boy's Shoulders To Let Him Him Know The World  🗺️ Hadn't Ended - Batman ~ Meaning: A hero can be anyone.",
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
+
+    
+    "1- Punch Drunk Love":
+      "I have a love💕 in my life, it makes me stronger than anything you can imagine. ~ Meaninig: Real Love strengthens you and make you stronger.",
+    
+    "2- House of the Dragons":
+      "The gods🐲 have yet to make a man who lacks the patience for absolute power🤴. - Otto hightower, ~ Meaning: Each and every man is greedy by nature.",
+    
+    "3- House of the Dragons":
+      "Our worth is not given. It must be taken. - Lord Corlys Velaryon, ~ Meaning: You have to earn what you think you deserve.",
+    
+    "4- House of the Dragons":
+      "What Is This ... Mortal Life, If Not The Pursuit Of Legacy. - Lord Corlys Velaryon, ~ Meaning: Life becomes worthless unless and until you leave a legacy behind when you die.",
+    
+    "5- The Big Bang Theory":
+      "People Say You Can't Live Without Love💕 ... I Think Oxygen Is More Important. - Sheldon Cooper, ~ Meaning: A diss on the famous quote, you cant live without oxygen.",
+    
+    "6- The Notebook":
+      "You can't live your life for other people. You-ve got to do what's right for you, even if it hurts someone you love💕. - Noah, ~ Meaning: You have to take care of yourself befire others.",
+    
+    "7- Harry Potter and the Chamber of Secrets":
+      "It is not our abilities that show what we truly are, it is our choices. - Dumblebore, ~ Meaning: the choices that you make shows who you really are.",
+    
+    "8- The Karate Kid":
+      "Life will knock us down, but we can choose whether or not to stand back up. - Mr Miyagi🥋, ~ Meaning: We have to bounce back after each problem that life throws at us.",
+    
+    "9- Castaway":
+      "I have to keep breathing, and tomorrow the sun🌞 will rise, and who knows what the tide will bring in. - Chuck Noland, ~ Meaning: Be optimistic Each new day is a new beginning.",
+    
+    "10 - The Godfather":
+      "Great men🤠 are not born great, they grow to become great. - Michael, ~ Meaning: Every great person starts small and becomes great through his hardwork.",
+
     "13- The Notebook":
       "So it’s not gonna be easy. It’s gonna be really hard😫. We’re gonna have to work at this every day💪, but I want to do that because I want you. Meaning: Love is worth the hardships.",
 
@@ -1258,7 +1290,8 @@ generate = () => {
       "It was the ship of dreams to everyone else🎆. To me, it was a slave ship, taking me back to America in chains😔. Outwardly, I was everything a well brought up girl should be. Inside, I was screaming. ~Meaning: The value of the same thing can be different others.",
 
     "23- Titanic":
-      "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
+      "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest."
+
     };
 
 
