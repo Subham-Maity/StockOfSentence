@@ -241,6 +241,7 @@ generate = () => {
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
 
+   
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -872,7 +873,43 @@ generate = () => {
       "One day its gonna look like it happend overnight! 🎈 - Steve Harvey ~ Meaning: It takes constant amount of hard work that leads to success. day by day, step by step one can lead its way to success!",
     "139 - Random":
       "It's a basic truth of the human condition that everybody lies. The only variable is about what. - Dr. House, 2004 ~ Meaning: Accept it, understand it, and use it to your advantage. When in a group, observe people. Observe what they say and how they react. People often end up lying while boasting about themselves.",
+      "140-Random":
+      "I'm gonna make him an offer🎁 he can't refuse😎. - The Godfather ~ Meaning :An amazing offer will be given to him.",
 
+     "141-Random":
+      "You don't understand! I coulda had class. I coulda been a contender. I could've been someday, instead of a bum☹️, which is what I am😿. - On the Waterfront ~ Meaning :Now he is disappointed bcz he is a bum but he could be a contender or somebody else or have a class .",
+
+     "142-Random":
+      "Toto, I've a feeling we're not in Kansas anymore.😃 - The Wizaard of Oz ~ Meaning : He is explaining his inner feeling that perhaps they are not in danger.",
+
+     "143-Random":
+      "Here's looking at you, kid👶 . - Casablanca ~ Meaning : explainig situation that someone is looking at that kid.",
+
+     "144-Random":
+      "One morning I shot an elephant🐘 in my pajamas👖. How he got in my pajamas, I don't know. - Animal Crackers ~ Meaning : He is making him fool .",
+
+     "145-Random":
+      "There's no crying in baseball!⚽. - A League of Their Own ~ Meaning :Playing Baseball remove all stress.",
+
+     "146-Random":
+      "A boy's best friend is his mother👩‍🦰. - Psycho ~ Meaning :True fact.",
+
+     "147-Random":
+      "Greed, for lack of a better word, is good👱. - Wall street ~ Meaning :Being greedy ia a good thing.",
+
+    
+     "148-Random":
+      "As God is my witness🧕, I'll never be hungry again. -Gone with the Wind ~ Meaning : He is assuring that he will not be in that bad condition again.",
+
+     "149-Random":
+      "What we've got here is failure to communicate😥. - Cool Hand Luke ~ Meaning :Deal with Failure , communicate and analyse the reason behind failure",
+    
+     "150-Random":
+      "The stuff that dreams are made of😯. - The Maltese Falcon ~ Meaning :Story of Dream",
+    
+     "151-Random":
+      "I love the smell of napalm in the morning😃. - Apocalypse Now~ Meaning :smell of napalm is good ",
+    
     "1- Cinema Paradiso":
       "Life isn't like in the movies🎬. Life... is much harder.",
 
@@ -1309,6 +1346,28 @@ generate = () => {
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
 
+    "Maverick":
+      "I feel the need..the need for speed.  Meaning: You have to master your own fears  😨 before you can master others.",
+    "The Avengers":
+      "I'm a creature of grief and dust and bitter longings. - Loki ~ Hinglish meaning of this line  : Main gham, dhool and kadwe 😣 laalson ka insaan hoon.",
+    "Romeo and Juliet":
+      "Love is heavy and light, bright and dark, hot and cold, sick and healthy, asleep and awake- it's everything except what it is!. - Romeo ~ Hinglish meaning of this line  : Pyaar, 🤩 bhaari aur hulka, roshan aur andhera, garam and thanda, bimar aur tandurust, soya aur jaga hota hai _ sab kuch hokar bhi kuch nahin hota hai!",
+    "Frozen":
+      "Some people are worth melting for - Olaf ~ Hinglish meaning of this line  : Kuch logon ke liye 😊 pighalna toh banta hai",
+    "Incredibles":
+      "I never look back, darling. It distracts from the now. - Edna ~ Hinglish meaning of this line  : Main kabhi peeche  😎 nahin dekhti, who mujhe vartaman se vichlit karta hai, priya",
+    "50 Shades of Grey":
+      "We aim to please - Christian Grey ~ Hinglish meaning of this line  : Aapko tript/santusht 🤗 rakhna humara udeshya hai",
+    "Twilight":
+      "So the lion fell in love with the lamb - Edward Cullen ~ Hinglish meaning of this line  : Aakhir mein sher, 😉 bhed ke bacche ke pyaar mein gir gaya.",
+    "Titanic":
+      "A woman's heart is an ocean of deep secrets - Rose DeWitt ~ Hinglish meaning of this line  : ek aurat ka 🤔dil gehre raaz ka mahasagar hai",
+    "Star Wars":
+      "May the force be with you - Obi-Wan Kenobi ~ Hinglish meaning of this line  : Divya 🤩 Shakti aapke saath ho",
+    "Harry Potter":
+      "I solemnly swear I am up to no good - Weasley Twins ~ Hinglish meaning of this line  : Main 😉satyanishtha se kehta hoon ki kuch accha nahin karne wala",
+    "Godfather":
+      "Confidence is silent, insecurities are loud - Don Corleone ~ Hinglish meaning of this line  : Atmavishwas ☹️ chup hai aur asuraksha zor.",
     "1- The Dark Knight":
       "Some Men Just Want To Watch The World Burn ~ Hinglish meaning of this line  : Kuch log ki kujli tabhi mit ti hain, jab wo duniya ko jalte hue dekhte hai🙂",
     "2-Random ":
@@ -1419,6 +1478,36 @@ generate = () => {
     "10 - Selma":
       "Our lives are not fully lived if we’re not willing to die 🪦 for those we love ❤️, for what we believe. - Martin Luther King Jr. ~ Meaning: Strive to have something worth dying for.",
     
+    "1- Pirates of the Caribbean: Dead Men Tell No Tales":
+    " dead men tell no tales. ~Meaning: A dead person can no longer reveal information, especially information which others wish to keep secret.",
+
+    "2- Pirates of the Caribbean: Dead Man's Chest":
+    "Why Fight 🥊 When You Can Negotiate? ~Meaning: Do not try to win the enemy by fighting when you know you can win 🏆 without it.",
+
+    "3- Pirates of the Caribbean: The Curse of the Black Pearl":
+    "Wherever 🗺️ we want to go, we'll go. ~Meaning: Live life to the fullest and do the things you dream 💭 of doing.",
+
+    "4- Pirates of the Caribbean: The Curse of the Black Pearl":
+    "If you were waiting 🛑 for the opportune moment ⌛, that was it. ~Meaning: Take action as soon as possible, don't wait.",
+
+    "5- X-Men: Dark Pheonix":
+    "My emotions make me strong 💪. ~Meaning: Taking control 🎛️ over your emotion and using it wisely will make you stronger.",
+
+    "6- Logan":
+    "Don't be what they made you. ~Meaning: Don't let anyone control 🎛️ you, you can do whatever you want.",
+
+    "7- X-men: 2000":
+    "Mankind has always feared what it doesn't understand 🤷‍♂️. ~Meaning: Humans fear the things they don't understand and so try to destroy it.",
+
+    "8- The Dark Knight":
+    "If you're good 👍 at something, never do it for free. ~Meaning: If you're really good at a particular skill, that makes you worth something, and if you don't care for it then your skill won't be respected.",
+
+    "9- The Dark Knight":
+    "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
+
+    "10- Rocky Balboa":
+    "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring."
+
   };
 
 
