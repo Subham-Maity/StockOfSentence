@@ -1448,6 +1448,36 @@ generate = () => {
     "23- Titanic":
       "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
 
+    "1 - Kissing a Fool":
+      "Love ❤️ cannot be found where it doesn’t exist, nor can it be hidden where it truly does - David Schwimmer ~ Meaning: Love can be found anywhere as long as people are willing to find it.",
+    
+    "2 - Lion King":
+      "Simba, let me tell you something my father told me. Look at the stars ⭐. The great kings 👑 of the past look down on us from those stars. - Mufasa ~ Meaning: There are always people looking out for you, even if you aren't aware of it.",
+
+    "3 - Lion King":
+      "And so we are all connected in the great circle of life 🌍. - Mufasa ~ Meaning: Our actions impact everyone, even if we remain unaware of it.",
+    
+    "4 - Lion King":
+      "Hakuna Matata. - Pumbaa ~ Meaning: Sometimes in life we need to relax and live as if there are no troubles.",
+    
+    "5 - Lion King":
+      "I guess even a king 👑 gets scared 😱 huh? - Simba ~ Meaning: Everyone gets scared at times and it is alright to admit it.",
+
+    "6 - Lion King":
+      "I just needed to get out on my own 🌎, live my own life. - Simba ~ Meaning: People need to eventually leave home to discover themselves.",
+    
+    "7 - Spiderman No Way Home":
+      "With great power ⚡, there must also come great responsibility - Aunt May ~ Meaning: If you have the ability to do something, do so for the good of others.",
+    
+    "8 - Gone With The Wind":
+      "After all, tomorrow is another day! 🔮 - Vivien Leigh ~ Meaning: Even with a bad day, you can look toward to the future.",
+
+    "9 - Tin Cup":
+      "When a defining moment comes along, you can do one of two things. Define the moment, or let the moment define you. - Roy McAvoy ~ Meaning: Take advantage of opportunities before they slip away.",
+
+    "10 - Selma":
+      "Our lives are not fully lived if we’re not willing to die 🪦 for those we love ❤️, for what we believe. - Martin Luther King Jr. ~ Meaning: Strive to have something worth dying for.",
+    
     "1- Pirates of the Caribbean: Dead Men Tell No Tales":
       " dead men tell no tales. ~Meaning: A dead person can no longer reveal information, especially information which others wish to keep secret.",
 
@@ -1476,7 +1506,8 @@ generate = () => {
       "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
 
     "10- Rocky Balboa":
-      "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring.",
+     
+     "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring.",
 
     "1- Kissing a fool":
       "Love💌 cannot be found where it doesn't exist, nor can be hidden where it truly does❤️. - David Schwimmer ~ Meaning: True feelings cannot be hidden",
@@ -1507,6 +1538,41 @@ generate = () => {
 
     "10- Star Trek: Picard":
       "The road from legitimate suspicion 😒 to rampant paranoia 😵 is very much shorter than we think ⏳️. - Captain Picard ~ Meaning: Sometimes, suspicion leads to us being paranoid."
+
+     "1- The Lion King":
+    "Oh yes, the past can hurt😞. But you can either run from it, or learn from it💯. ~Meaning: Use your past experiences and mistakes as a learning instead of forgetting and not paying attention to them.💪",
+  
+    "2- What a Girl Wants":
+    "Why are you trying so hard to fit in when you were born to stand out🙌? ~Meaning: Accept yourself as who you are👈. Everyone is unique and has different abilities.❤️",
+  
+    "3- The Notebook":
+    "You can't live your life for other people.❌ You've got to do what's right for you, even if it hurts some people you love.✅ ~Meaning: Don't live your live trying to always keep others happy and obeying them. Sometimes you have to standup and back yourself even if it hurts others.😀",
+
+    "4- Harry Potter and the Chamber of Secrets":
+    "It is not our abilities that show what we truly are... it is our choices.⚔️ ~Meaning: Right choices are more impactful than a person's abilities.😤 If you don't make right choices at the right time, our abilities will go in vain.👀",
+
+    "5- Before Sunrise":
+    "Only if you find peace within yourself will you find true connection with others.✌️ ~Meaning: To love others, self love and inner peace is very important.🤗 If you can't connect and talk to yourself, forget about connecting to others.❌",
+
+    "6- The Karate Kid":
+    "Life will knock us down, but we can choose whether or not to stand back up.🥊 ~Meaning: Life is one of the toughest contest.🤺 There will be infinite challenges in life, but it is us who will decide whether to fight them back or just accept them and do nothing about it.🔥 We have the power of controlling our lives, nobody else.🔥",
+
+    "7- Shrek":
+    "After a while, you learn to ignore the names people call you and just trust who you are.🥱 ~Meaning: Initially when people make fun of us, we feel bad and demotivated.👿 But as a person matures, they learn how to ignore it and believe in themselves and their strenghts.😇 It doesn't matter what other people call us, one should have self beleif.🔥",
+
+    "8- Black Hawk Down":
+    "It's what you do right now that makes a difference.🤯~Meaning: Procrastination is the worst enemy.❌ Delaying a work destroys our plan for the long term.❌ If you choose to start something or change something, take action right now to see the effect.✅",
+
+    "9- The Godfather":
+    "Great men are not born great, they grow great.😎 ~Meaning: Hardwork is the key for greatness.🥊 One is not born with a skill, rather one creates it.✅ You can learn any skill you want with hardwork.✋",
+
+    "10- Empire Records":
+    "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬"
+
+    
+
+
+
   };
 
 
