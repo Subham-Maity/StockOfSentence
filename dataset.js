@@ -1309,6 +1309,28 @@ generate = () => {
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
 
+    "Maverick":
+      "I feel the need..the need for speed.  Meaning: You have to master your own fears  😨 before you can master others.",
+    "The Avengers":
+      "I'm a creature of grief and dust and bitter longings. - Loki ~ Hinglish meaning of this line  : Main gham, dhool and kadwe 😣 laalson ka insaan hoon.",
+    "Romeo and Juliet":
+      "Love is heavy and light, bright and dark, hot and cold, sick and healthy, asleep and awake- it's everything except what it is!. - Romeo ~ Hinglish meaning of this line  : Pyaar, 🤩 bhaari aur hulka, roshan aur andhera, garam and thanda, bimar aur tandurust, soya aur jaga hota hai _ sab kuch hokar bhi kuch nahin hota hai!",
+    "Frozen":
+      "Some people are worth melting for - Olaf ~ Hinglish meaning of this line  : Kuch logon ke liye 😊 pighalna toh banta hai",
+    "Incredibles":
+      "I never look back, darling. It distracts from the now. - Edna ~ Hinglish meaning of this line  : Main kabhi peeche  😎 nahin dekhti, who mujhe vartaman se vichlit karta hai, priya",
+    "50 Shades of Grey":
+      "We aim to please - Christian Grey ~ Hinglish meaning of this line  : Aapko tript/santusht 🤗 rakhna humara udeshya hai",
+    "Twilight":
+      "So the lion fell in love with the lamb - Edward Cullen ~ Hinglish meaning of this line  : Aakhir mein sher, 😉 bhed ke bacche ke pyaar mein gir gaya.",
+    "Titanic":
+      "A woman's heart is an ocean of deep secrets - Rose DeWitt ~ Hinglish meaning of this line  : ek aurat ka 🤔dil gehre raaz ka mahasagar hai",
+    "Star Wars":
+      "May the force be with you - Obi-Wan Kenobi ~ Hinglish meaning of this line  : Divya 🤩 Shakti aapke saath ho",
+    "Harry Potter":
+      "I solemnly swear I am up to no good - Weasley Twins ~ Hinglish meaning of this line  : Main 😉satyanishtha se kehta hoon ki kuch accha nahin karne wala",
+    "Godfather":
+      "Confidence is silent, insecurities are loud - Don Corleone ~ Hinglish meaning of this line  : Atmavishwas ☹️ chup hai aur asuraksha zor.",
     "1- The Dark Knight":
       "Some Men Just Want To Watch The World Burn ~ Hinglish meaning of this line  : Kuch log ki kujli tabhi mit ti hain, jab wo duniya ko jalte hue dekhte hai🙂",
     "2-Random ":
