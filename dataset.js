@@ -1388,6 +1388,37 @@ generate = () => {
 
     "23- Titanic":
       "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
+
+    "1 - Kissing a Fool":
+      "Love ❤️ cannot be found where it doesn’t exist, nor can it be hidden where it truly does - David Schwimmer ~ Meaning: Love can be found anywhere as long as people are willing to find it.",
+    
+    "2 - Lion King":
+      "Simba, let me tell you something my father told me. Look at the stars ⭐. The great kings 👑 of the past look down on us from those stars. - Mufasa ~ Meaning: There are always people looking out for you, even if you aren't aware of it.",
+
+    "3 - Lion King":
+      "And so we are all connected in the great circle of life 🌍. - Mufasa ~ Meaning: Our actions impact everyone, even if we remain unaware of it.",
+    
+    "4 - Lion King":
+      "Hakuna Matata. - Pumbaa ~ Meaning: Sometimes in life we need to relax and live as if there are no troubles.",
+    
+    "5 - Lion King":
+      "I guess even a king 👑 gets scared 😱 huh? - Simba ~ Meaning: Everyone gets scared at times and it is alright to admit it.",
+
+    "6 - Lion King":
+      "I just needed to get out on my own 🌎, live my own life. - Simba ~ Meaning: People need to eventually leave home to discover themselves.",
+    
+    "7 - Spiderman No Way Home":
+      "With great power ⚡, there must also come great responsibility - Aunt May ~ Meaning: If you have the ability to do something, do so for the good of others.",
+    
+    "8 - Gone With The Wind":
+      "After all, tomorrow is another day! 🔮 - Vivien Leigh ~ Meaning: Even with a bad day, you can look toward to the future.",
+
+    "9 - Tin Cup":
+      "When a defining moment comes along, you can do one of two things. Define the moment, or let the moment define you. - Roy McAvoy ~ Meaning: Take advantage of opportunities before they slip away.",
+
+    "10 - Selma":
+      "Our lives are not fully lived if we’re not willing to die 🪦 for those we love ❤️, for what we believe. - Martin Luther King Jr. ~ Meaning: Strive to have something worth dying for.",
+    
   };
 
 
