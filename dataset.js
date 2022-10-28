@@ -241,7 +241,6 @@ generate = () => {
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
 
-
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -897,7 +896,6 @@ generate = () => {
     "147-Random":
       "Greed, for lack of a better word, is good👱. - Wall street ~ Meaning :Being greedy ia a good thing.",
 
-
     "148-Random":
       "As God is my witness🧕, I'll never be hungry again. -Gone with the Wind ~ Meaning : He is assuring that he will not be in that bad condition again.",
 
@@ -1346,27 +1344,27 @@ generate = () => {
     "Batman Begins-6":
       "To manipulate the fear 😨 in others, you must first master your own. -  Ra's al Ghul ~ Meaning: You have to master your own fears  😨 before you can master others.",
 
-    "Maverick":
+    Maverick:
       "I feel the need..the need for speed.  Meaning: You have to master your own fears  😨 before you can master others.",
     "The Avengers":
       "I'm a creature of grief and dust and bitter longings. - Loki ~ Hinglish meaning of this line  : Main gham, dhool and kadwe 😣 laalson ka insaan hoon.",
     "Romeo and Juliet":
       "Love is heavy and light, bright and dark, hot and cold, sick and healthy, asleep and awake- it's everything except what it is!. - Romeo ~ Hinglish meaning of this line  : Pyaar, 🤩 bhaari aur hulka, roshan aur andhera, garam and thanda, bimar aur tandurust, soya aur jaga hota hai _ sab kuch hokar bhi kuch nahin hota hai!",
-    "Frozen":
+    Frozen:
       "Some people are worth melting for - Olaf ~ Hinglish meaning of this line  : Kuch logon ke liye 😊 pighalna toh banta hai",
-    "Incredibles":
+    Incredibles:
       "I never look back, darling. It distracts from the now. - Edna ~ Hinglish meaning of this line  : Main kabhi peeche  😎 nahin dekhti, who mujhe vartaman se vichlit karta hai, priya",
     "50 Shades of Grey":
       "We aim to please - Christian Grey ~ Hinglish meaning of this line  : Aapko tript/santusht 🤗 rakhna humara udeshya hai",
-    "Twilight":
+    Twilight:
       "So the lion fell in love with the lamb - Edward Cullen ~ Hinglish meaning of this line  : Aakhir mein sher, 😉 bhed ke bacche ke pyaar mein gir gaya.",
-    "Titanic":
+    Titanic:
       "A woman's heart is an ocean of deep secrets - Rose DeWitt ~ Hinglish meaning of this line  : ek aurat ka 🤔dil gehre raaz ka mahasagar hai",
     "Star Wars":
       "May the force be with you - Obi-Wan Kenobi ~ Hinglish meaning of this line  : Divya 🤩 Shakti aapke saath ho",
     "Harry Potter":
       "I solemnly swear I am up to no good - Weasley Twins ~ Hinglish meaning of this line  : Main 😉satyanishtha se kehta hoon ki kuch accha nahin karne wala",
-    "Godfather":
+    Godfather:
       "Confidence is silent, insecurities are loud - Don Corleone ~ Hinglish meaning of this line  : Atmavishwas ☹️ chup hai aur asuraksha zor.",
     "1- The Dark Knight":
       "Some Men Just Want To Watch The World Burn ~ Hinglish meaning of this line  : Kuch log ki kujli tabhi mit ti hain, jab wo duniya ko jalte hue dekhte hai🙂",
@@ -1450,25 +1448,25 @@ generate = () => {
 
     "1 - Kissing a Fool":
       "Love ❤️ cannot be found where it doesn’t exist, nor can it be hidden where it truly does - David Schwimmer ~ Meaning: Love can be found anywhere as long as people are willing to find it.",
-    
+
     "2 - Lion King":
       "Simba, let me tell you something my father told me. Look at the stars ⭐. The great kings 👑 of the past look down on us from those stars. - Mufasa ~ Meaning: There are always people looking out for you, even if you aren't aware of it.",
 
     "3 - Lion King":
       "And so we are all connected in the great circle of life 🌍. - Mufasa ~ Meaning: Our actions impact everyone, even if we remain unaware of it.",
-    
+
     "4 - Lion King":
       "Hakuna Matata. - Pumbaa ~ Meaning: Sometimes in life we need to relax and live as if there are no troubles.",
-    
+
     "5 - Lion King":
       "I guess even a king 👑 gets scared 😱 huh? - Simba ~ Meaning: Everyone gets scared at times and it is alright to admit it.",
 
     "6 - Lion King":
       "I just needed to get out on my own 🌎, live my own life. - Simba ~ Meaning: People need to eventually leave home to discover themselves.",
-    
+
     "7 - Spiderman No Way Home":
       "With great power ⚡, there must also come great responsibility - Aunt May ~ Meaning: If you have the ability to do something, do so for the good of others.",
-    
+
     "8 - Gone With The Wind":
       "After all, tomorrow is another day! 🔮 - Vivien Leigh ~ Meaning: Even with a bad day, you can look toward to the future.",
 
@@ -1477,7 +1475,7 @@ generate = () => {
 
     "10 - Selma":
       "Our lives are not fully lived if we’re not willing to die 🪦 for those we love ❤️, for what we believe. - Martin Luther King Jr. ~ Meaning: Strive to have something worth dying for.",
-    
+
     "1- Pirates of the Caribbean: Dead Men Tell No Tales":
       " dead men tell no tales. ~Meaning: A dead person can no longer reveal information, especially information which others wish to keep secret.",
 
@@ -1506,8 +1504,7 @@ generate = () => {
       "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
 
     "10- Rocky Balboa":
-     
-     "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring.",
+      "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring.",
 
     "1- Kissing a fool":
       "Love💌 cannot be found where it doesn't exist, nor can be hidden where it truly does❤️. - David Schwimmer ~ Meaning: True feelings cannot be hidden",
@@ -1537,44 +1534,38 @@ generate = () => {
       "I am not a merry man ☹️. - Lieutenant Worf ~ Meaning: It says that we cann't always be happy or merry.",
 
     "10- Star Trek: Picard":
-      "The road from legitimate suspicion 😒 to rampant paranoia 😵 is very much shorter than we think ⏳️. - Captain Picard ~ Meaning: Sometimes, suspicion leads to us being paranoid."
+      "The road from legitimate suspicion 😒 to rampant paranoia 😵 is very much shorter than we think ⏳️. - Captain Picard ~ Meaning: Sometimes, suspicion leads to us being paranoid.",
 
-     "1- The Lion King":
-    "Oh yes, the past can hurt😞. But you can either run from it, or learn from it💯. ~Meaning: Use your past experiences and mistakes as a learning instead of forgetting and not paying attention to them.💪",
-  
+    "1- The Lion King":
+      "Oh yes, the past can hurt😞. But you can either run from it, or learn from it💯. ~Meaning: Use your past experiences and mistakes as a learning instead of forgetting and not paying attention to them.💪",
+
     "2- What a Girl Wants":
-    "Why are you trying so hard to fit in when you were born to stand out🙌? ~Meaning: Accept yourself as who you are👈. Everyone is unique and has different abilities.❤️",
-  
+      "Why are you trying so hard to fit in when you were born to stand out🙌? ~Meaning: Accept yourself as who you are👈. Everyone is unique and has different abilities.❤️",
+
     "3- The Notebook":
-    "You can't live your life for other people.❌ You've got to do what's right for you, even if it hurts some people you love.✅ ~Meaning: Don't live your live trying to always keep others happy and obeying them. Sometimes you have to standup and back yourself even if it hurts others.😀",
+      "You can't live your life for other people.❌ You've got to do what's right for you, even if it hurts some people you love.✅ ~Meaning: Don't live your live trying to always keep others happy and obeying them. Sometimes you have to standup and back yourself even if it hurts others.😀",
 
     "4- Harry Potter and the Chamber of Secrets":
-    "It is not our abilities that show what we truly are... it is our choices.⚔️ ~Meaning: Right choices are more impactful than a person's abilities.😤 If you don't make right choices at the right time, our abilities will go in vain.👀",
+      "It is not our abilities that show what we truly are... it is our choices.⚔️ ~Meaning: Right choices are more impactful than a person's abilities.😤 If you don't make right choices at the right time, our abilities will go in vain.👀",
 
     "5- Before Sunrise":
-    "Only if you find peace within yourself will you find true connection with others.✌️ ~Meaning: To love others, self love and inner peace is very important.🤗 If you can't connect and talk to yourself, forget about connecting to others.❌",
+      "Only if you find peace within yourself will you find true connection with others.✌️ ~Meaning: To love others, self love and inner peace is very important.🤗 If you can't connect and talk to yourself, forget about connecting to others.❌",
 
     "6- The Karate Kid":
-    "Life will knock us down, but we can choose whether or not to stand back up.🥊 ~Meaning: Life is one of the toughest contest.🤺 There will be infinite challenges in life, but it is us who will decide whether to fight them back or just accept them and do nothing about it.🔥 We have the power of controlling our lives, nobody else.🔥",
+      "Life will knock us down, but we can choose whether or not to stand back up.🥊 ~Meaning: Life is one of the toughest contest.🤺 There will be infinite challenges in life, but it is us who will decide whether to fight them back or just accept them and do nothing about it.🔥 We have the power of controlling our lives, nobody else.🔥",
 
     "7- Shrek":
-    "After a while, you learn to ignore the names people call you and just trust who you are.🥱 ~Meaning: Initially when people make fun of us, we feel bad and demotivated.👿 But as a person matures, they learn how to ignore it and believe in themselves and their strenghts.😇 It doesn't matter what other people call us, one should have self beleif.🔥",
+      "After a while, you learn to ignore the names people call you and just trust who you are.🥱 ~Meaning: Initially when people make fun of us, we feel bad and demotivated.👿 But as a person matures, they learn how to ignore it and believe in themselves and their strenghts.😇 It doesn't matter what other people call us, one should have self beleif.🔥",
 
     "8- Black Hawk Down":
-    "It's what you do right now that makes a difference.🤯~Meaning: Procrastination is the worst enemy.❌ Delaying a work destroys our plan for the long term.❌ If you choose to start something or change something, take action right now to see the effect.✅",
+      "It's what you do right now that makes a difference.🤯~Meaning: Procrastination is the worst enemy.❌ Delaying a work destroys our plan for the long term.❌ If you choose to start something or change something, take action right now to see the effect.✅",
 
     "9- The Godfather":
-    "Great men are not born great, they grow great.😎 ~Meaning: Hardwork is the key for greatness.🥊 One is not born with a skill, rather one creates it.✅ You can learn any skill you want with hardwork.✋",
+      "Great men are not born great, they grow great.😎 ~Meaning: Hardwork is the key for greatness.🥊 One is not born with a skill, rather one creates it.✅ You can learn any skill you want with hardwork.✋",
 
     "10- Empire Records":
-    "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬"
-
-    
-
-
-
+      "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬",
   };
-
 
   // grab all the keys in the dictionary (authors) and store in an array
   var authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
