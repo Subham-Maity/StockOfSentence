@@ -1042,6 +1042,47 @@ generate = () => {
     
     "10- The Originals":
     "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
+
+    
+    //1 Motivational
+    "Jennifer E. Smith, Hello, Goodbye, and Everything in Between":
+    "“We keep thinking there are only these two choices: We either grow apart or grow together. But maybe we can just kind of each grow on our own, and see how it goes. And then later, if it’s right, we’ll come back to each other and start again.",
+    
+    //2 Motivational
+    "― Krystal Sutherland, Our Chemical Hearts":
+    " “People are perfect when all that's left of them is memory.”",
+
+    //3 Motivational
+    "― Krystal Sutherland, Our Chemical Hearts":
+    "“Just because a love ends doesn't mean it wasn't real.”",
+
+    //4 Motivational
+    "― Krystal Sutherland, Our Chemical Hearts":
+    "“The best thing the universe ever gave us is that we'll all be forgotten”",
+    
+    //5 Motivational
+    "― Krystal Sutherland, Our Chemical Hearts":
+    "“Stories with happy endings are stories that haven't been finished yet.”",
+
+    //6 Motivational
+    "― Nicola Yoon, Everything, Everything":
+    "“Just because you can’t experience everything doesn’t mean you shouldn’t experience anything.”",
+
+    //7 Motivational
+    "― Jennifer E. Smith, Hello, Goodbye, and Everything in Between":
+    "“Love wasn’t something you could take back. It was like a magic spell: Once you said the words, they were simply out there, shifting and changing everything that had once been true.”",
+
+    //8 Motivational
+    "― Jennifer E. Smith, Hello, Goodbye, and Everything in Between":
+    "“A relationship doesn't have a shot in hell if you start planning its ending before it even starts”",
+
+    //9 Motivational
+    " ― Roger Ebert, Life Itself  ":
+    "“When you're young you don't realize that at every age you are always in the present, and in that sense no older;”",
+
+    //10 Motivational
+    "  ― Roger Ebert, Life Itself ":
+    "“There must be something deep within our memory as a species that is pleased by being able to look at what is making us warm.”",
     
   };
 
