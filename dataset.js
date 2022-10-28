@@ -649,6 +649,111 @@ generate = () => {
     "154- Insightful":
         "Comedy Is Subjective, Murray, Isn't That What They Say? All Of You, The System That Knows So Much: You Decide What's Right Or Wrong The Same Way You Decide What's Funny Or Not. - Joker, 2019 ~ Meaning: Its the people who make up the rules in the society, what need to be done and what not!",
 
+    "155- Movivational ":
+        "The people who are crazy enough to think they can change the world, are the ones who do. – Steve Jobs",
+        
+    "156- Star Wars ":
+        "Train yourself to let go of everything you fear to lose. - Yoda",
+        
+    "157- Motivational ":
+        "Don’t wish it were easier, wish you were better. – Jim Rohn",
+        
+    "159- Motivational ":
+        "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time. – Mark Twain",
+        
+    "160- Motivational ":
+        "Always forgive your enemies; nothing annoys them so much. – Oscar Wilde",
+        
+    "161- Motivational ":
+        "Champions keep playing until they get it right. – Billie Jean King",
+        
+    "162- Motivational ":
+        "Change your thoughts and you change your world. – Norman Vincent Peale",
+        
+    "163- Motivational ":
+        "A ship in harbor is safe, but that is not what ships are built for. – John A. Shedd",
+        
+    "164- Motivational ":
+        "Obsessed is just a word the lazy use to describe the dedicated. – Russell Warren",
+        
+    "165- Motivational ":
+        "You have enemies? Good. That means you’ve stood up for something, sometime in your life. – Winston S. Churchill",
+        
+    "166- Motivational ":
+        "There is only one way to avoid criticism: do nothing, say nothing, and be nothing. – Aristotle",
+        
+    "167- Motivational ":
+        "The best revenge is massive success. – Frank Sinatra",
+        
+    "168- Motivational ":
+        "I am thankful for all of those who said NO to me. Its because of them I’m doing it myself. – Albert Einstein",
+        
+    "169- Motivational ":
+        "The best is the enemy of the good. – Voltaire",
+        
+    "170- Motivational ":
+        "Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever. – Lance Armstrong",
+        
+    "171- Motivational ":
+        "Build your own dreams, or someone else will hire you to build theirs. – Farrah Gray",
+        
+    "172- Motivational ":
+        "Tough times never last, but tough people do. – Dr. Robert Schuller",
+        
+    "173- Motivational ":
+        "That which does not kill us makes us stronger. – Friedrich Nietzsche",
+        
+    "174- Motivational ":
+        "The best way out is always through. – Robert Frost",
+        
+    "175- Motivational ":
+        "Don’t count the days, make the days count. – Muhammad Ali",
+        
+    "176- Motivational ":
+        "Scar tissue is stronger than regular tissue. Realize the strength, move on. – Henry Rollins",
+        
+    "177- Motivational ":
+        "Someday is not a day of the week. – Denise Brennan-Nelson",
+        
+    "178- Motivational ":
+        "If you can’t outplay them, outwork them. – Ben Hogan",
+        
+    "179- Motivational ":
+        "Never interrupt someone doing what you said couldn’t be done. – Amelia Earhart",
+        
+    "180- Motivational ":
+        "It is better to die on your feet than live on your knees. – Emiliano Zapata",
+        
+    "181- Motivational ":
+        "Bravery is not a quality of the body. It is of the soul. – Mahatma Gandhi",
+        
+    "182- Motivational ":
+        "We are here to laugh at the odds and live our lives so well that Death will tremble to take us. – Charles Bukowski",
+        
+    "183- Motivational ":
+        "I got my own back. – Maya Angelou",
+        
+    "184- Motivational ":
+        "Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. – Lao Tzu",
+        
+    "185- Motivational ":
+        "Either I will find a way, or I will make one. – Philip Sidney",
+        
+    "186- Motivational ":
+        "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. – Henry Ford",
+        
+    "187- Motivational ":
+        "Do not pray for an easy life, pray for the strength to endure a difficult one. – Bruce Lee",
+        
+    "188- Motivational ":
+        "Life isn’t about finding yourself. Life is about creating yourself. – George Bernard Shaw",
+        
+    "189- Motivational ":
+        "Everyone has a plan until they get punched in the mouth. – Mike Tyson",
+        
+    "190- Motivational ":
+        "It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived. – George S. Patton",    
+
     "29- Inspirational ":
         "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
     "30- inspirational ":
