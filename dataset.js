@@ -241,7 +241,7 @@ generate = () => {
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
 
-   
+
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -873,43 +873,43 @@ generate = () => {
       "One day its gonna look like it happend overnight! 🎈 - Steve Harvey ~ Meaning: It takes constant amount of hard work that leads to success. day by day, step by step one can lead its way to success!",
     "139 - Random":
       "It's a basic truth of the human condition that everybody lies. The only variable is about what. - Dr. House, 2004 ~ Meaning: Accept it, understand it, and use it to your advantage. When in a group, observe people. Observe what they say and how they react. People often end up lying while boasting about themselves.",
-      "140-Random":
+    "140-Random":
       "I'm gonna make him an offer🎁 he can't refuse😎. - The Godfather ~ Meaning :An amazing offer will be given to him.",
 
-     "141-Random":
+    "141-Random":
       "You don't understand! I coulda had class. I coulda been a contender. I could've been someday, instead of a bum☹️, which is what I am😿. - On the Waterfront ~ Meaning :Now he is disappointed bcz he is a bum but he could be a contender or somebody else or have a class .",
 
-     "142-Random":
+    "142-Random":
       "Toto, I've a feeling we're not in Kansas anymore.😃 - The Wizaard of Oz ~ Meaning : He is explaining his inner feeling that perhaps they are not in danger.",
 
-     "143-Random":
+    "143-Random":
       "Here's looking at you, kid👶 . - Casablanca ~ Meaning : explainig situation that someone is looking at that kid.",
 
-     "144-Random":
+    "144-Random":
       "One morning I shot an elephant🐘 in my pajamas👖. How he got in my pajamas, I don't know. - Animal Crackers ~ Meaning : He is making him fool .",
 
-     "145-Random":
+    "145-Random":
       "There's no crying in baseball!⚽. - A League of Their Own ~ Meaning :Playing Baseball remove all stress.",
 
-     "146-Random":
+    "146-Random":
       "A boy's best friend is his mother👩‍🦰. - Psycho ~ Meaning :True fact.",
 
-     "147-Random":
+    "147-Random":
       "Greed, for lack of a better word, is good👱. - Wall street ~ Meaning :Being greedy ia a good thing.",
 
-    
-     "148-Random":
+
+    "148-Random":
       "As God is my witness🧕, I'll never be hungry again. -Gone with the Wind ~ Meaning : He is assuring that he will not be in that bad condition again.",
 
-     "149-Random":
+    "149-Random":
       "What we've got here is failure to communicate😥. - Cool Hand Luke ~ Meaning :Deal with Failure , communicate and analyse the reason behind failure",
-    
-     "150-Random":
+
+    "150-Random":
       "The stuff that dreams are made of😯. - The Maltese Falcon ~ Meaning :Story of Dream",
-    
-     "151-Random":
+
+    "151-Random":
       "I love the smell of napalm in the morning😃. - Apocalypse Now~ Meaning :smell of napalm is good ",
-    
+
     "1- Cinema Paradiso":
       "Life isn't like in the movies🎬. Life... is much harder.",
 
@@ -1449,34 +1449,64 @@ generate = () => {
       "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
 
     "1- Pirates of the Caribbean: Dead Men Tell No Tales":
-    " dead men tell no tales. ~Meaning: A dead person can no longer reveal information, especially information which others wish to keep secret.",
+      " dead men tell no tales. ~Meaning: A dead person can no longer reveal information, especially information which others wish to keep secret.",
 
     "2- Pirates of the Caribbean: Dead Man's Chest":
-    "Why Fight 🥊 When You Can Negotiate? ~Meaning: Do not try to win the enemy by fighting when you know you can win 🏆 without it.",
+      "Why Fight 🥊 When You Can Negotiate? ~Meaning: Do not try to win the enemy by fighting when you know you can win 🏆 without it.",
 
     "3- Pirates of the Caribbean: The Curse of the Black Pearl":
-    "Wherever 🗺️ we want to go, we'll go. ~Meaning: Live life to the fullest and do the things you dream 💭 of doing.",
+      "Wherever 🗺️ we want to go, we'll go. ~Meaning: Live life to the fullest and do the things you dream 💭 of doing.",
 
     "4- Pirates of the Caribbean: The Curse of the Black Pearl":
-    "If you were waiting 🛑 for the opportune moment ⌛, that was it. ~Meaning: Take action as soon as possible, don't wait.",
+      "If you were waiting 🛑 for the opportune moment ⌛, that was it. ~Meaning: Take action as soon as possible, don't wait.",
 
     "5- X-Men: Dark Pheonix":
-    "My emotions make me strong 💪. ~Meaning: Taking control 🎛️ over your emotion and using it wisely will make you stronger.",
+      "My emotions make me strong 💪. ~Meaning: Taking control 🎛️ over your emotion and using it wisely will make you stronger.",
 
     "6- Logan":
-    "Don't be what they made you. ~Meaning: Don't let anyone control 🎛️ you, you can do whatever you want.",
+      "Don't be what they made you. ~Meaning: Don't let anyone control 🎛️ you, you can do whatever you want.",
 
     "7- X-men: 2000":
-    "Mankind has always feared what it doesn't understand 🤷‍♂️. ~Meaning: Humans fear the things they don't understand and so try to destroy it.",
+      "Mankind has always feared what it doesn't understand 🤷‍♂️. ~Meaning: Humans fear the things they don't understand and so try to destroy it.",
 
     "8- The Dark Knight":
-    "If you're good 👍 at something, never do it for free. ~Meaning: If you're really good at a particular skill, that makes you worth something, and if you don't care for it then your skill won't be respected.",
+      "If you're good 👍 at something, never do it for free. ~Meaning: If you're really good at a particular skill, that makes you worth something, and if you don't care for it then your skill won't be respected.",
 
     "9- The Dark Knight":
-    "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
+      "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
 
     "10- Rocky Balboa":
-    "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring."
+      "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring.",
+
+    "1- Kissing a fool":
+      "Love💌 cannot be found where it doesn't exist, nor can be hidden where it truly does❤️. - David Schwimmer ~ Meaning: True feelings cannot be hidden",
+
+    "2- The Lord of the Rings: The Fellowship of the Ring":
+      "All we have to decide is what to do with the time ⏳️ that is given to us. - Gandalf ~ Meaning: Go with the flow.",
+
+    "3- The Clone Wars":
+      "I thought she meant something to you😌. - Bo-Katan Kryze ~ Meaning: Never let go of someone you find worth keeping around.",
+
+    "4- The Clone Wars":
+      "Good soldiers🪖 follow orders. - Tup ~ Meaning: a good soldier follows orders.",
+
+    "5- The Clone Wars":
+      "If we aren't willing to do what it takes to win, we risk losing everything we try to protect. - Anakin Skywalker ~ Meaning: We need to get out of our comfort zones for suceeding.",
+
+    "6- Star Trek VI: The Undiscovered Country":
+      "Logic🤔 is the beginning of wisdom😇, not the end. -Mr. Spock ~ Meaning: Wisdom begins with logic.",
+
+    "7- Star Trek: The Original Series":
+      "I am a doctor 🩺🥼, not a bricklayer🧱. - Dr. McCoy ~ Meaning: A doctor can't be expected to fight a war.",
+
+    "8- Star Trek: The Original Series":
+      "Emotions are alien👽 to me. I’m a scientist🔬🔬. - Mr. Spock ~ Meaning: a scientist should look to facts instead of emotions.",
+
+    "9- Star Trek: The Original Series":
+      "I am not a merry man ☹️. - Lieutenant Worf ~ Meaning: It says that we cann't always be happy or merry.",
+
+    "10- Star Trek: Picard":
+      "The road from legitimate suspicion 😒 to rampant paranoia 😵 is very much shorter than we think ⏳️. - Captain Picard ~ Meaning: Sometimes, suspicion leads to us being paranoid."
   };
 
 
