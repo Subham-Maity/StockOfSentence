@@ -1506,7 +1506,41 @@ generate = () => {
     "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
 
     "10- Rocky Balboa":
-    "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring."
+
+    "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring.",
+    
+    "1- The Lion King":
+    "Oh yes, the past can hurt😞. But you can either run from it, or learn from it💯. ~Meaning: Use your past experiences and mistakes as a learning instead of forgetting and not paying attention to them.💪",
+  
+    "2- What a Girl Wants":
+    "Why are you trying so hard to fit in when you were born to stand out🙌? ~Meaning: Accept yourself as who you are👈. Everyone is unique and has different abilities.❤️",
+  
+    "3- The Notebook":
+    "You can't live your life for other people.❌ You've got to do what's right for you, even if it hurts some people you love.✅ ~Meaning: Don't live your live trying to always keep others happy and obeying them. Sometimes you have to standup and back yourself even if it hurts others.😀",
+
+    "4- Harry Potter and the Chamber of Secrets":
+    "It is not our abilities that show what we truly are... it is our choices.⚔️ ~Meaning: Right choices are more impactful than a person's abilities.😤 If you don't make right choices at the right time, our abilities will go in vain.👀",
+
+    "5- Before Sunrise":
+    "Only if you find peace within yourself will you find true connection with others.✌️ ~Meaning: To love others, self love and inner peace is very important.🤗 If you can't connect and talk to yourself, forget about connecting to others.❌",
+
+    "6- The Karate Kid":
+    "Life will knock us down, but we can choose whether or not to stand back up.🥊 ~Meaning: Life is one of the toughest contest.🤺 There will be infinite challenges in life, but it is us who will decide whether to fight them back or just accept them and do nothing about it.🔥 We have the power of controlling our lives, nobody else.🔥",
+
+    "7- Shrek":
+    "After a while, you learn to ignore the names people call you and just trust who you are.🥱 ~Meaning: Initially when people make fun of us, we feel bad and demotivated.👿 But as a person matures, they learn how to ignore it and believe in themselves and their strenghts.😇 It doesn't matter what other people call us, one should have self beleif.🔥",
+
+    "8- Black Hawk Down":
+    "It's what you do right now that makes a difference.🤯~Meaning: Procrastination is the worst enemy.❌ Delaying a work destroys our plan for the long term.❌ If you choose to start something or change something, take action right now to see the effect.✅",
+
+    "9- The Godfather":
+    "Great men are not born great, they grow great.😎 ~Meaning: Hardwork is the key for greatness.🥊 One is not born with a skill, rather one creates it.✅ You can learn any skill you want with hardwork.✋",
+
+    "10- Empire Records":
+    "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬"
+
+    
+
 
   };
 
