@@ -241,6 +241,7 @@ generate = () => {
     "62-Random":
       "Learn something about everything and everything about something. - Thomas Huxley ~ Meaning : Always explore lot of fields and know something about it and know everything about that something which you like.",
 
+   
     "1-Harry Potter ":
       "Do not pity the dead⚰️, Pity the living, and, above all those who live without love💘 - Albus Dumbledore ~ Meaning : There are people who live but without love and that is more pitiable, which is why we must spread love at all occasions ",
 
@@ -872,7 +873,43 @@ generate = () => {
       "One day its gonna look like it happend overnight! 🎈 - Steve Harvey ~ Meaning: It takes constant amount of hard work that leads to success. day by day, step by step one can lead its way to success!",
     "139 - Random":
       "It's a basic truth of the human condition that everybody lies. The only variable is about what. - Dr. House, 2004 ~ Meaning: Accept it, understand it, and use it to your advantage. When in a group, observe people. Observe what they say and how they react. People often end up lying while boasting about themselves.",
+      "140-Random":
+      "I'm gonna make him an offer🎁 he can't refuse😎. - The Godfather ~ Meaning :An amazing offer will be given to him.",
 
+     "141-Random":
+      "You don't understand! I coulda had class. I coulda been a contender. I could've been someday, instead of a bum☹️, which is what I am😿. - On the Waterfront ~ Meaning :Now he is disappointed bcz he is a bum but he could be a contender or somebody else or have a class .",
+
+     "142-Random":
+      "Toto, I've a feeling we're not in Kansas anymore.😃 - The Wizaard of Oz ~ Meaning : He is explaining his inner feeling that perhaps they are not in danger.",
+
+     "143-Random":
+      "Here's looking at you, kid👶 . - Casablanca ~ Meaning : explainig situation that someone is looking at that kid.",
+
+     "144-Random":
+      "One morning I shot an elephant🐘 in my pajamas👖. How he got in my pajamas, I don't know. - Animal Crackers ~ Meaning : He is making him fool .",
+
+     "145-Random":
+      "There's no crying in baseball!⚽. - A League of Their Own ~ Meaning :Playing Baseball remove all stress.",
+
+     "146-Random":
+      "A boy's best friend is his mother👩‍🦰. - Psycho ~ Meaning :True fact.",
+
+     "147-Random":
+      "Greed, for lack of a better word, is good👱. - Wall street ~ Meaning :Being greedy ia a good thing.",
+
+    
+     "148-Random":
+      "As God is my witness🧕, I'll never be hungry again. -Gone with the Wind ~ Meaning : He is assuring that he will not be in that bad condition again.",
+
+     "149-Random":
+      "What we've got here is failure to communicate😥. - Cool Hand Luke ~ Meaning :Deal with Failure , communicate and analyse the reason behind failure",
+    
+     "150-Random":
+      "The stuff that dreams are made of😯. - The Maltese Falcon ~ Meaning :Story of Dream",
+    
+     "151-Random":
+      "I love the smell of napalm in the morning😃. - Apocalypse Now~ Meaning :smell of napalm is good ",
+    
     "1- Cinema Paradiso":
       "Life isn't like in the movies🎬. Life... is much harder.",
 
