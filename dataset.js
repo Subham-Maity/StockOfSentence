@@ -1410,6 +1410,36 @@ generate = () => {
 
     "23- Titanic":
       "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
+
+    "1- Pirates of the Caribbean: Dead Men Tell No Tales":
+    " dead men tell no tales. ~Meaning: A dead person can no longer reveal information, especially information which others wish to keep secret.",
+
+    "2- Pirates of the Caribbean: Dead Man's Chest":
+    "Why Fight 🥊 When You Can Negotiate? ~Meaning: Do not try to win the enemy by fighting when you know you can win 🏆 without it.",
+
+    "3- Pirates of the Caribbean: The Curse of the Black Pearl":
+    "Wherever 🗺️ we want to go, we'll go. ~Meaning: Live life to the fullest and do the things you dream 💭 of doing.",
+
+    "4- Pirates of the Caribbean: The Curse of the Black Pearl":
+    "If you were waiting 🛑 for the opportune moment ⌛, that was it. ~Meaning: Take action as soon as possible, don't wait.",
+
+    "5- X-Men: Dark Pheonix":
+    "My emotions make me strong 💪. ~Meaning: Taking control 🎛️ over your emotion and using it wisely will make you stronger.",
+
+    "6- Logan":
+    "Don't be what they made you. ~Meaning: Don't let anyone control 🎛️ you, you can do whatever you want.",
+
+    "7- X-men: 2000":
+    "Mankind has always feared what it doesn't understand 🤷‍♂️. ~Meaning: Humans fear the things they don't understand and so try to destroy it.",
+
+    "8- The Dark Knight":
+    "If you're good 👍 at something, never do it for free. ~Meaning: If you're really good at a particular skill, that makes you worth something, and if you don't care for it then your skill won't be respected.",
+
+    "9- The Dark Knight":
+    "Some people want to see you fail. Disappoint them. ~Meaning : Ignore your enemies unfair tricks and always.",
+
+    "10- Rocky Balboa":
+    "It ain't about how hard you hit🤕. It's about how hard you can get hit and keep moving forward🚶‍♂️; how much you can take and keep moving forward. That's how winning is done. ~Meaning: Never give up, you lose only when you stop tring."
   };
 
 
