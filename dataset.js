@@ -21,6 +21,9 @@ generate = () => {
     "1-Ig: The Knowledge Spreader":
         "Keep it down  ~ Hinglish meaning of this line  : Thoda kam shor Machao😔 ",
 
+        "1218310-Ig: The Knowledge Spreader":
+        "Keep it down  ~ Hinglish meaning of this line  : Thoda kam shor Machao😔 ",
+
     "2-Ig: The Knowledge Spreader":
         "Latch/bolt the door  ~ Hinglish meaning of this line  : Kundi laga do 😊",
 
