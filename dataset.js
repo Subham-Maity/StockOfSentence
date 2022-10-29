@@ -515,7 +515,7 @@ generate = () => {
         "I’m just a simple man trying to make my way in the universe.” – Jango Fett, Star Wars - Attack of the clones ~ Meaning: Everyone is looking for their path in the world🚶‍♂️🌍",
 
     "119- Star Wars ":
-        "No one’s ever really gone. – Luke Skywalker, The Last Jedi,  ~ Meaning: Even if someone is dead we will have them in our mind☠🤔",
+        "No one’s ever really gone. – Luke Skywalker, The Last Jedi,  ~ Meaning: Even if someone is dead we will have them in our mind☠🤔 ",
 
     "120- Harry Potter ":
         "It is impossible to manufacture or imitate love. – Horace Slughorn, Harry Potter and the Half-Blood Prince ~ Meaning: We cannot act like true love❤️",
@@ -648,6 +648,54 @@ generate = () => {
 
     "154- Insightful":
         "Comedy Is Subjective, Murray, Isn't That What They Say? All Of You, The System That Knows So Much: You Decide What's Right Or Wrong The Same Way You Decide What's Funny Or Not. - Joker, 2019 ~ Meaning: Its the people who make up the rules in the society, what need to be done and what not!",
+
+    "155- Movivational ":
+        "The people 🙍🏻‍♂️ do who are crazy enough to think they can change the world 🌍, are the ones who do 🙌. - Steve Jobs ~ Meaning : It takes courage 💪 and bravery to change the world🌍",
+        
+    "156- Star Wars ":
+        "Train yourself 💪 to let go of everything you fear 😱 to lose. - Yoda ~ Meaning : 💪 Overcome your fears 😱",
+        
+    "157- Motivational ":
+        "Don’t wish it were easier, wish you were better . - Jim Rohn ~ Meaning : Focus on being better next time 🔮",
+        
+    "158- Motivational ":
+        "The fear 😱 of death follows from the fear of life🖤. A man who lives fully is prepared to die 💀 at any time⌛. – Mark Twain ~ Meaning : Do not let the fear of death control your life",
+        
+    "159- Motivational ":
+        "Always forgive your enemies; nothing annoys 😡 them so much. - Oscar Wilde ~ Meaning : Even forgivenes 🙏 will bother your enemies",
+        
+    "160- Motivational ":
+        "Champions 🏆 keep playing until they get it right ✔️ . - Billie Jean King ~ Meaning : Practice makes perfect 🥇",
+        
+    "161- Motivational ": 
+        "Change your thoughts 🤔 and you change your world 🌍.  Norman Vincent Peale ~ Meaning : Your thoughts control your world 🌍",
+        
+    "162- Motivational ":
+        "I am thankful 🙏 for all of those who said NO 🚫 to me. Its because of them I'm doing it myself. - Albert Einstein ~ Meaning : Let the people who said NO, motivate you",
+        
+    "163- Motivational ":
+        "The best 🏆 is the enemy of the good. - Voltaire ~ Meaning : Perfection is the enemy of good",
+        
+    "164- Motivational ":
+        "Pain 😢 is temporary ⌛. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever. - Lance Armstrong ~ Meaning : There will always be challenges in life, in different spahes and forms.",
+        
+    "165- Motivational ":
+        "Build 🧱 🛠 your own dreams 🤯, or someone else will hire 💵 you to build theirs. - Farrah Gray ~ Meaning : Take charge or be lead",
+        
+    "166- Motivational ":
+        "Tough times never last, but tough people do 💪. - Dr. Robert Schuller ~ Meaning : Tough people endure tough times",
+        
+    "167- Motivational ":
+        "That which does not kill 🔪🔪🔪  us makes us stronger 🧠💪. - Friedrich Nietzsche ~ Meaning : The more we survive, the stronger 💪 we get",
+        
+    "168- Motivational ":
+        "The best way out is always through 🧱. - Robert Frost ~ Meaning : Face the greatest challenge that is in front of you 🙌🏃‍♂️",
+        
+    "169- Motivational ":
+        "Don't count the days 📆, make the days count 🏆. – Muhammad Ali ~ Meaning : Do not watch your life go by ⌛",
+        
+    "170- Motivational ":
+        "Someday 📆 is not a day of the week. – Denise Brennan-Nelson ~ Meaning : You must plan your goals 🏆",  
 
     "29- Inspirational ":
         "Do✔️or do not❌. There is no “try.” – Yoda, Star Wars: The Empire Strikes Back✨.~ Meaning: This quote is a reminder that to achieve our goals, we need to take action and not just talk about them",
