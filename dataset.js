@@ -1613,6 +1613,16 @@ generate = () => {
 
     "10- Empire Records":
         "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬",
+    "11- Titanic": 
+        "When you got nothing,you got nothing to lose.😎 ~Meaning: It is easier for one to take risks and to chase his dreams with a mindset that he has nothing to lose.✌️",
+    "12- The Theory of Everything":
+        "However bad life may seem,there is always something you can do, and succeed at.✌️While there's life, there is hope. 👍 ~Meaning : It doesn't matter how bad is your situation .😣If you try ,you will surely do something better in your life.💪",
+    "13- Moneyball":
+        "Hard work may not always result in success but it will never result in the regret. ✅  ~Meaning: You can't guarantee success in anything you do, but you can guarantee your own efforts to achieve the goal.💯 That is entirely on you and no one else. 😎 ",
+
+
+
+
   };
 
   // grab all the keys in the dictionary (authors) and store in an array
