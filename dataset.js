@@ -1655,7 +1655,27 @@ generate = () => {
 
     "10- Empire Records":
         "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬",
-  };
+        "1- The Lion King":
+        "Oh yes, the past can hurt. But you can either run 🏃‍♂️ from it, or learn 📗 from it. ~Meaning: Use your past experiences and mistakes as a learning instead of forgetting and not paying attention to them.",
+      "1- Persuit of Happyness":
+        "The balance in your life 🌱 is more important than the balance in your checking account 🧾. ~Meaning: Money is not everything. You need to have a balance in your life. 🌱",
+      "2- Persuit of Happyness":
+        "You can’t let your failures define you 🙅‍♂️. You have to let your failures teach you. ~Meaning: Dont  🙅‍♂️ give up after failure. Learn from your mistakes and try again.",
+      "3- Persuit of Happyness":
+        "You have to be willing to make mistakes. ~Meaning: Dont 🙅‍♂️ be afraid of making mistakes. You will learn 📗 from them.",
+      "4- Persuit of Happyness":
+        "It’s okay to fail; it’s not okay to quit. ~Meaning: Failure is part of life but quiting is not.",
+      "5- Persuit of Happyness":
+        "I am not what happened to me, I am what I choose to become. ~Meaning: Dont  🙅‍♂️ let your past define you. You can change your future.",
+      "6- Persuit of Happyness":
+        "Don’t just talk that talk, walk 🚶‍♂️ it and go forward. Also, the walk didn’t have to be long strides; baby steps counted too. Go forward. ~Meaning: Dont just talk about your dreams, take action and go forward.",
+      "7- Persuit of Happyness":
+        "Others may look for all kinds of ways to diminish your worth. But what is inside you no one can take from you or tarnish with their words. ~Meaning: Dont  🙅‍♂️ let others bring you down. You are special.",
+      "8- Persuit of Happyness":
+        "There is no plan  🙅‍♂️ B for passion. ~Meaning: If you are passionate about something, dont give up.",
+      "9- Persuit of Happyness":
+        "Don’t  🙅‍♂️ ever let someone tell you, you  🙅‍♂️ can’t do something. Not even me. You got a 👀 dream, you got to protect 🥊 it. People can’t do something themselves, they want to tell you you can’t do it. You want something, go get it. Period. ~Meaning: Dont let anyone tell you that you cant do something. If you want something, go get it.",
+    };
 
   // grab all the keys in the dictionary (authors) and store in an array
   let authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
