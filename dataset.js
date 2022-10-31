@@ -1253,9 +1253,50 @@ generate = () => {
         "Smiling doesn't always mean you're happy. Sometimes it simply means that you are a strong person. - Elena Gilbert",
 
     "10- The Originals":
-        "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
 
-    "1- Avengers: Endgame":
+    "Being kind doesn’t make you weak. - Hayley Marshall, ~ Meaning: it takes courage, empathy and strength to be kind.",
+
+    
+    "1-  Hello, Goodbye, and Everything in Between":
+    "“We keep thinking🤔 there are only these two choices: We either grow apart or grow together. But maybe we can just kind of each grow on our own, and see how it goes. And then later, if it’s right😇, we’ll come back to each other and start again.🥰 -Jennifer E. Smith, ~Meaning: It's all about choices we make in our life either the good or bad whle in relationship🤞 we grow as a individual and partner.💏 ",
+    
+    
+    "2― Our Chemical Hearts":
+    " “People are perfect when all that's left of them is memory.” -Krystal Sutherland, ~Meaning: Sometimes we lost😞 our loved one's but their memory keeps us alive ",
+
+    
+    "3― Our Chemical Hearts":
+    "“Just because a love ends😭 doesn't mean it wasn't real.” -Krystal Sutherland, Meaning: It's just that we can't fake a true love ❤️ even the relationship is ended. fallin 💔 apart doesn't mean the love, care for you is ended",
+
+    
+    "4― Our Chemical Hearts":
+    "“The best thing the universe💫 ever gave us is that we'll all be forgotten” -Krystal Sutherland, ~Meaning: The depth of the dialouge is too beautiful, One day we All are going to Perish but whats gonna remain is our love, care and best 👣imprints(memories)",
+    
+    
+    "5― Our Chemical Hearts":
+    "“Stories with happy😄 endings are stories that haven't been finished yet.”  -Krystal Sutherland, ~Meaning: The story lines has many ups and downs but The character gets a hopes🙌 when someone who understands her with all the imperfection and past. ",
+
+    
+    "6― Everything, Everything":
+    "“Just because you can’t experience everything doesn’t mean you shouldn’t🚫 experience anything.” -Nicola Yoon, ~Meaning: here In life We have short span of time so we can't experience each and every thing but we can experince all those thing which comes across to are life to the fullest, Never regret😔 or setback yourself",
+
+    
+    "7― Hello, Goodbye, and Everything in Between":
+    "“Love wasn’t something you could take back. It was like a magic spell: Once you said the words, they were simply out there, shifting and changing everything that had once been true.” -Jennifer E. Smith, ~Meaning: Expressing your love in any form with all your heart is magical. A true love doesn't need words but to be expressed elegantly. ",
+
+    
+    "8― Goodbye, and Everything in Between":
+    "“A relationship🥰 doesn't have a shot in hell if you start planning its ending before it even starts” -Jennifer E. Smith, Hello,",
+
+    
+    "9― Life Itself  ":
+    "“When you're young you don't❌ realize that at every age you are always in the present, and in that sense no older;” -Roger Ebert, ~Meaning: In life we have many stages and We must live those stages to the most either bad or good, just live the present.✴️ ",
+
+    
+    "10― Life Itself ":
+    "“There must be something deep within our memory as a species that is pleased👏 by being able to look at what is making us warm.🥵” -Roger Ebert, ~Meaning: Our memories are the best belonging we take with ourselves ",
+    
+     "1- Avengers: Endgame":
         "Part of the journey is the end 🔚. - Tony Stark, ~ Meaning: Every journey in our life has to come to an end.",
 
     "2- Avengers: Endgame":
@@ -1493,6 +1534,7 @@ generate = () => {
 
     "23- Titanic":
         "I figure life’s a gift and I don’t intend on wasting it. You don’t know what hand you’re gonna get dealt next. You learn to take life as it comes at you… to make each day count. ~Meaning: Not to waste life, and live each moment to the fullest.",
+
 
     "1 - Kissing a Fool":
         "Love ❤️ cannot be found where it doesn’t exist, nor can it be hidden where it truly does - David Schwimmer ~ Meaning: Love can be found anywhere as long as people are willing to find it.",
