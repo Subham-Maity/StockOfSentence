@@ -1655,6 +1655,7 @@ generate = () => {
 
     "10- Empire Records":
         "I don't regret the things I've done, but those I did not do.😬 ~Meaning: Oppurtunity knowcks only once.☝️ If you fail to grab it, you will regret it forever, even more than all the wrongs you regret doing in the past.😬",
+
         "1- The Lion King":
         "Oh yes, the past can hurt. But you can either run 🏃‍♂️ from it, or learn 📗 from it. ~Meaning: Use your past experiences and mistakes as a learning instead of forgetting and not paying attention to them.",
       "1- Persuit of Happyness":
@@ -1675,7 +1676,29 @@ generate = () => {
         "There is no plan  🙅‍♂️ B for passion. ~Meaning: If you are passionate about something, dont give up.",
       "9- Persuit of Happyness":
         "Don’t  🙅‍♂️ ever let someone tell you, you  🙅‍♂️ can’t do something. Not even me. You got a 👀 dream, you got to protect 🥊 it. People can’t do something themselves, they want to tell you you can’t do it. You want something, go get it. Period. ~Meaning: Dont let anyone tell you that you cant do something. If you want something, go get it.",
-    };
+    "11- Titanic": 
+        "When you got nothing,you got nothing to lose.😎 ~Meaning: It is easier for one to take risks and to chase his dreams with a mindset that he has nothing to lose.✌️",
+    "12- The Theory of Everything":
+        "However bad life may seem,there is always something you can do, and succeed at.✌️While there's life, there is hope. 👍 ~Meaning : It doesn't matter how bad is your situation .😣If you try ,you will surely do something better in your life.💪",
+    "13- Moneyball":
+        "Hard work may not always result in success but it will never result in the regret. ✅  ~Meaning: You can't guarantee success in anything you do, but you can guarantee your own efforts to achieve the goal.💯 That is entirely on you and no one else. 😎 ",
+    "14- Peaky Blinders":
+        "Your only limit is your mind.🧠 ~Meaning :  We are only limited by the limits we allow our own mind to impose on us.🤯 We can convert your mind into an ally which will spur us on to succeed against all odds.💪",
+    "15- Fight Club":
+        "Without sacrifice,without pain, we would have nothing.0️⃣ ~Meaning: Once we learn to overcome pain and make sacrifices , the path for accomplishing goals is cleared ,and nothing can come in the way.💯",
+    "16- Harry Potter and the Chamber of Secrets" :
+        "It is not our abilities that show what we truly are, it is our choices. ✅ ~Meaning:When we make the choice to grow, try harder, be open to possibilities, we become more than the sum of our past abilities.😎",
+    "17- The Karate Kid":
+        "Life will knock us down,but we can choose whether or no to stand backup.☝️ ~Meaning : When life gets tough on you, you have the choice to face it and try harder or you can let hard time eat you up.⏳",
+    "18- Robin Hood":
+        "Rise and rise again, until lambs become lions.✊ ~Meaning: Never give up, no matter the odds.❌ Keep fighting because one day your current circumstances will change and you will no longer feel powerless.💪",
+    "19- Rocky Balboa":
+        "It is not about how hard you hit.👊 It is about how hard you can get hit and keep moving forward.✌️ ~Meaning: It is about the journey and decisions we take through the process.✅  If we decide to stay with perseverance and hard work,the rewards will be long-term.💯",
+        
+    "20- Good Will Hunting":
+        "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍"   
+  };
+
 
   // grab all the keys in the dictionary (authors) and store in an array
   let authors = Object.keys(myData); //authors is an array of all the keys in the dictionary myData
