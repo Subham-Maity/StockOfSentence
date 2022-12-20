@@ -1696,7 +1696,37 @@ generate = () => {
         "It is not about how hard you hit.👊 It is about how hard you can get hit and keep moving forward.✌️ ~Meaning: It is about the journey and decisions we take through the process.✅  If we decide to stay with perseverance and hard work,the rewards will be long-term.💯",
         
     "20- Good Will Hunting":
-        "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍"   
+        "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍"
+    
+    "21- The Shawshank Redemption": 
+        "Hope is a good thing🎉, maybe the best of things, and no good thing ever dies. ~Meaning: You should never give up hope because it will always be there if you look for it.🤩"
+    
+    "22- Titanic": 
+        "The greatest thing you'll ever learn 🏫 is just to love 💖 and be loved in return.” ~Meaning: Love is the most important lesson that we can learn in life, allowing us to experience true happiness 😊 and joy in our relationships with others."
+
+    "23- The Silence of the Lambs": 
+        "It rubs the lotion on its skin or else it gets the hose again 🔁. ~Meaning: If someone doesn't take proactive measures to prevent trouble 💀, then more trouble will come their way soon enough."
+
+    "24- Avatar":
+        "We are all connected 👪. ~Meaning : Everything has some sort of connection 💘 , either directly or indirectly."
+
+    "25- Pirates Of The Caribbean":
+        "The problem isn't that there is evil 👿 in this world ;The problem is that there's no good 💖 left. ~Meaning : Evil seems to be overpowering everything around us making it difficult for good people 🤼 to prevail."
+
+    "26- Magnum Force": 
+        "A man has got to know 🙅🏿‍♂️ his limitations”  ~Meaning: One must realize their own physical 😭 and mental limits."
+
+    "27- Dirty Dancing": 
+        "Nobody puts Baby 👶🏿 in the corner”  ~Meaning: One should stand 🧍‍♂️ up for themself in a situation 🎃 of disrespect or unfairness."
+
+    "28- Jaws": 
+    "We're gonna need a bigger boat 🚤 ~Meaning: Referring unforeseen obstacle 🧱 encountered exciting yet scary adventure requiring additional resources reinforce plans order ensure safe passage completion task goal desired end state successfully achieved accomodated accordingly."
+
+    "29- Apollo": 
+        "Houston we have a problem ~Meaning: Signaling warning 💀 alarming serious incident has occured threatening paramount importance 🔚."
+
+    "30- Serendipity": 
+        "Sometimes You Put Walls 🧱 Up Not To Keep People Out, But To See Who Cares 💅🏿 Enough To Break Through ~Meaning that sometimes relationships 💘 need effort put forth in order to be successful or meaningful." 
   };
 
 
