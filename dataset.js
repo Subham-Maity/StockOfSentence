@@ -1696,8 +1696,142 @@ generate = () => {
         "It is not about how hard you hit.👊 It is about how hard you can get hit and keep moving forward.✌️ ~Meaning: It is about the journey and decisions we take through the process.✅  If we decide to stay with perseverance and hard work,the rewards will be long-term.💯",
         
     "20- Good Will Hunting":
-        "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍"   
-  };
+        "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍",
+        "21- The Shawshank Redemption":
+        "Hope is a good thing, maybe the best of things.😊 And no good thing ever dies.🌸 ~Meaning: Hope is a powerful emotion that can keep us going through difficult times. It is an enduring force that can sustain us even in the darkest of moments.💪",
+        
+    "22- The Godfather":
+        "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This famous line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰",
+        
+    "23- Forrest Gump":
+        "Mama always said life was like a box of chocolates.🍫 You never know what you're gonna get.🤔 ~Meaning: This means that life is unpredictable and you can never really know what's going to happen next. It is a reminder to be prepared for anything and to not take anything for granted.🙏",
+        
+    "24- Pulp Fiction":
+        "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men.😠 Blessed is he, who in the name of charity and good will, shepherds the weak through the valley of darkness.🕯 ~Meaning: This quote means that it is the duty of a righteous person to help those who are weaker and in need, even if it means facing challenges and hardships along the way.🙏",
+        
+    "25- The Dark Knight":
+        "Why so serious?😜 Let's put a smile on that face!😁 ~Meaning: This line, spoken by the Joker, is a menacing threat to the person he is speaking to. It is a warning that he is not to be taken lightly and that he will do whatever it takes to get what he wants.😈",
+
+    "26- Titanic":
+"I'll never let go, Jack.💔 I'll never let go.💔 ~Meaning: This line, spoken by Rose, means that she will never give up on Jack or their love for each other, no matter what obstacles they face.💖",
+
+
+"27- The Lion King":
+"Hakuna Matata.🦁 It means no worries.😌 ~Meaning: This famous line from The Lion King means to not worry about problems or stress, and to take things as they come. It is a reminder to enjoy life and not get bogged down by negative thoughts.😊",
+
+"28- The Princess Bride":
+"My name is Inigo Montoya.😎 You killed my father.😠 Prepare to die.🗡 ~Meaning: This line, spoken by Inigo Montoya, is a declaration of his intention to seek revenge against the person who killed his father. It is a warning that he is determined to confront and defeat his enemy.💪",
+
+"29- Mean Girls":
+"You can't sit with us.😒 ~Meaning: This line, spoken by the Plastics in Mean Girls, means that the person being spoken to is not welcome to join their group or social circle. It is a way of excluding someone and reinforcing social hierarchies.😒",
+
+"30- The Wizard of Oz":
+"Toto, I've a feeling we're not in Kansas anymore.🌪 ~Meaning: This line, spoken by Dorothy, means that she is in a completely unfamiliar place and that things are not as they seem. It is a metaphor for feeling lost or out of place.😔",
+
+"31- The Matrix":
+"I know kung fu.🥋 ~Meaning: This line, spoken by Neo, means that he has mastered the martial art of kung fu. It is a metaphor for being highly skilled or proficient in a particular area.💪",
+
+"32- Fight Club":
+"The first rule of Fight Club is: you do not talk about Fight Club.🤐 ~Meaning: This line means that the members of Fight Club are sworn to secrecy and are not allowed to reveal the existence of the club to anyone outside of it. It is a way of maintaining secrecy and exclusivity.🤫",
+
+"33- The Godfather Part II":
+"I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰",
+
+"34- The Big Lebowski":
+"The Dude abides.😎 ~Meaning: This line, spoken by Jeff Bridges' character The Dude in The Big Lebowski, means that he is going to go with the flow and not let minor setbacks or annoyances get in his way. It is a way of saying that he is laid-back and easy-going.😌",
+
+"35- Jurassic Park":
+"Dinosaurs and man, two species separated by 65 million years of evolution have just been suddenly thrown back into the mix together.😱 How can we possibly have the slightest idea of what to expect?🤔 ~Meaning: This line, spoken by Dr. Ian Malcolm, means that the introduction of dinosaurs into the modern world is a huge and unpredictable change that will have a major impact on the future. It is a warning that we should be cautious and prepared for the unknown.🤔",
+
+"36- Jurassic Park":
+"Life, uh, finds a way.🦖 ~Meaning: This line, spoken by Dr. Ian Malcolm, means that no matter how difficult the circumstances may be, life always finds a way to survive and thrive. It is a reminder that living things are resilient and adaptable.🌱",
+
+"37- The Silence of the Lambs":
+
+"I ate his liver with some fava beans and a nice chianti.🍷 ~Meaning: This line, spoken by Hannibal Lecter, means that he ate the liver of his victim with some fava beans and a glass of wine. It is a way of describing his meal in a gruesome and disturbing way.🤢",
+
+"37- The Silence of the Lambs":
+    "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.😈 ~Meaning: This line, spoken by the character Hannibal Lecter, is a gruesome way of saying that he is not to be messed with. It is a threat and a warning to not underestimate him.😨",
+    
+"38- The Hunger Games":
+    "May the odds be ever in your favor.🍀 ~Meaning: This line, spoken by the characters in The Hunger Games, means to wish someone luck and success. It is a way of hoping that things will go in their favor and that they will overcome any challenges they may face.🤞",
+    
+"39- The Social Network":
+    "You don't get to 500 million friends without making a few enemies.💔 ~Meaning: This line means that as you become more successful and popular, you are likely to make some enemies along the way. It is a reminder that with success comes conflict and competition.🤝",
+    
+"40- The Dark Knight Rises":
+    "It's not who I am underneath, but what I do that defines me.🦸‍♂️ ~Meaning: This line, spoken by Batman, means that it is not our appearance or circumstances that define us, but rather our actions and choices. It is a reminder that we have the power to shape our own identity and legacy.💪",
+    
+"41- The Matrix Reloaded":
+    "I am the One.💪 ~Meaning: This line, spoken by Neo, means that he is the person chosen to save humanity from the Matrix. It is a declaration of his special role and destiny.🦸‍♂️",
+    
+"42- Inception":
+    "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.💡 ~Meaning: This line means that ideas have the power to shape and influence us, and that we should be careful about the ideas we allow to take root in our minds. It is a reminder to be mindful of the thoughts we entertain.🧠",
+    
+"43- The Terminator":
+    "I'll be back.💪 ~Meaning: This line, spoken by the character of the Terminator, means that he will return and continue pursuing his goal, no matter what obstacles he may face. It is a declaration of determination and persistence.🤖",
+    
+"44- The Avengers":
+    "There's only one God, ma'am, and I'm pretty sure he doesn't dress like that.😂 ~Meaning: This line, spoken by Captain America, means that the character he is speaking to is not divine or all-powerful. It is a way of poking fun at their delusions of grandeur and reminding them of their limitations.😉",
+
+"45- Frozen":
+    "Do you want to build a snowman ?🤔 ~Meaning: This line, spoken by the character of Elsa, means that she wants to play with her sister. It is a way of asking her sister if she wants to play with her.🤗",
+    
+"46- Frozen":
+    "Let it go, let it go.😌 Can't hold it back anymore.💪 ~Meaning: This line, from the song Let It Go in Frozen, means to let go of negative emotions or situations and move on. It is a reminder to not let the past hold us back and to embrace change and growth.🌸",
+    
+"47- Harry Potter and the Sorcerer's Stone":
+    "It does not do well to dwell on dreams and forget to live.🌈 ~Meaning: This line, spoken by Dumbledore, means that it is important to not get too caught up in our fantasies and to remember to live in the present moment. It is a reminder to be mindful and not let our dreams consume us.🧠",
+    
+"48- E.T. the Extra-Terrestrial":
+    "E.T. phone home.📞 ~Meaning: This line, spoken by the character E.T., means that he wants to contact his home planet or family. It is a way of expressing a desire to reconnect with loved ones.😢",
+    
+"49- The Hunger Games: Catching Fire":
+    "May the odds be ever in your favor.🍀 ~Meaning: This line, spoken by the characters in The Hunger Games, means to wish someone luck and success. It is a way of hoping that things will go in their favor and that they will overcome any challenges they may face.🤞",
+    
+"50- The Truman Show":
+    "We accept the reality of the world with which we are presented.😔 ~Meaning: This line means that we tend to accept the things we see and experience as true and real, without questioning them. It is a reminder to be skeptical and to not blindly accept what we are told.🤔",
+    
+"51- Pulp Fiction":
+    "Zed's dead, baby. Zed's dead.😱 ~Meaning: This line, spoken by Vincent Vega, means that the character Zed has been killed. It is a way of announcing someone's death or demise.😵",
+    
+"52- A Clockwork Orange":
+    "I was cured, all right.😌 ~Meaning: This line, spoken by the character Alex, means that he has undergone some kind of treatment or therapy that has changed his behavior. It is a way of saying that he is no longer the same person he used to be.😔",
+    
+"53- The Shawshank Redemption":
+    "Get busy living, or get busy dying.💀 ~Meaning: This line, spoken by Andy Dufresne, means that we have a choice to either make the most of our lives or give up and succumb to despair. It is a reminder to embrace life and not waste it.🌸",
+    
+"54- The Godfather":
+    "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰"
+
+    
+
+    
+    
+
+
+        
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    };
 
 
   // grab all the keys in the dictionary (authors) and store in an array
