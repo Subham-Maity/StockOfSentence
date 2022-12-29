@@ -1802,10 +1802,44 @@ generate = () => {
     "Get busy living, or get busy dying.💀 ~Meaning: This line, spoken by Andy Dufresne, means that we have a choice to either make the most of our lives or give up and succumb to despair. It is a reminder to embrace life and not waste it.🌸",
     
 "54- The Godfather":
-    "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰"
+    "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other pers on cannot refuse. It is a way of saying that the offer is too good to pass up.🤑",
 
+"55- The Princess Bride":
+    "Hello. My name is Inigo Montoya.😎 You killed my father.😠 Prepare to die.🗡 ~Meaning: This line, spoken by the character Inigo Montoya, means that he is going to avenge his father's death. It is a declaration of vengeance and a warning to the person he is speaking to.😡",
+
+"56- The Princess Bride":
+    "As you wish.😊 ~Meaning: This line, spoken by the character Westley, means that he will do whatever the person he is speaking to asks of him. It is a way of expressing devotion and loyalty.😍",
     
+"57- The Incredibles":
+    "No matter how many times you save the world, it always manages to get back in jeopardy again.😱 Sometimes I just want it to stay saved!😩 You know, for a little bit?🤨 I feel like the maid; I just cleaned up this mess! Can we keep it clean for... ten minutes!😫 ~Meaning: This line, spoken by the character Mr. Incredible, means that despite our best efforts, problems and challenges always seem to arise. It is a way of expressing frustration with the endless cycle of saving the world and the desire for a break from it.😴",
+    
+"58- The Dark Knight":
+    "Why so serious?😜 Let's put a smile on that face!😁 ~Meaning: This line, spoken by the Joker, is a menacing threat to the person he is speaking to. It is a warning that he is not to be taken lightly and that he will do whatever it takes to get what he wants.😈",
+    
+"59- The Silence of the Lambs":
+    "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.😈 ~Meaning: This line, spoken by the character Hannibal Lecter, is a gruesome way of saying that he is not to be messed with. It is a threat and a warning to not underestimate him.😨",
+    
+"60- The Lion King":
+    "Hakuna Matata.🦁 It means no worries.😌 ~Meaning: This famous line from The Lion King means to not worry about problems or stress, and to take things as they come. It is a reminder to enjoy life and not get bogged down by negative thoughts.😊",
+    
+"61- Harry Potter and the Chamber of Secrets":
+    "It is our choices, Harry, that show what we truly are, far more than our abilities.🧙‍♂️ ~Meaning: This line, spoken by Dumbledore, means that it is our decisions and actions that define us, not our abilities or talents. It is a reminder to be mindful of the choices we make and to strive to be our best selves.🌟",
+    
+"62- Good Will Hunting":
+    "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍"   ,
+    
+"63- Rocky Balboa":
+    "It is not about how hard you hit.👊 It is about how hard you can get hit and keep moving forward.✌️ ~Meaning: It is about the journey and decisions we take through the process.✅  If we decide to stay with perseverance and hard work,the rewards will be long-term.💯",
 
+ "65- The Matrix":
+    "I know kung fu.🥋 ~Meaning: This line, spoken by Neo, means that he has mastered the martial art of kung fu. It is a metaphor for being highly skilled or proficient in a particular area.💪",   
+    
+"66- The Shawshank Redemption":
+    "Hope is a good thing, maybe the best of things.😊 And no good thing ever dies.🌸 ~Meaning: Hope is a powerful emotion that can keep us going through difficult times. It is an enduring force that can sustain us even in the darkest of moments.💪",
+    
+"67- The Godfather":
+    "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰"
+      
     
     
 
