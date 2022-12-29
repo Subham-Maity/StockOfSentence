@@ -7,11 +7,15 @@
 
 
 
-V0.5 is a beta version's video, so it is possible that more features will be added to the main website in the future; always check the [Website](https://subham-maity.github.io/StockOfSentence/).
+V0.5 is a beta version's video, so it is possible that more features will be added to the main website in the future; Be sure to check back on the [Website](https://subham-maity.github.io/StockOfSentence/) for updates and new features.
+
+
 <div align="center">
 
 
 https://user-images.githubusercontent.com/97989643/195848594-73c8eca6-821c-4b9e-b9ea-b0afb7cc4ad2.mp4
+
+
 
 
 
@@ -22,17 +26,20 @@ https://user-images.githubusercontent.com/97989643/195848594-73c8eca6-821c-4b9e-
 
 <div align="center"> <h2> 2. How does this app benefit us ? 😲</h2></div>
 
-<h3> • You might find some interesting sentences or dialogue, or idioms in movies and books, now you can store them in the <b><u>app's database</u></b>, and it will help you recall them by generating random sentences from your stored data 📚</h3>
 
-<h4> <b> ~ Note: <i> The unique design with the music will help you remember the word for a long time just turn on the music and feel the background and read the sentence 10 times, and on that day, all you need to do is recall that today's sentence at least 10 times.  </i></b> </h4>
 
+<h3> We are building an app that helps you store and recall interesting sentences, dialogue, idioms, and more from movies, books, and other sources. With our unique design and accompanying music, you can easily remember the words and phrases you've saved in the app's database.📚</h3>
 
 
 <div align="center"> <h2> 3. Could you please tell me how I can add my sentence to this website? ? 😲</h2></div>
 
-- **Make sure you open the project in an IDE such as** [Webstorm](https://www.jetbrains.com/webstorm/) **or** [VSCode](https://code.visualstudio.com/).
-- **Open the dataset.js file.**
-- **And add your sentence according to the format given below.**
+
+
+**To contribute to the project, simply open the project in an IDE such as Webstorm or VSCode, and edit the dataset.js file to add your sentence in the specified format.** 
+
+[Webstorm](https://www.jetbrains.com/webstorm/) **&** [VSCode](https://code.visualstudio.com/).
+ 
+
 <p align="center" >
         <img src="https://user-images.githubusercontent.com/97989643/195846580-1146bca2-6663-4cd6-b5d2-30464deb823f.png" width="845" height="520" /> </p>
 
