@@ -1832,6 +1832,12 @@ generate = () => {
 "66- The Shawshank Redemption":
     "Hope is a good thing, maybe the best of things.😊 And no good thing ever dies.🌸 ~Meaning: Hope is a powerful emotion that can keep us going through difficult times. It is an enduring force that can sustain us even in the darkest of moments.💪",
     
+"67- The Godfather":
+    "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰",
+
+
+
+        
 "68- Forrest Gump":
     "Mama always said life was like a box of chocolates.😋 You never know what you're gonna get.😶 ~Meaning: This line means that life is unpredictable and that we can never be certain of what is going to happen next. It is a reminder to be open to the unknown and to be ready for whatever comes our way.🤷‍♂️",
 
@@ -1843,8 +1849,6 @@ generate = () => {
 
     
 
-
-        
 
   
   
