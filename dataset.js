@@ -1697,14 +1697,9 @@ generate = () => {
         
     "20- Good Will Hunting":
         "You will have bad times , but it will always wake you up to the good stuff you were not paying attention to.😶  ~Meaning: Bad times are an inevitability of life and it is only through the loss of something, we believe we had, that we awaken to its value.✅  You don't know what you've got til it's gone.👍",
-        "21- The Shawshank Redemption":
-        "Hope is a good thing, maybe the best of things.😊 And no good thing ever dies.🌸 ~Meaning: Hope is a powerful emotion that can keep us going through difficult times. It is an enduring force that can sustain us even in the darkest of moments.💪",
-        
+
     "22- The Godfather":
         "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This famous line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰",
-        
-    "23- Forrest Gump":
-        "Mama always said life was like a box of chocolates.🍫 You never know what you're gonna get.🤔 ~Meaning: This means that life is unpredictable and you can never really know what's going to happen next. It is a reminder to be prepared for anything and to not take anything for granted.🙏",
         
     "24- Pulp Fiction":
         "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men.😠 Blessed is he, who in the name of charity and good will, shepherds the weak through the valley of darkness.🕯 ~Meaning: This quote means that it is the duty of a righteous person to help those who are weaker and in need, even if it means facing challenges and hardships along the way.🙏",
@@ -1837,10 +1832,15 @@ generate = () => {
 "66- The Shawshank Redemption":
     "Hope is a good thing, maybe the best of things.😊 And no good thing ever dies.🌸 ~Meaning: Hope is a powerful emotion that can keep us going through difficult times. It is an enduring force that can sustain us even in the darkest of moments.💪",
     
-"67- The Godfather":
-    "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰"
-      
-    
+"68- Forrest Gump":
+    "Mama always said life was like a box of chocolates.😋 You never know what you're gonna get.😶 ~Meaning: This line means that life is unpredictable and that we can never be certain of what is going to happen next. It is a reminder to be open to the unknown and to be ready for whatever comes our way.🤷‍♂️",
+
+"69- The Wizard of Oz":
+    "Toto, I've a feeling we're not in Kansas anymore.🌪 ~Meaning: This line, spoken by Dorothy, means that she is in a completely unfamiliar place and that things are not as they seem. It is a metaphor for feeling lost or out of place.😔",
+   
+
+
+
     
 
 
