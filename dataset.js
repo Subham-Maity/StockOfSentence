@@ -1840,9 +1840,6 @@ generate = () => {
 "67- The Godfather":
     "I'm gonna make him an offer he can't refuse.🤑 ~Meaning: This line means that the speaker is going to present an offer that the other person will not be able to turn down, either because it is too good to pass up or because they will face negative consequences if they do not accept it.💰",
 
-"68- Game Of Thrones":
-     "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you."
-    
 
 
         
