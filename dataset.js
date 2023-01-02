@@ -1839,7 +1839,7 @@ generate = () => {
     "Toto, I've a feeling we're not in Kansas anymore.🌪 ~Meaning: This line, spoken by Dorothy, means that she is in a completely unfamiliar place and that things are not as they seem. It is a metaphor for feeling lost or out of place.😔",
 
 "70- Game Of Thrones":
-    "A small man can cast a very huge shadow 🌟 ",
+    "A small man can cast a very huge shadow 🌟  ",
    
 
 
