@@ -1859,7 +1859,13 @@ generate = () => {
   
   
   
-     };
+  
+  
+  
+  
+  
+  
+    };
 
 
   // grab all the keys in the dictionary (authors) and store in an array
